@@ -34,6 +34,30 @@ Feel free to contact us for more information, report bugs and errors, or simply 
 We would be pleased to learn how others are using our work.
 If you are interested in collaborating with us, please get in touch with the lead developer of each resource listed below.
 
+
+## ZenSVI
+
+![](zensvi.png)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | An open-source Python package to streamline your projects relying on Street View Imagery (SVI), from their download to analysis. |
+| Lead developer: | {{% mention "koichi" %}} |
+| Further reading: | Please read the [paper](https://doi.org/10.1016/j.compenvurbsys.2025.102283) published in CEUS |
+| Code: | [<i class="fab fa-github"></i>  Github repo](https://github.com/koito19960406/ZenSVI) |
+| Documentation: | [<i class="fa-solid fa-book"></i>  Website](https://zensvi.readthedocs.io/en/latest/index.html) |
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2025_ceus_zensvi,
+  author = {Ito, Koichi and Zhu, Yihan and Abdelrahman, Mahmoud and Liang, Xiucheng and Fan, Zicheng and Hou, Yujun and Zhao, Tianhong and Ma, Rui and Fujiwara, Kunihiko and Ouyang, Jiani and Quintana, Matias and Biljecki, Filip},
+  doi = {10.1016/j.compenvurbsys.2025.102283},
+  journal = {Computers, Environment and Urban Systems},
+  pages = {102283},
+  title = {ZenSVI: An open-source software for the integrated acquisition, processing and analysis of street view imagery towards scalable urban science},
+  volume = {119},
+  year = {2025}
+}
+{{< /spoiler >}}|
+
 ## Nighttime Street View Imagery
 
 ![](nighttime-svi.jpg)
