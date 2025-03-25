@@ -34,7 +34,7 @@ We are glad to share our new paper:
 
 > Zhu Y, Zhang Y, Biljecki F (2025): Understanding the user perspective on urban public spaces: A systematic review and opportunities for machine learning. Cities, 156: 105535. [<i class="ai ai-doi-square ai"></i> 10.1016/j.cities.2024.105535](https://doi.org/10.1016/j.cities.2024.105535) [<i class="far fa-file-pdf"></i> PDF](/publication/2025-cities-userperspective/2025-cities-userperspective.pdf)</i> <i class="ai ai-open-access-square ai"></i>
 
-This research was led by [Yihan Zhu](https://www.linkedin.com/in/%E7%9B%8A%E9%9F%A9-%E7%A5%9D-695319161/).
+This research was led by {{% mention "yihan" %}}.
 Congratulations on his new publication that is part of his PhD! :raised_hands: :clap:
 
 The paper is available open access.

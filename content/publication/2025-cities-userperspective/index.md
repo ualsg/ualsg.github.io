@@ -7,7 +7,7 @@ title: 'Understanding the user perspective on urban public spaces: A systematic 
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Yihan Zhu
+- yihan
 - Ye Zhang
 - filip
 

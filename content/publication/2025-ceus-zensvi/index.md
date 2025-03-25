@@ -8,7 +8,7 @@ title: 'ZenSVI: An open-source software for the integrated acquisition, processi
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - koichi
-- Yihan Zhu
+- yihan
 - mahmoud
 - xiucheng
 - zicheng
