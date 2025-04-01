@@ -1,7 +1,7 @@
 ---
 title: ZenSVI
 summary: An open-source Python package to streamline your projects relying on Street View Imagery (SVI), from their download to analysis.
-authors: [koichi, Yihan Zhu, mahmoud, xiucheng, zicheng, yujun, tianhong, rui-ma, kunihiko, ouyang-jiani, matias, filip]
+authors: [koichi, yihan, mahmoud, xiucheng, zicheng, yujun, tianhong, rui-ma, kunihiko, ouyang-jiani, matias, filip]
 profile: true  # Show author profile?
 date: 2025-03-23T12:30:16+08:00
 lastmod: 2025-03-23T12:30:16+08:00
