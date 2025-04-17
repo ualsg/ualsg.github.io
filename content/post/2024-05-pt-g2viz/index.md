@@ -31,7 +31,7 @@ image:
 
 We are glad to share a new collaborative paper:
 
-> Para S, Wirotsasithon T, Jundee T, Demissie MG, Sekimoto Y, Biljecki F, Phithakkitnukoon S (2024): G2Viz: an online tool for visualizing and analyzing a public transit system from GTFS data. _Public Transport_. [<i class="ai ai-doi-square ai"></i> 10.1007/s12469-024-00362-x](https://doi.org/10.1007/s12469-024-00362-x) [<i class="far fa-file-pdf"></i> PDF](/publication/2024-pt-g-2-viz/2024-pt-g-2-viz.pdf)</i>
+> Para S, Wirotsasithon T, Jundee T, Demissie MG, Sekimoto Y, Biljecki F, Phithakkitnukoon S (2024): G2Viz: an online tool for visualizing and analyzing a public transit system from GTFS data. _Public Transport_ 16(3): 893-928. [<i class="ai ai-doi-square ai"></i> 10.1007/s12469-024-00362-x](https://doi.org/10.1007/s12469-024-00362-x) [<i class="far fa-file-pdf"></i> PDF](/publication/2024-pt-g-2-viz/2024-pt-g-2-viz.pdf)</i>
 
 This research was led by the group of [Santi Phithakkitnukoon](https://cpemis.eng.cmu.ac.th/~santi/) from Chiang Mai University.
 
@@ -57,6 +57,9 @@ BibTeX citation:
   author = {Para, Sirapop and Wirotsasithon, Thanachok and Jundee, Thanisorn and Demissie, Merkebe Getachew and Sekimoto, Yoshihide and Biljecki, Filip and Phithakkitnukoon, Santi},
   doi = {10.1007/s12469-024-00362-x},
   journal = {Public Transport},
+  volume = {16},
+  number = {3},
+  pages = {893--928},
   title = {G2Viz: an online tool for visualizing and analyzing a public transit system from GTFS data},
   year = {2024}
 }
