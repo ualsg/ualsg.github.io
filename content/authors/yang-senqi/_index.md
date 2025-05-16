@@ -65,7 +65,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Research Staff and Doctoral Researchers
-- People
+- Alumni
 ---
 
 Senqi Yang is a PhD candidate at Eindhoven University of Technology, Netherlands, specializing in urban and architectural design, human factors research, and data-driven urban decision-making. Her research focuses on modeling and simulating pedestrians’ perceptions, emotions, and microscopic activities in public spaces. By integrating econometric models, spatial analysis, virtual reality, and agent-based modeling, her work aims to advance human-centered environmental design and the development of digital twin of citizens. At UAL, Senqi will continue her research on urban public space perceptions, leveraging computational models and spatial analytics to explore how urban environments influence human experiences and preferences.

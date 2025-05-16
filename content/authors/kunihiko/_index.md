@@ -68,7 +68,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 # - Postdoctoral Research Fellows
-- People
+- Alumni
 ---
 
 Dr. Kunihiko Fujiwara is a Visiting Research Fellow in the Urban Analytics Lab at NUS.
