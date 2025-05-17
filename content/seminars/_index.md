@@ -22,6 +22,21 @@ For the full list of events at our [NUS Department of Architecture](https://cde.
 
 Please note that, to facilitate an enhanced atmosphere, engagement and interaction, the talks are only in-person at our [NUS College of Design and Engineering](https://cde.nus.edu.sg) (they are not streamed online) and they are not recorded.
 
+For announcements, please follow our [LinkedIn account](https://www.linkedin.com/company/urban-analytics-lab/).
+
+---
+
+### 2025-07-14 --- Multimodal Earth Vision and Artificial Intelligence Techniques for Natural Hazard Risk and Impact Assessment
+
+By [Christian Geiß](https://scholar.google.de/citations?user=aajz_MgAAAAJ&hl=en),
+[Earth Observation Center](https://www.dlr.de/en/eoc/),
+[German Aerospace Center](https://www.dlr.de/en),
+Germany
+
+Global changes encompass human-driven alterations to the Earth system. These changes include increasing urbanization and the frequent increase of exposure and vulnerability with respect to natural hazards such as earthquakes, tsunamis, or flood events. Existing models often allow solely a very coarse estimation of risks as they rely on either highly aggregated or outdated input data. This situation is exacerbated as urbanization processes dramatically reshape settlement areas within a very short timeframe. Consequently, it is often challenging to quantify and anticipate the risks and potential consequences of natural hazards. In this context, I demonstrate the use of artificial intelligence techniques in conjunction with innovative geospatial data for natural hazard risk and impact assessment.
+
+![](2025-07-14.jpg)
+
 ---
 
 ### 2025-02-14 --- Towards GeoAI Foundation Models: Unlocking Spatial Knowledge through Vision-Language Models
