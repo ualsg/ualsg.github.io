@@ -39,6 +39,32 @@ Global changes encompass human-driven alterations to the Earth system. These cha
 
 ---
 
+### 2025-06-05 --- Urban 3D Modeling and Applications in the Era of Foundation Models
+
+By [Wufan Zhao](https://wufan-zhao.github.io/),
+[Urban Governance and Design Thrust](https://soch.hkust-gz.edu.cn/academics/ugod/),
+[The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/),
+China
+
+Foundation models are transforming how cities are sensed, modeled, and understood. This presentation focuses on urban 3D modeling in the era of large-scale AI, highlighting how vision-language models, 3D generative architectures, and remote sensing foundation models enhance spatial understanding and semantic reasoning. Through a series of research cases—including 3D city scene reconstruction and generation, height estimation from remote sensing images, 3D change detection under complex urban dynamics, cross-scene point cloud segmentation, and immersive VR-based evaluation of 3D environments—the talk gives a framework of “modeling–perception–dynamic analysis” to demonstrate how foundation models support the automated construction, interpretation, and assessment of scalable, fine-grained, and semantically rich city models. These advances enable new applications in digital twins, climate simulation, and urban planning. The presentation also reflects on key challenges such as multi-source data alignment, generalization across geography and sensors, and real-time performance, offering a forward-looking perspective on AI-driven, human-centered urban modeling.
+
+![](2025-06-05-wz.jpg)
+
+---
+
+### 2025-06-05 --- Mapping the Unseen: GeoAI-Empowered Spatial Sensing and Analytics for Urban Villages in China
+
+By [Rui Cao](https://caorui.space/),
+[Urban Governance and Design Thrust](https://soch.hkust-gz.edu.cn/academics/ugod/),
+[The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/),
+China
+
+Urban villages, informal settlements embedded within China's rapidly expanding cities, pose significant challenges for sustainable urban development. Despite their socio-spatial importance, the lack of reliable geospatial data continues to hinder evidence-based governance and effective upgrading strategies. This talk will begin with a systematic overview of the current progress in urban village mapping across China, identifying key challenges and outlining future research directions. It will then introduce our preliminary research efforts aimed at addressing these challenges. These efforts include methodological innovations for delineating geospatial boundaries and extracting fine-grained building and road infrastructure data, thereby establishing a foundational geospatial data infrastructure to support urban village analytics. Building on this foundation, the talk will also present our work on population profiling, dynamic land use change analysis, livability assessments, and disaster response within urban village contexts. Our research not only enhances the understanding and governance of urban villages in China but also contributes valuable insights to the global discourse on informal settlement mapping and supports progress toward the United Nations’ Sustainable Development Goals (SDGs).
+
+![](2025-06-05-rc.jpg)
+
+---
+
 ### 2025-02-14 --- Towards GeoAI Foundation Models: Unlocking Spatial Knowledge through Vision-Language Models
 
 By [Meiliu Wu](https://www.gla.ac.uk/schools/ges/staff/meiliuwu/),
