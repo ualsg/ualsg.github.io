@@ -96,16 +96,20 @@ user_groups:
 Dr Filip Biljecki is jointly appointed as faculty at the Department of Architecture (College of Design and Engineering) and the Department of Real Estate (NUS Business School) at the National University of Singapore.
 He is the founder and the principal investigator of the [NUS Urban Analytics Lab](/).
 In 2020 [he was appointed]({{< ref "/post/2020-07-filip-pyp/index.md" >}}) as NUS Presidential Young Professor.
-Filip has published more than 130 peer-reviewed articles.
+Filip has published more than 150 peer-reviewed articles.
 At NUS he has been awarded for teaching and research multiple times, and has supervised dozens of students leading them to publications in leading journals and placements at top universities and organisations.
-He delivered talks at more than 100 universities and organisations worldwide, e.g. MIT, Stanford, Harvard, Berkeley, Peking, Tsinghua, University of Tokyo, Princeton, Hong Kong University, Seoul National University, and ETH Zurich.
+He delivered talks at more than 120 universities and organisations worldwide, e.g. MIT, Stanford, Harvard, Berkeley, Peking, Tsinghua, University of Tokyo, Princeton, University of Hong Kong, Seoul National University, and ETH Zurich.
 
 His background is in Geomatic engineering.
 Filip holds a [PhD degree](https://filipbiljecki.com/phd.html) (with highest honours) in 3D GIS from the Delft University of Technology in the Netherlands, where he also did an MSc in Geomatics.
 In between, he accummulated industry experience as well, and has served as a consultant for companies and governments in the implementation of spatial data infrastructures.
 The list of his publications is available [here](https://filipbiljecki.com/#publications).
 
-### Additional appointments
+### Additional appointments and service
+
+* [Computers, Environment and Urban Systems](https://www.sciencedirect.com/journal/computers-environment-and-urban-systems) -- Associate Editor
+* [Landscape and Urban Planning](https://www.journals.elsevier.com/landscape-and-urban-planning) -- Subject Associate Editor (Urban Analytics)
+* [Cities](https://www.sciencedirect.com/journal/cities) -- Editorial Board Member
 * [Open Geospatial Consortium](https://www.ogc.org), [3DIM DWG](https://www.ogc.org/projects/groups/3dimdwg) -- Co-Chair
 * [International Society for Photogrammetry and Remote Sensing](https://www.isprs.org), [WG IV/1: Spatial Data Representation and Interoperability](https://www2.isprs.org/commissions/comm4/wg1/) -- Chair
 * [Future Cities Lab Global at the Singapore-ETH Centre](https://sec.ethz.ch/research/fcl.html) -- Principal Investigator
@@ -113,15 +117,15 @@ The list of his publications is available [here](https://filipbiljecki.com/#publ
 * [NUS Institute of Data Science](https://ids.nus.edu.sg) -- Faculty Affiliate
 * [NUS Sustainable and Green Finance Institute](https://sgfin.nus.edu.sg) -- Research Affiliate
 * [NUS Institute of Real Estate and Urban Studies](https://ireus.nus.edu.sg) -- Research Affiliate
-* [Landscape and Urban Planning](https://www.journals.elsevier.com/landscape-and-urban-planning) -- Editorial Board Member
 * [Scientific Data](https://www.nature.com/sdata/) -- Editorial Board Member
 * [Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671) -- Editorial Board Member
 * [PLOS ONE](https://journals.plos.org/plosone/) -- Academic Editor for Geoinformatics
-* [International Journal of Digital Innovation in the Built Environment](https://www.igi-global.com/journal/international-journal-digital-innovation-built/224363) -- Editorial Board Member
-* [Open Geospatial Data, Standards and Software](https://opengeospatialdata.springeropen.com/) -- Editorial Board Member (2018-2021)
 * [World Economic Forum](https://www.weforum.org/), Global Future Council on Cities and Urbanization -- Fellow (2018-2020)
 
 ### Awards and honours (selected)
+
+* Annual Teaching Excellence Award (ATEA), 2025
+* College Educator Award AY2023/2024, 2025
 * 3D GeoInfo best paper award, 2023
 * Urban Informatics Paper of the Year Award, 2023
 * CDE Young Researcher Award (NUS), 2023

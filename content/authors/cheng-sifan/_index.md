@@ -59,7 +59,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Research Staff and Doctoral Researchers
-- People
+- Alumni
 ---
 
 Sifan is a PhD candidate in the School of Architecture, The Chinese University of Hong Kong (CUHK), and a Computational Social Science Lab (CSSL) Fellowship recipient in the Faculty of Social Science, CUHK.
