@@ -31,7 +31,9 @@ projects: []
 ---
 
 
-![](1.png)
+[![](1.png)](https://www.sciencedirect.com/special-issue/322127/open-urban-data-science)
+
+
 
 We are organising a unique special issue in [CEUS](https://www.sciencedirect.com/journal/computers-environment-and-urban-systems).
 The [Call for Papers](https://www.sciencedirect.com/special-issue/322127/open-urban-data-science) is copied below.
