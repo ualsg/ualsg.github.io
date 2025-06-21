@@ -22,7 +22,22 @@ For the full list of events at our [NUS Department of Architecture](https://cde.
 
 Please note that, to facilitate an enhanced atmosphere, engagement and interaction, the talks are only in-person at our [NUS College of Design and Engineering](https://cde.nus.edu.sg) (they are not streamed online) and they are not recorded.
 
-For announcements, please follow our [LinkedIn account](https://www.linkedin.com/company/urban-analytics-lab/).
+For updates, please follow our [LinkedIn account](https://www.linkedin.com/company/urban-analytics-lab/).
+
+---
+
+### 2025-07-23 --- Evaluating Urban Ventilation Corridor through Mobile Air Quality Monitoring and Environmental Justice
+
+By [Ye Tian](https://people.ucd.ie/ye.tian),
+[School of Geography](https://www.ucd.ie/geography/),
+[University College Dublin](https://www.ucd.ie),
+Ireland
+
+More than 99% of the population's exposure to air pollution exceeds WHO guidelines, and approximately 4.2 million deaths are attributed to ambient air pollution annually. Fortunately, effective urban ventilation can facilitate the dispersion of air pollutants and mitigate potential health hazards. This need arises from the desire to gain detailed insights into the distribution of Urban Ventilation Corridors (UVCs) and their effects on air pollution dispersion, as well as to facilitate effective management strategies. 
+This talk will introduce the UVC extraction through 2D and 3D urban morphological elements and UVC evaluation by: 1). comparing hyperlocal spatiotemporal variation of air pollutants through mobile monitoring; 2). quantifying the environmental justice of air pollution exposure for different socio-economic communities; and 3). leveraging the explainable machine learning models (GeoAI, Geospatial Artificial Intelligence) to predict air pollution levels and evaluate the UVC effects in detail. 
+
+
+![](2025-07-23.jpg)
 
 ---
 

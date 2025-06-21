@@ -19,16 +19,16 @@ Interested in joining us? This page contains more information and some tips, inc
 
 ## What are the general requirements and what makes an application excel
 
-This pretty much depends on the nature of the position and career stage, but in general, here are some of the criteria that enter into consideration when assessing applicants, especially those with academic experience, and may help your application stand out:
+This pretty much depends on the nature of the position and career stage, but in general, here are some of the criteria that enter into consideration when assessing applicants, especially those who already have academic experience, and may help your application stand out:
 
-+ Perceived commitment and fit in our group (e.g. evident from a tailored cover letter with an elaborated narrative that is compatible with our current research agenda and builds upon our recent publications).
-+ Compatibility/match of the expertise of the candidate with the research developed in our group and complementarity.
++ Perceived commitment and fit in our group, department and university (e.g. evident from a tailored cover letter with an elaborated narrative that is compatible with our current research agenda and builds upon our recent publications).
++ Compatibility/match of the expertise of the candidate with the actitivies and research developed in our group and complementarity.
 + The candidate's ownership in a line of research and evident momentum in output and novelty in research activities so far and their impact (e.g. publications in leading international journals in the last few years, their citations, and impact/relevance in the broad scientific community). The publication record should be commensurate with years of experience (for entry-level researchers such as prospective PhD students, there is no such expectation but having a paper is a plus).
-+ Visibility and proactivity in scholarly communication (e.g. having a personal website with up to date information about one's work and research agenda, as we expect our scientists to be visible, take ownership of their work, and promote it internationally).
-+ Evidence of coding/computational level to support the research and an indication of open science practices (e.g. visible from a developed GitHub repository or open-source package, and availability of reproducible workflows and having released open datasets).
++ Visibility and proactivity in scholarly communication (e.g. having a GitHub repository or a personal website with up to date information about one's work and research agenda, as we expect our scientists to be visible, take ownership of their work, and promote it internationally).
++ Evidence of coding/computational level to support the research and an indication of open science practices (ideally visible from a developed GitHub repository or open-source package, and availability of reproducible workflows and having released open datasets).
 + Quality of the written English and materials provided, and communication skills. 
 + Community engagement and participation in local or international initiatives (e.g. workshops, talks, membership in working groups/societies).
-+ Evidence of independence, self-motivation, and proactivity.
++ Indication of independence, self-motivation, and proactivity.
 
 ## Why us
 
@@ -38,15 +38,15 @@ It aspires to be a vital community of academics, researchers, staff, students an
 [Singapore](https://en.wikipedia.org/wiki/Singapore) is a cosmopolitan English-speaking city-state bridging the East and the West.
 It is considered as the [#1 most competitive country](https://www.straitstimes.com/business/s-pore-reclaims-top-spot-in-world-competitiveness-ranking-after-three-years) and the [safest country in the world](https://mothership.sg/2018/05/singapore-safest-country/), [successfully attracting talents from all parts of the globe](https://www.straitstimes.com/singapore/singapore-retains-top-spot-in-asia-pacific-index-for-talent-competitiveness) by offering first-class living and working experience in the heart of Southeast Asia, and a very clean and efficient environment and unparalleled infrastructure.
 Residents enjoy also great food and weather.
-Overall, Singapore provides a fulfilling professional and personal experience in a liveable garden city.
+Overall, Singapore provides a fulfilling professional and personal experience in a liveable garden city that is rarely found in the English speaking world.
 
-New researchers joining our group have an opportunity to work on research initiatives in the domains of the Lab (e.g. urban informatics, digital twins, 3D GIS, street view imagery, crowdsourced data, GeoAI, data quality and harmonisation, and GIScience) as part of existing or upcoming projects, and will have a chance to produce high-impact research.
+Researchers joining our group have an opportunity to work on research initiatives in the domains of the Lab as part of existing or upcoming projects, and will have a chance to produce high-impact research.
 At the same time, researchers have flexibility to explore their interests and establish their agenda.
-Overall, being part of our Lab presents a rare opportunity in Singapore and this part of Asia to be involved in the entire geospatial ecosystem under the same roof: from standardisation and generation of geoinformation all the way to their utilisation and visualisation, while continuously exploring new frontiers in the field such as interface with AI and domains such as urban planning, mobility, energy, and climate.
+Overall, being part of our Lab presents a rare opportunity in Singapore and this part of Asia to be involved in the entire geospatial ecosystem under the same roof: from standardisation and generation of geoinformation all the way to their utilisation and visualisation, while continuously exploring new frontiers in the field such as interface with AI and domains such as urban planning, mobility, energy, and climate to make cities better and more data-driven.
 
 We believe that our university, college, and research group provide a motivating, conducive, and flexible environment to explore the candidate's interests, build relevant skills, and develop world-class research required to attain a PhD degree or further qualifications at a research-intensive university such as NUS.
 Our productive and collaborative setting enables you to integrate your project with existing ones and leverage on our network and other activities to turbocharge your research.
-Further, our lab provides a nice academic network that grants a front row opportunity to connect and collaborate with renowned international researchers.
+Further, our lab provides an academic network that grants a front row opportunity to connect and collaborate with renowned international researchers.
 In addition, PhD students are encouraged to go for exchange opportunities too.
 
 Our small and friendly Lab is located at SDE4, [the first newly-built net-zero energy building in Singapore]({{< ref "/post/2020-12-sde4-ilfi/index.md" >}}), and the first university building in the world to be [WELL Certified Gold](https://www.wellcertified.com/).
@@ -230,8 +230,10 @@ Yes, we do. For more information, please read the content above.
 
 {{< spoiler text="I see from the website that your department offers only a PhD in Architecture, but I am interested in what you folks do. Is there some other PhD degree you offer?" >}}
 PhD degrees at NUS are not awarded by research groups, they are managed by higher levels such as the department and graduate school.
-PhD programmes at NUS follow the nomenclature of the hosting departments, thus, if you pursue a PhD on a topic in this domain (i.e. urban analytics, etc.) and under the supervision of the PI of the group, it will be nominally part of the PhD in Architecture programme, since we are part of the Department of Architecture. The department and its PhD cohort work on a wide array of topics, and the PhD _per se_ is not necessarily squarely related to architecture.
-In practice, as far as we know, this will not make or break your chances later in your career. Your work, publications, and attained skills matter the most.
+PhD programmes at NUS follow the nomenclature of the hosting departments, thus, if you pursue a PhD on a topic in this domain (i.e. urban analytics, etc.) and under the supervision of the PI of the group, it will be nominally part of the PhD in Architecture programme, since we are part of the Department of Architecture.
+The department and its PhD cohort work on a wide array of topics, and the PhD _per se_ is not necessarily related to architecture.
+In practice, as far as we know, this will not make or break your chances later in your career.
+Your work, publications, and attained skills matter the most.
 {{< /spoiler >}}
 
 {{< spoiler text="I am preparing my application but I don't see you listed in the NUS application system. How to apply?" >}}
@@ -248,14 +250,14 @@ A PhD is a significant undertaking that is time and energy consuming, and it is 
 
 {{< spoiler text="How long does it take to finish a PhD?" >}}
 It takes about four years. 
-The maximum period of candidature is five years.
+The maximum period of candidature at NUS is five years.
 In practice, four years is the minimum time required, and doing a PhD in less than that is possible only in exceptional circumstances.
 {{< /spoiler >}}
 
 
 {{< spoiler text="After I finish a PhD or postdoc at NUS, what are my career opportunities?" >}}
 That much depends on your profile, accomplishments, experience, and the country you want to work in.
-Academia tends to be the desired path of those who do a PhD and/or postdoc (and NUS is a highly reputable university, which helps in getting a job elsewhere afterwards), but we don't see these positions constrained to an academic future.
+Academia tends to be the desired path of those who do a PhD and/or postdoc (and NUS is a highly reputable university, which helps in getting a job elsewhere afterwards), but we don't see these positions constrained to an academic future and a PhD should open doors also elsewhere.
 Developing expertise in a particular niche and transferrable skills makes you attractive also to government agencies, national institutes, and industry.
 You could also think about starting a company, NUS offers some support for startups.
 Our alumni have ended up in decent places, including faculty positions, after working with us.
