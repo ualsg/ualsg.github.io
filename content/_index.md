@@ -10,18 +10,13 @@ sections:
       title: Urban Analytics Lab
       image:
         filename: urbanity3.png
-      text: Geospatial and Urban Data Science Research Group at the National University of Singapore
+      text: National University of Singapore
         <br /><br />
         <div>
         <ul class="network-icon" aria-hidden="true">
           <li>
             <a itemprop="sameAs" href="mailto:filip@nus.edu.sg">
               <i class="fas fa-envelope big-icon"></i>
-            </a>
-          </li>
-          <li>
-            <a itemprop="sameAs" href="http://twitter.com/urbanalyticslab" target="_blank" rel="noopener">
-              <i class="fab fa-twitter big-icon"></i>
             </a>
           </li>
           <li>
@@ -108,14 +103,14 @@ sections:
 
   - block: collection
     content:
-      title: Featured publications
-      subtitle: For the full list of publications see [here](/publication/).
+      title: Recent publications
+      subtitle: Full list of publications is [here](/publication/).
       text:
-      count: 0
+      count: 5
       filters:
         author: ''
         category: ''
-        featured_only: true
+        featured_only: false
         exclude_featured: false
         publication_type: ''
         tag: ''

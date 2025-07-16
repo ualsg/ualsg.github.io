@@ -35,7 +35,7 @@ hero_media = 'urbanity3.png'
 #   Remove a link/note by deleting a cta/note block.
 
 +++
-Geospatial and Urban Data Science Research Group at the National University of Singapore
+Research Group at the National University of Singapore
 <div id="profile">
       <ul class="network-icon" aria-hidden="true">
         <li>
