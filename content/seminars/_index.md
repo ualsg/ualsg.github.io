@@ -13,16 +13,43 @@ header:
   image: ""
 ---
 
-The Urban Analytics Lab seminar series is part of our community engagement and to provide a platform leading to discussions, new ideas, and spurring collaborations. 
-In our series, we give priority to early career researchers (e.g. junior faculty) to increase their visibility and learn about the latest exciting ideas, but host seasoned researchers and professors as well.
+The Urban Analytics Lab seminar series is part of our community engagement to provide a platform leading to discussions, new ideas, and spurring collaborations. 
+In our series, besides hosting seasoned researchers and professors, we also feature early career researchers (e.g. junior faculty) to increase their visibility and learn about the latest exciting ideas.
 
-Further, sometimes we organise guest lectures at the [department](https://cde.nus.edu.sg/arch/) level.
-These are included below.
 For the full list of events at our [NUS Department of Architecture](https://cde.nus.edu.sg/arch/) see the [list of events](https://cde.nus.edu.sg/arch/news_and_events/).
 
 Please note that, to facilitate an enhanced atmosphere, engagement and interaction, the talks are only in-person at our [NUS College of Design and Engineering](https://cde.nus.edu.sg) (they are not streamed online) and they are not recorded.
 
-For updates, please follow our [LinkedIn account](https://www.linkedin.com/company/urban-analytics-lab/).
+To stay updated, please follow our [LinkedIn account](https://www.linkedin.com/company/urban-analytics-lab/).
+
+---
+
+### 2025-08-11 --- Planning the Unplannable: How Urban Complexity Can Work in Our Favor
+
+By [Javier Argota Sánchez-Vaquerizo](https://gess.ethz.ch/en/the-department/people/person-detail.Mjc3MjQz.TGlzdC81MTIsNjE4MTIwODY=.html),
+[Computational Social Science](https://coss.ethz.ch),
+[ETH Zurich](https://ethz.ch/en.html),
+Switzerland
+
+Cities are complex, and that’s a strength, not a weakness. In this talk, I explore how computational approaches like urban digital twins can help planners and designers embrace complexity rather than oversimplify cities. Through three case studies (a traffic simulation in Barcelona, a spatial model of office conversion, and a VR experiment on redesigning streets) I show how data-driven, participatory methods can reveal counterintuitive effects and turn complexity to our advantage. These examples challenge conventional planning wisdom and demonstrate how blending human and computer intelligence enables more adaptable, efficient, and sustainable and resilient urban futures. We can do more with less, and for more people.
+
+![](2025-08-11.jpg)
+
+---
+
+### 2025-08-07 --- London-Singapore Urban Analytics Seminar for Liveable Cities
+
+Departing from the usual format, this time, we are hosting a joint seminar with guests from the King's College London and University College London, UK, including 7 presentations:
+
+- Leveraging AI and Geographic Data Science to Plan More Liveable Cities, by [Assoc Prof Stephen Law](https://profiles.ucl.ac.uk/21695-stephen-law)
+- Computational Urban Planning: Integrating Geospatial, Visual and Textual Data for Generating Urban Insights, by [Assoc Prof Zara Shabrina](https://www.kcl.ac.uk/people/zahratu-shabrina)
+- Flood Risk and Urban Perception: Deep Learning for Jakarta Flood Forecasting and Place Pulse Validation in China, by [Dr Jin Rui](https://jinrui.info)
+- Multi-scalar Urban Analytics with Graphs, by [Winston Yap](https://www.winstonyym.com)
+- Enhancing Holistic Building Properties for Informed Urban Planning and Design, by [Xiucheng Liang](https://ual.sg/author/liang-xiucheng/)
+- Street-Level Sensing of Urban Environments: From Uncertainty to Enhanced Applications, by [Zicheng Fan](https://zichengfan.github.io)
+- Unifying and Quantifying Urban Comfort, by [Sijie Yang](https://sijie-yang.com)
+
+![](2025-08-07.jpg)
 
 ---
 
