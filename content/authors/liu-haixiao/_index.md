@@ -54,7 +54,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Graduate Researchers and Students
-- People
+- Alumni
 ---
 
 Haixiao is currently pursuing a Master's degree in Urban Planning at the College of Design and Engineering, NUS. His work experience includes working as an Assistant Planner at Tsinghua Tongheng Institute of Smart City, and he is presently a Research Assistant at the LKY School of Public Policy at NUS, contributing to the establishment of "Minimum Place Standards" in Singapore. His research interests focus on applying data science techniques to urban analysis. In our lab, Haixiao is leveraging multi-source data, such as street view imagery, to understand urban diversity in cities.
