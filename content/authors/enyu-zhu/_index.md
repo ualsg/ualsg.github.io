@@ -47,7 +47,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- People
+- Alumni
 ---
 
 Enyu Zhu is an undergraduate student at the Massachusetts Institute of Technology, pursuing a dual degree in architecture and artificial intelligence. She has conducted research as a fellow in both the Carstensen Group and the City Science Group at the MIT Media Lab. Her work lies at the intersection of artificial intelligence, design, and the built environment, with a focus on leveraging machine learning to enhance the efficiency, sustainability, and innovation of architectural and urban systems. In our lab, Enyu is currently applying machine learning techniques to analyze Google Review data, aiming to quantify and better understand the factors that contribute to the success of urban spaces.

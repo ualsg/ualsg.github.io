@@ -54,7 +54,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Graduate Researchers and Students
-- People
+- Alumni
 ---
 
 Junbo is currently pursuing a Master's degree in Urban Planning at the College of Design and Engineering, NUS. His previous academic and professional experiences include working as a research associate at Tsinghua University, as well as serving as an assistant planner at several urban planning research institutes in China. His research interests focus on applying data science for urban analysis, particularly on understanding how urban spaces affect residents within contexts such as sustainable urban mobility and other related areas. In our lab, Junbo is currently exploring the affective characteristics of cities through place reviews.

@@ -68,7 +68,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Postdoctoral Research Fellows
-- People
+- Alumni
 
 ---
 Mahmoud is a Postdoc research fellow at the NUS Urban Analytics Lab.
