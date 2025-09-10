@@ -57,7 +57,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Research Staff and Doctoral Researchers
-- People
+- Alumni
 ---
 
 Yujun graduated from the Msc in Applied GIS at NUS. She has experience in life-cycle analysis, GIS, Web GIS, and remote sensing. She has previously interned at the Urban Redevelopment Authority and the National Parks Board of Singapore. She is interested in the use of open data (e.g. street view images) and advanced technologies (e.g. computer vision) for urban analytics and planning.

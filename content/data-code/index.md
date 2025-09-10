@@ -35,6 +35,28 @@ We would be pleased to learn how others are using our work.
 If you are interested in collaborating with us, please get in touch with the lead developer of each resource listed below.
 
 
+## SP-Survey
+
+![](sp-survey.jpeg)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | A simple and powerful platform for conducting streetscape perception surveys with image-based questions. |
+| Lead developer: | {{% mention "sijie" %}} |
+| Further reading: | Please read the [paper](https://doi.org/10.1016/j.buildenv.2025.112569) published in BAE |
+| Code: | [<i class="fab fa-github"></i>  Github repo](https://github.com/Sijie-Yang/Streetscape-Perception-Survey) |
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2025_bae_thermal,
+  author = {Yang, Sijie and Chong, Adrian and Liu, Pengyuan and Biljecki, Filip},
+  doi = {10.1016/j.buildenv.2025.112569},
+  journal = {Building and Environment},
+  pages = {112569},
+  title = {Thermal comfort in sight: Thermal affordance and its visual assessment for sustainable streetscape design},
+  volume = {271},
+  year = {2025}
+}
+{{< /spoiler >}}|
+
 ## ZenSVI
 
 ![](zensvi.png)

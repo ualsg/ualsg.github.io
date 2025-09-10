@@ -52,3 +52,13 @@ The full list of our interests and key words: Geographical Information Science (
 ![](../opportunities/ir-2022-06.jpg)
 
 ![](ual-christmas-2023-12.jpg)
+
+Check out also some other videos about our work:
+
+{{< youtube rushehhq_iI >}}
+
+<br />
+
+{{< youtube HPFjeKFT6ME >}}
+
+
