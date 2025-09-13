@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2024-05-11
+date: 2025-09-13
 type: landing
 
 sections:
@@ -10,7 +10,7 @@ sections:
       title: Urban Analytics Lab
       image:
         filename: urbanity3.png
-      text: National University of Singapore
+      text: A research group at the National University of Singapore
         <br /><br />
         <div>
         <ul class="network-icon" aria-hidden="true">
