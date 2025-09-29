@@ -7,13 +7,13 @@ title: Gu Youlong
 authors:
 - gu-youlong
 
-weight: 80
+weight: 60
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Research Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -63,4 +63,4 @@ user_groups:
 - People
 ---
 
-Youlong is currently pursuing a master’s degree in Urban Planning at the NUS College of Design and Engineering. His work experience includes working as an assistant engineer at the Anhui Urban Planning and Design Institute. His research interests are in the application of data science in the field of urban planning. At our Lab, Youlong is exploring crowdsourcing labelling and perception of urban imagery.
+Youlong graduated with a master’s degree in Urban Planning at the NUS College of Design and Engineering. His work experience includes working as an assistant engineer at the Anhui Urban Planning and Design Institute. His research interests are in the application of data science in the field of urban planning. At our Lab, Youlong is exploring multiple topics, including perception of urban imagery and videos and optimising survey design.

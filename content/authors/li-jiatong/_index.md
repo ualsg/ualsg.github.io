@@ -7,7 +7,7 @@ title: Jiatong Li
 authors:
 - li-jiatong
 
-weight: 65
+weight: 75
 
 # Is this the primary user of the site?
 superuser: false

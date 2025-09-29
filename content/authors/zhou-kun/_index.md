@@ -7,13 +7,13 @@ title: Zhou Kun
 authors:
 - zhou-kun
 
-weight: 82
+weight: 61
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -53,5 +53,5 @@ user_groups:
 - People
 ---
 
-Kun Zhou is currently pursuing a master's degree in Geographic Information Systems at the National University of Singapore. She has experience in modeling land use changes using vector cellular automata. Her research interest is in the application of geographic information technology in urban planning. At UAL, her current research interest is to explore computer vision techniques and their applications in urban analysis.
+Kun Zhou graduated with a master's degree in Geographic Information Systems at the National University of Singapore. She has experience in modeling land use changes using vector cellular automata. Her research interest is in the application of geographic information technology in urban planning. At UAL, her current research interest is to explore computer vision techniques and their applications in urban analysis.
 
