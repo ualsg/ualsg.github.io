@@ -24,6 +24,19 @@ To stay updated, please follow our [LinkedIn account](https://www.linkedin.com/c
 
 ---
 
+### 2025-10-23 --- Modeling Pedestrian Mobility in Cities: Tools for Sustainable Urban Design
+
+By [Andres Sevtsuk](https://dusp.mit.edu/people/andres-sevtsuk),
+[Department of Urban Studies and Planning](https://dusp.mit.edu),
+[Massachusetts Institute of Technology](https://web.mit.edu),
+USA
+
+The global challenges of climate change, public health, and urban economic competitiveness have highlighted the urgent need for analytical tools that link city design to sustainable mobility. This presentation introduces the Urban Network Analysis (UNA) framework—a modeling approach for examining land-use and transportation interactions at the pedestrian scale. The UNA framework enables planners, designers, and policymakers to assess and enhance walkability by simulating how land-use configurations and infrastructure investments influence pedestrian movement. By integrating spatial design and behavioral insights, such analyses can guide urban interventions that promote sustainable mobility, reduce carbon emissions, and improve urban livability.
+
+![](2025-10-23.jpg)
+
+---
+
 ### 2025-08-11 --- Planning the Unplannable: How Urban Complexity Can Work in Our Favor
 
 By [Javier Argota Sánchez-Vaquerizo](https://gess.ethz.ch/en/the-department/people/person-detail.Mjc3MjQz.TGlzdC81MTIsNjE4MTIwODY=.html),

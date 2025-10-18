@@ -19,10 +19,14 @@ main:
     parent: 'about'
     url: '/people'
     weight: 13
+  - name: 'our doctors'
+    parent: 'about'
+    url: '/doctors'
+    weight: 15
   - name: 'our seminars'
     parent: 'about'
     url: '/seminars'
-    weight: 14
+    weight: 15
   - name: news
     url: '/post'
     weight: 20
