@@ -32,7 +32,7 @@ image:
 
 We are glad to share our new paper:
 
-> Yap W, Wu AN, Miller C, Biljecki F (2025): Revealing building operating carbon dynamics for multiple cities. Nature Sustainability. [<i class="ai ai-doi-square ai"></i> 10.1038/s41893-025-01615-8](https://doi.org/10.1038/s41893-025-01615-8) [<i class="far fa-file-pdf"></i> PDF](/publication/2025-natsus-revealing/2025-natsus-revealing.pdf)</i>
+> Yap W, Wu AN, Miller C, Biljecki F (2025): Revealing building operating carbon dynamics for multiple cities. Nature Sustainability 8(10): 1199-1210. [<i class="ai ai-doi-square ai"></i> 10.1038/s41893-025-01615-8](https://doi.org/10.1038/s41893-025-01615-8) [<i class="far fa-file-pdf"></i> PDF](/publication/2025-natsus-revealing/2025-natsus-revealing.pdf)</i>
 
 This research was led by {{% mention "winston" %}}.
 Congratulations on this important journal publication! :raised_hands: :clap:
@@ -64,9 +64,10 @@ BibTeX citation:
   author = {Yap, Winston and Wu, Abraham Noah and Miller, Clayton and Biljecki, Filip},
   doi = {10.1038/s41893-025-01615-8},
   journal = {Nature Sustainability},
-  pages = {},
   title = {Revealing building operating carbon dynamics for multiple cities},
-  volume = {},
+  pages = {1199-1210},
+  volume = {8},
+  number = {10},
   year = {2025}
 }
 ```
