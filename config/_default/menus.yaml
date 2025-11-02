@@ -47,26 +47,34 @@ main:
     parent: 'geospatial resources'
     url: '/project/zensvi/'
     weight: 53
+  - name: 'openfacades'
+    parent: 'geospatial resources'
+    url: '/project/openfacades/'
+    weight: 54
+  - name: 'specs'
+    parent: 'geospatial resources'
+    url: '/project/specs/'
+    weight: 55
   - name: 'global building morphology indicators'
     parent: 'geospatial resources'
     url: '/project/gbmi/'
-    weight: 54
+    weight: 56
   - name: 'roofpedia'
     parent: 'geospatial resources'
     url: '/project/roofpedia/'
-    weight: 55
+    weight: 57
   - name: 'open building data'
     parent: 'geospatial resources'
     url: '/project/ogbd/'
-    weight: 56
+    weight: 58
   - name: '3d city index'
     parent: 'geospatial resources'
     url: '/project/3d-city-index/'
-    weight: 57
+    weight: 59
   - name: 'open data SG'
     parent: 'geospatial resources'
     url: '/post/2020/06/24/guide-for-open-urban-data-in-singapore/'
-    weight: 58
+    weight: 60
   - name: join
     weight: 80
   - name: openings

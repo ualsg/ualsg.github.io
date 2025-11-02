@@ -34,6 +34,48 @@ Feel free to contact us for more information, report bugs and errors, or simply 
 We would be pleased to learn how others are using our work.
 If you are interested in collaborating with us, please get in touch with the lead developer of each resource listed below.
 
+## OpenFACADES
+
+![](openfacades.png)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | An open framework for architectural caption and attribute data enrichment via street view imagery. |
+| Lead developer: | {{% mention "xiucheng" %}} |
+| Further reading: | Please read the [paper](https://doi.org/10.1016/j.isprsjprs.2025.10.014) published in ISPRS J |
+| Repository: | [<i class="fab fa-github"></i>  Github repo](https://github.com/seshing/OpenFACADES) |
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2025_ijprs_openfacades,
+  author = {Liang, Xiucheng and Xie, Jinheng and Zhao, Tianhong and Stouffs, Rudi and Biljecki, Filip},
+  doi = {10.1016/j.isprsjprs.2025.10.014},
+  journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+  pages = {918--942},
+  title = {OpenFACADES: An open framework for architectural caption and attribute data enrichment via street view imagery},
+  volume = {230},
+  year = {2025}
+}
+{{< /spoiler >}}|
+
+## SPECS
+
+![](specs.png)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | A massive urban visual perception survey including 1000 people globally, with their demographic and personality data. |
+| Lead developer: | {{% mention "matias" %}} |
+| Further reading: | Please read the [paper](https://doi.org/10.1038/s44284-025-00330-x) published in Nature Cities |
+| Repository: | [<i class="fab fa-github"></i>  Github repo](https://github.com/matqr/specs) |
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2025_natcities_specs,
+  author = {Quintana, Matias and Gu, Youlong and Liang, Xiucheng and Hou, Yujun and Ito, Koichi and Zhu, Yihan and Abdelrahman, Mahmoud and Biljecki, Filip},
+  doi = {10.1038/s44284-025-00330-x},
+  journal = {Nature Cities},
+  title = {Global urban visual perception varies across demographics and personalities},
+  year = {2025}
+}
+{{< /spoiler >}}|
+
 
 ## SP-Survey
 
