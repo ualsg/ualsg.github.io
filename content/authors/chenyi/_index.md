@@ -70,7 +70,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 # - Postdoctoral Research Fellows
-- People
+- Alumni
 
 ---
 Dr Chenyi Cai is a computational designer and architect. Her research interests lie in the interface of computation, AI, and urban design. Her research focuses on interdisciplinary methodologies through computational design to leverage the interactions between machines and human intelligence and boost the understanding of city complexity and creativity in design.  In this context, she had experience in digital fabrication and generative design. Her Ph.D. research investigates urban computational modeling and digital design methods based on multi-source data streams.

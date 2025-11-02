@@ -70,7 +70,7 @@ sections:
     content:
       title: News
       subtitle: Updates from our group
-      text: Feel free to follow us on <a href="https://www.linkedin.com/company/urban-analytics-lab/">LinkedIn</a>, <a href="https://twitter.com/urbanalyticslab">X</a>, and through our [RSS feed]({{< ref path="/post" outputFormat="rss" >}}).
+      text: Feel free to follow us on <a href="https://www.linkedin.com/company/urban-analytics-lab/">LinkedIn</a> and through our [RSS feed]({{< ref path="/post" outputFormat="rss" >}}).
       count: 7
       filters:
         author: ''
