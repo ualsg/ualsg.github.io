@@ -5,6 +5,11 @@ title = "PhD Scholarship (SINGA)"
 
 {{< figure src="header.jpg" title="Singapore skyline by [Mike Enerio](https://unsplash.com/@mikeenerio) on [Unsplash](https://unsplash.com/photos/CQhgno3yhv8)." >}}
 
+{{% callout note %}}
+It is not possible to apply anymore to this position.
+Thanks to all the applicants for their interest.
+For other PhD opportunities, please check our website.
+{{% /callout %}}
 
 We draw attention to the [The Singapore International Graduate Award](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa), which is a PhD scholarship that can be used to pursue doctoral studies at NUS and research at our Lab.
 
@@ -17,6 +22,12 @@ For more info, please see the [website](https://www.a-star.edu.sg/Scholarships/f
 Please be mindful of the deadlines at both NUS and A*STAR.
 
 ### Interested?
+
+{{% callout note %}}
+It is not possible to apply anymore to this position.
+Thanks to all the applicants for their interest.
+For other PhD opportunities, please check our website.
+{{% /callout %}}
 
 If you are interested to learn more about this scholarship, please get in touch with SINGA.
 Feel free to [contact us](mailto:filip@nus.edu.sg) if you have enquiries about our research group and PhD at NUS.
