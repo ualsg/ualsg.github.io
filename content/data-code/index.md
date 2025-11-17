@@ -34,6 +34,28 @@ Feel free to contact us for more information, report bugs and errors, or simply 
 We would be pleased to learn how others are using our work.
 If you are interested in collaborating with us, please get in touch with the lead developer of each resource listed below.
 
+## VoxCity
+
+![](voxcity.png)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | A one-stop Python package for open geospatial data integration, 3D city model generation, and urban environment simulation. |
+| Lead developer: | {{% mention "kunihiko" %}} |
+| Further reading: | Please read the [paper](https://doi.org/10.1016/j.compenvurbsys.2025.102366) published in CEUS |
+| Repository: | [<i class="fab fa-github"></i>  Github repo](https://github.com/kunifujiwara/VoxCity) |
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2026_ceus_voxcity,
+  author = {Fujiwara, Kunihiko and Tsurumi, Ryuta and Kiyono, Tomoki and Fan, Zicheng and Liang, Xiucheng and Lei, Binyu and Yap, Winston and Ito, Koichi and Biljecki, Filip},
+  doi = {10.1016/j.compenvurbsys.2025.102366},
+  journal = {Computers, Environment and Urban Systems},
+  pages = {102366},
+  title = {VoxCity: A seamless framework for open geospatial data integration, grid-based semantic 3D city model generation, and urban environment simulation},
+  volume = {123},
+  year = {2026}
+}
+{{< /spoiler >}}|
+
 ## OpenFACADES
 
 ![](openfacades.png)
