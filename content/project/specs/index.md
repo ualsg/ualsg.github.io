@@ -32,14 +32,17 @@ Please refer to it for detailed information.
 
 If you use SPECS in a scientific context, please cite the paper:
 
-> Quintana M, Gu Y, Liang X, Hou Y, Ito K, Zhu Y, Abdelrahman M, Biljecki F (2025): Global urban visual perception varies across demographics and personalities. Nature Cities. [<i class="ai ai-doi-square ai"></i> 10.1038/s44284-025-00330-x](https://doi.org/10.1038/s44284-025-00330-x) [<i class="far fa-file-pdf"></i> PDF](/publication/2025-natcities-specs/2025-natcities-specs.pdf)</i>
+> Quintana M, Gu Y, Liang X, Hou Y, Ito K, Zhu Y, Abdelrahman M, Biljecki F (2025): Global urban visual perception varies across demographics and personalities. Nature Cities 2(11): 1092-1106. [<i class="ai ai-doi-square ai"></i> 10.1038/s44284-025-00330-x](https://doi.org/10.1038/s44284-025-00330-x) [<i class="far fa-file-pdf"></i> PDF](/publication/2025-natcities-specs/2025-natcities-specs.pdf)</i>
 
 ```bibtex
 @article{2025_natcities_specs,
   author = {Quintana, Matias and Gu, Youlong and Liang, Xiucheng and Hou, Yujun and Ito, Koichi and Zhu, Yihan and Abdelrahman, Mahmoud and Biljecki, Filip},
   doi = {10.1038/s44284-025-00330-x},
   journal = {Nature Cities},
+  number = {11},
+  pages = {1092--1106},
   title = {Global urban visual perception varies across demographics and personalities},
+  volume = {2},
   year = {2025}
 }
 ```
