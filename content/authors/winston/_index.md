@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Winston Yap
-title:  Winston Yap
+title: Winston Yap
 
 # Username (this should match the folder name)
 authors:

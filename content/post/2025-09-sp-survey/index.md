@@ -35,6 +35,7 @@ SP-Survey is a simple and powerful platform for conducting streetscape perceptio
 It can be deployed in minutes.
 Check it out on [Github](https://github.com/Sijie-Yang/Streetscape-Perception-Survey)! 
 
+![](1.png)
 
 If you use this platform, please cite [the paper](/publication/2025-bae-thermal/):
 ```bibtex

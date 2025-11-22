@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Yixin Wu
-title:  Yixin Wu
+title: Yixin Wu
 
 # Username (this should match the folder name)
 authors:

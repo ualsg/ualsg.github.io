@@ -1,7 +1,7 @@
 ---
 # Display name
-name: Lee Yun-Ann
-title: Lee Yun-Ann
+name: Yun-Ann Lee
+title: Yun-Ann Lee
 
 # Username (this should match the folder name)
 authors:

@@ -1,7 +1,7 @@
 ---
 # Display name
-name: Chen Wangyang
-title: Chen Wangyang
+name: Wangyang Chen
+title: Wangyang Chen
 
 # Username (this should match the folder name)
 authors:

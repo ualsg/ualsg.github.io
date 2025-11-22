@@ -55,22 +55,18 @@ main:
     parent: 'geospatial resources'
     url: '/project/specs/'
     weight: 55
+  - name: 'voxcity'
+    parent: 'geospatial resources'
+    url: '/project/voxcity/'
+    weight: 56
+  - name: 'sp-survey'
+    parent: 'geospatial resources'
+    url: '/project/sp-survey/'
+    weight: 57
   - name: 'global building morphology indicators'
     parent: 'geospatial resources'
     url: '/project/gbmi/'
-    weight: 56
-  - name: 'roofpedia'
-    parent: 'geospatial resources'
-    url: '/project/roofpedia/'
-    weight: 57
-  - name: 'open building data'
-    parent: 'geospatial resources'
-    url: '/project/ogbd/'
     weight: 58
-  - name: '3d city index'
-    parent: 'geospatial resources'
-    url: '/project/3d-city-index/'
-    weight: 59
   - name: 'open data SG'
     parent: 'geospatial resources'
     url: '/post/2020/06/24/guide-for-open-urban-data-in-singapore/'

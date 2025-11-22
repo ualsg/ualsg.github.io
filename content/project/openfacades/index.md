@@ -19,8 +19,6 @@ image:
 
 OpenFACADES, developed by {{% mention "xiucheng" %}}, is an open-source framework designed to enrich building profiles with objective attributes and semantic descriptors by leveraging multimodal crowdsourced data and large vision-language models. It provides tools for integrating diverse datasets, automating building facade detection, and generating detailed annotations at scale.
 
-A [paper](https://doi.org/10.1016/j.isprsjprs.2025.10.014) describing the development has been published in the _ISPRS Journal of Photogrammetry and Remote Sensing_.
-
 The code, models, and data are openly available on [GitHub](https://github.com/seshing/OpenFACADES), and it is supported by a Google Colab and documentation.
 
 ![](1.png "General framework for integrating multimodal crowdsourced data to establish a street-level building dataset and develop multimodal models. Data: (c) Mapillary and OpenStreetMap contributors.")
