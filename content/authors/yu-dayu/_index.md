@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Dayu Yu
-title:  Dayu Yu
+title: Dayu Yu
 
 # Username (this should match the folder name)
 authors:

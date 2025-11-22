@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Abraham Noah Wu
-title:  Abraham Noah Wu
+title: Abraham Noah Wu
 
 # Username (this should match the folder name)
 authors:

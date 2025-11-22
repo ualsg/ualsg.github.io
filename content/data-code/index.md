@@ -104,7 +104,7 @@ If you are interested in collaborating with us, please get in touch with the lea
 
 ## SP-Survey
 
-![](sp-survey.jpeg)
+![](sp-survey.png)
 
 | | |
 | ------------------| ------------------------------ |

@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Edgardo G. Macatulad
-title:  Edgardo G. Macatulad
+title: Edgardo G. Macatulad
 
 # Username (this should match the folder name)
 authors:

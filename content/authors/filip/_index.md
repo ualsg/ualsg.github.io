@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Filip Biljecki
-title:  Filip Biljecki
+title: Filip Biljecki
 
 # Username (this should match the folder name)
 authors:
@@ -97,7 +97,7 @@ Dr Filip Biljecki is jointly appointed as faculty at the Department of Architect
 He is the founder and the principal investigator of the [NUS Urban Analytics Lab](/).
 In 2020 [he was appointed]({{< ref "/post/2020-07-filip-pyp/index.md" >}}) as NUS Presidential Young Professor.
 
-Filip has published more than 170 peer-reviewed articles.
+Filip has published more than 170 peer-reviewed articles, which have been cited over 10,000 times.
 His research and teaching have been recognised through multiple awards, and he has supervised dozens of students, leading them to publications in leading journals and placements at top universities and organisations. 
 He delivered talks at more than 150 universities and organisations worldwide, e.g. MIT, Stanford, Harvard, Berkeley, Peking, Tsinghua, University of Tokyo, Princeton, University of Hong Kong, Seoul National University, and ETH Zurich.
 
