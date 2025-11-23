@@ -1,5 +1,5 @@
 ---
-title: 'Drivers of Day-Night intra-surface urban heat island variations under local
+title: 'Drivers of day-night intra-surface urban heat island variations under local
   extreme heat: A case study of Singapore'
 
 # Authors
