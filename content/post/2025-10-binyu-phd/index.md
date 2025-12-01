@@ -36,6 +36,10 @@ Congratulations!
 This is not only a great milestone for Binyu but also for our Lab: she is the first PhD graduate from our research group.
 Binyu has started her doctoral studies in 2021, following her graduation as Master in Urban Planning from the University of Melbourne and industry experience.
 
+During her PhD, she has advanced the role of humans in digital twins through a series of contributions such as integration of human-centric information.
+Binyu's work was published in leading journals, such as _Computers, Environment and Urban Systems_ and _Automation in Construction_, and one of the chapters of her thesis was awarded the best paper award at 3D GeoInfo 2023.
+During her PhD, she has been invited to give talks at other institutions and has contributed to activities of the Open Geospatial Consortium (OGC) and Climate Change AI (CCAI).
+
 The committee members were Adrian Chong, Chaewon Ahn, Eddie Lau, and Filip Biljecki (thesis advisor).
 
 She will continue her career as Assistant Professor in Urban Planning and Data Analytics at the School of Geography, Earth and Environmental Sciences, University of Birmingham Dubai.
