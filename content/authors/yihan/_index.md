@@ -52,7 +52,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Research Staff and Doctoral Researchers
-- People
+- Alumni
 ---
 
 Yihan is a PhD researcher in Department of Architecture. He holds a master’s degree in urban design from the NUS School of Design and Environment and bachelor’s degree in urban planning from SYSU. His research interests include synergizing different approaches to understanding urban public spaces, applying urban big data and GeoAI to understand and improve human-environment interactions. He is now leading the research on decoding the imageability of urban public spaces using multi-source data and machine learning techniques. He also had four years practice experience as an urban planner in Singapore.
