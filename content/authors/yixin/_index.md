@@ -58,7 +58,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Research Staff and Doctoral Researchers
-- People
+- Alumni
 ---
 
 Yixin is a Ph.D. researcher in the Urban Analytics Lab at the National University of Singapore with an interdisciplinary background in architecture, landscape architecture, urban planning, and urban design. She is especially interested in ecosystem services of urban green infrastructure and decarbonization and has experience in GIS, remote sensing, street view images, micro-sensors, digital twins, generative AI, ecosystem restoration, and traffic modeling. She holds a Master of Landscape Architecture in Urban Design degree from Harvard Graduate School of Design. She has working experience and internships as a landscape architect, urban designer, architect, researcher, data analyst, environmental consultant, teaching assistant, and research assistant in both China and US.

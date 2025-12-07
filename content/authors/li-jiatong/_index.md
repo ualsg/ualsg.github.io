@@ -50,8 +50,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Research Staff and Doctoral Researchers
-- People
+- Alumni
 ---
-
  
 Jiatong is a PhD candidate at Tsinghua University, China. Her research lies at the intersection of urban planning, urban AI, and urban informatics, with a particular focus on utilizing AI to understand urban activity spaces and complex urban dynamics. At UAL, she will continue to work on modeling behaviors and perceptions in the city, integrating multi-source data and AI techniques to provide insights for developing more inclusive public spaces
