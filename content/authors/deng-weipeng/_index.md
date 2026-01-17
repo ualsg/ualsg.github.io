@@ -57,7 +57,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Research Staff and Doctoral Researchers
-- People
+- Alumni
 ---
 
 Weipeng is a PhD candidate at The University of Hong Kong specializing in GIS, human mobility, and urban planning. His research investigates how human movement patterns and economic landscapes are transforming in our increasingly digital-physical world. At UAL, he will advance this work by incorporating multidimensional urban sensing data, including network analytics, street view imagery, LBS data and travel survey, to develop more interpretable and accurate predictive models. This enhanced modeling approach aims to provide deeper insights for evidence-based urban planning and decision-making in the digital era.

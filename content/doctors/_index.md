@@ -34,6 +34,8 @@ Defence: November 2025
 
 Thesis advisor: {{% mention "filip" %}}. Committee members: Ye Zhang, Adrian Chong, Rudi Stouffs
 
+Next position: Postdoctoral Associate at Cornell University (Ezra Systems Scholar).
+
 ![](2025_Winston_1.jpg)
 
 ![](2025_Winston_2.jpg)
