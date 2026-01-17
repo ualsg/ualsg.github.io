@@ -73,6 +73,8 @@ At minimum, we expect prospective students to understand what we do and how we d
 
 ## PhD
 
+_On a related note, [check out the list of doctoral candidates who have completed their PhD in our group](../../doctors/)._
+
 ### What is a PhD and what are the expectations
 
 A PhD is a great way to create a new scholar, an exceptional chance for self-development, and an opportunity to contribute to science.

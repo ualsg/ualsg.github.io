@@ -24,6 +24,18 @@ To stay updated, please follow our [LinkedIn account](https://www.linkedin.com/c
 
 ---
 
+### 2026-01-28 --- Rethinking cities in the age of AI 
+
+Departing from the usual format, this time, we are hosting a joint seminar with guests from Australia, Korea, and China:
+
+- The Street-Smart City: Using AI to Decode Urban Life from the Ground Up, by [Assoc Prof Yuan Lai](https://www.arch.tsinghua.edu.cn/info/FUrban%20Planning%20and%20Design/2133), Tsinghua University
+- AI-aided Design for Participatory Urban Planning and Design, by [Assoc Prof Steven Jige Quan](https://gses.snu.ac.kr/people/faculty/7), Seoul National University
+- Quantum Computing and the City, by [Prof Tan Yigitcanlar](https://www.qut.edu.au/about/our-people/academic-profiles/tan.yigitcanlar), Queensland University of Technology
+
+![](2026-01-28.jpg)
+
+---
+
 ### 2025-10-23 --- Modeling Pedestrian Mobility in Cities: Tools for Sustainable Urban Design
 
 By [Andres Sevtsuk](https://dusp.mit.edu/people/andres-sevtsuk),
