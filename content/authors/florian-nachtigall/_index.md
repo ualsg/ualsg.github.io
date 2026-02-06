@@ -72,7 +72,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Research Staff and Doctoral Researchers
-- People
+- Alumni
 ---
 
 Florian Nachtigall is a PhD candidate at the Technical University of Berlin, Germany, supervised by Prof. Dr. Felix Creutzig. His research focuses on data-driven, geospatial approaches for low-carbon urban planning, with an emphasis on harmonizing and conflating large-scale building datasets to support urban decarbonization. At the Urban Analytics Lab (UAL), he works on finalizing the latest version of the European building dataset EUBUCCO and on improving building attribute prediction using graph-based learning methods. Beyond the building sector, he is interested in causal machine learning approaches to assess the impacts of transport policies and infrastructure interventions on travel behavior and emissions.

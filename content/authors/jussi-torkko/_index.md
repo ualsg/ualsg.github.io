@@ -68,7 +68,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Research Staff and Doctoral Researchers
-- People
+- Alumni
 ---
 
 Jussi is a PhD researcher at the University of Helsinki, Finland, with a background in Geography and Geoinformatics. His recent work focuses on Street View Imagery and the use of Computer Vision methods for mapping Urban Street Greenery. In his PhD, he is trying to further develop our understanding of how these methods can be used to map greenery as people see it. He has also worked with Virtual Reality to assess people’s exposure during active travel, and Large Language Models for evaluating urban scenery.

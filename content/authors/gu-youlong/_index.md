@@ -60,7 +60,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Graduate Researchers and Students
-- People
+- Alumni
 ---
 
 Youlong graduated with a master’s degree in Urban Planning at the NUS College of Design and Engineering. His work experience includes working as an assistant engineer at the Anhui Urban Planning and Design Institute. His research interests are in the application of data science in the field of urban planning. At our Lab, Youlong is exploring multiple topics, including perception of urban imagery and videos and optimising survey design.
