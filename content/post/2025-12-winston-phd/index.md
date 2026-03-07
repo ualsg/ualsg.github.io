@@ -44,6 +44,7 @@ The committee members were Ye Zhang, Adrian Chong, Rudi Stouffs, and Filip Bilje
 
 We wish him all the best and lots of continued successes, and we thank him for the collaboration in the past years.
 Winston has substantially contributed to our research group and has been instrumental in shaping its research agenda.
+He will continue his career as a Postdoctoral Associate at Cornell University, earning the prestigious Ezra Systems Scholars fellowship. 
 
 To learn more about Winston's work, visit [his website](https://www.winstonyym.com) and [his Google Scholar profile](https://scholar.google.com/citations?user=p14e60QAAAAJ&hl=en).
 
