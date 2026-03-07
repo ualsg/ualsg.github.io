@@ -57,5 +57,6 @@ Short abstract of her thesis:
 ![](2025_Binyu_2.jpg)
 
 
+Want to join us in your PhD journey? Read [this guide](/opportunities/application-guide/).
 
 
