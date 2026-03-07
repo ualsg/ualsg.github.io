@@ -35,7 +35,7 @@ We are glad to share our new paper:
 > Quintana M, Liu F, Torkko J, Gu Y, Liang X, Hou Y, Ito K, Zhu Y, Abdelrahman M, Toivonen T, Lu Y, Biljecki F (2026): It is not always greener on the other side: Greenery perception across demographics and personalities in multiple cities. Landscape and Urban Planning, 271: 105618. [<i class="ai ai-doi-square ai"></i> 10.1016/j.landurbplan.2026.105618](https://doi.org/10.1016/j.landurbplan.2026.105618) [<i class="far fa-file-pdf"></i> PDF](/publication/2026-land-greenery/2026-land-greenery.pdf)</i>
 
 This research was led by {{% mention "matias" %}}.
-It extends his project [SPECS]({{< relref "/project/specs/" >}}), which [we featured earlier]({{< relref "/post/2025-10-specs" >}}).
+It extends his project [SPECS](https://github.com/matqr/specs), which [we featured earlier]({{< relref "/post/2025-10-specs" >}}).
 Congratulations on his new publication! :raised_hands: :clap:
 
 The GitHub repository with the open-source code we developed can be found [here](https://github.com/matqr/greenery-perception).
