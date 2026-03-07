@@ -5,8 +5,7 @@ title: "Exploration of research data repositories"
 subtitle: ""
 summary: "A non-exhaustive list of research data repositories and a comparison of them."
 authors: [yoong-shin]
-tags: [research data, data repositories, open data, data management planning, research data 
-management]
+tags: [research data, data repositories, open data, data management planning, research data management]
 categories: []
 date: 2021-10-25T09:34:24+08:00
 lastmod: 2021-10-25T09:34:24+08:00

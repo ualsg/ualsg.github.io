@@ -4,10 +4,8 @@ date: 2021-06-24
 publishDate: 2021-06-24T10:39:59.451535Z
 authors: ["abraham", "filip"]
 publication_types: ['article-journal']
-abstract: ""
 featured: false
 publication: "*Landscape and Urban Planning*"
-url_pdf: "https://doi.org/10.1016%2Fj.landurbplan.2021.104167"
 doi: "10.1016/j.landurbplan.2021.104167"
 
 # Links
