@@ -16,6 +16,8 @@ header:
 We are proud of our graduates and grateful for their role in growing and shaping our research group.
 On this website, we feature PhD graduates who have conducted their doctoral research in our group.
 
+Want to join us in your PhD journey? Read [this guide](/opportunities/application-guide/).
+
 | Graduate  | Defended | Thesis                                      |
 |-----------|----------|---------------------------------------------|
 | [Binyu Lei](https://binyulei.github.io/) | Oct 2025 | Urban Digital Twins: From Conceptualisation to Adoption Through a Human-Centric Lens |
@@ -30,7 +32,7 @@ Candidate: [Winston Yap](https://www.winstonyym.com/) (Master of Urban Planning,
 
 Thesis: Urban Graph Analytics: Connecting Cities, Data, and People
 
-Defence: November 2025
+Defence: November 2025 (see [blog post]({{< relref "/post/2025-12-winston-phd" >}}))
 
 Thesis advisor: {{% mention "filip" %}}. Committee members: Ye Zhang, Adrian Chong, Rudi Stouffs
 
@@ -48,7 +50,7 @@ Candidate: [Binyu Lei](https://binyulei.github.io/) (Master in Urban Planning, U
 
 Thesis: Urban Digital Twins: From Conceptualisation to Adoption Through a Human-Centric Lens
 
-Defence: October 2025
+Defence: October 2025 (see [blog post]({{< relref "/post/2025-10-binyu-phd" >}}))
 
 Thesis advisor: {{% mention "filip" %}}. Committee members: Adrian Chong, Chaewon Ahn, Eddie Lau
 

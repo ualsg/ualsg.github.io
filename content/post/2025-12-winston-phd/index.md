@@ -56,5 +56,5 @@ Short abstract of his thesis:
 ![](2025_Winston_2.jpg)
 
 
-
+Want to join us in your PhD journey? Read [this guide](/opportunities/application-guide/).
 
