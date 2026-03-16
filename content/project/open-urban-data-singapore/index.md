@@ -28,7 +28,7 @@ TL;DR: In the spirit of academia and open science, we're making our notes and ob
 ## Introduction
 
 In our research and teaching activities that are focused on Singapore, we rely largely on open data, enabling reproducibility and fostering open science.
-We created a guide on open urban datasets of relevance to help navigate all the resources.
+We created a guide on open urban datasets of relevance to help navigate all the resources and uncover some intricacies.
 
 This article may be useful to novices to get an overview of what's available in Singapore, but also to seasoned urban data scientists who may learn about datasets they might not have been aware of.
 Some of the datasets listed here are used in our teaching activities, e.g. in our coursework at NUS as part of the [Master of Urban Planning](https://cde.nus.edu.sg/arch/programmes/master-of-urban-planning/) programme.
@@ -40,18 +40,17 @@ Different research groups will have different needs and priorities, and may find
 
 The data sources can be broadly grouped as follows.
 
-
-- **Singapore's open data portal**: [data.gov.sg](https://data.gov.sg) is the central portal of the Singapore Government, bringing thousands of datasets released by dozens of public agencies under one roof.
+- **Singapore's open data portal**. [data.gov.sg](https://data.gov.sg) is the central portal of the Singapore Government, bringing thousands of datasets released by dozens of public agencies under one roof.
 It is managed by [Open Government Products](https://www.open.gov.sg), a division of [GovTech](https://www.tech.gov.sg). In Mar 2026, there has been [a nice article in The Straits Times about them](https://www.straitstimes.com/life/inside-ogp-a-little-known-tech-unit-of-the-singapore-government-where-staff-decide-what-to-build).
 Most datasets mentioned here can be found on [data.gov.sg](https://data.gov.sg).
 The portal was launched in early 2010s, and in the past years, it has further evolved, e.g. giving more prominence to [geospatial datasets](https://data.gov.sg/datasets?formats=GEOJSON|KML|SHP|KMZ&sort=relevancy&resultId=d_dbfabf16158d1b0e1c420627c0819168), implementing interactive viewing of data (including geospatial ones), and allowing you to be notified when datasets you use are updated or changed. New datasets are continuously added, and you can follow updates from their team on social media.
-- **Open data portals of specific organisations of the Government**:
+- **Open data portals of specific organisations of the Government**.
 In addition, some statutory boards have their own portals.
 For example, [LTA's DataMall](https://datamall.lta.gov.sg/content/datamall/en.html), [SLA's OneMap](https://www.onemap.gov.sg/apidocs/), and [SingStat](https://www.singstat.gov.sg/find-data/get-latest-data) host additional datasets or provide the same data in different, sometimes more granular formats (e.g. detailed time series, APIs).
-- **OpenStreetMap**: [OpenStreetMap](https://www.openstreetmap.org/) has a high level of quality in Singapore with rapid updates. Its data quality was the subject of some research efforts in our Lab (see [here]({{< ref "/post/2020-08-osm-singapore-building-data-quality/index.md" >}}) and [here]({{< ref "/post/2020-09-3dgeoinfo-3d-asean-paper/index.md" >}})). OSM data for Singapore can be downloaded from [Geofabrik](https://download.geofabrik.de/) or queried using [Overpass Turbo](https://overpass-turbo.eu/). [Overture Maps](https://overturemaps.org) (which is linked to OSM) looks increasingly interesting too.
-- **Research/academic datasets**: Data released by research groups (including ours) alongside publications, often deposited on services such as Figshare, Zenodo, or GitHub.
-- **Community projects**: Independent developers who build tools and release derived data.
-- **Global open datasets with Singapore coverage**: Of course, one should not forget global datasets (e.g. Copernicus) that cover the city-state as well.
+- **OpenStreetMap**. [OpenStreetMap](https://www.openstreetmap.org/) has a high level of quality in Singapore with rapid updates. Its data quality was the subject of some research efforts in our Lab (see [here]({{< ref "/post/2020-08-osm-singapore-building-data-quality/index.md" >}}) and [here]({{< ref "/post/2020-09-3dgeoinfo-3d-asean-paper/index.md" >}})). OSM data for Singapore can be downloaded from [Geofabrik](https://download.geofabrik.de/) or queried using [Overpass Turbo](https://overpass-turbo.eu/). [Overture Maps](https://overturemaps.org) (which is linked to OSM) looks increasingly interesting too.
+- **Research/academic datasets**. Data released by research groups (including ours) alongside publications, often deposited on services such as Figshare, Zenodo, or GitHub.
+- **Community projects**. Independent developers who build tools and release derived data.
+- **Global open datasets with Singapore coverage**. Of course, one should not forget global datasets (e.g. Copernicus) that cover the city-state as well.
 
 ## The List
 
@@ -69,6 +68,7 @@ On that note, complete historical data on any building type (i.e. buildings that
 * [HDB Property Information](https://data.gov.sg/datasets/d_17f5382f26140b1fdae0ba2ef6239d2f/view) contains descriptive information on buildings managed by HDB (with their address, number of units including granular information on their type, year of completion, number of storeys, ...), which is not available in the dataset above, so you could combine both to get a wide array of information about public housing. Like the above mentioned datasets, it also includes non-residential blocks such as multi-storey carparks. There are more than 13k buildings covered by this data, which accommodate more than 80% of residents, so it's definitely of relevance. We used this dataset as one of the input datasets to generate [3D building models]({{< ref "/post/2019-08-hdb-3d/index.md" >}}).
 * Data on buildings other than HDB (landed houses, condos, commercial buildings...) is not as complete.
 data.gov.sg contains another [dataset representing building footprints](https://data.gov.sg/datasets/d_e8e3249d4433845bdd8034ae44329d9e/view) as part of the URA Master Plan, but it is not complete, covering only a subset of buildings, and most of them are HDBs.
+* [Global Building Morphology Indicators](/project/gbmi/) is our open project (tool and data) with building morphology data, including Singapore.
 
 You might want to consider [OpenFACADES](/project/openfacades/), an open framework for architectural caption and attribute data enrichment via street view imagery, developed at our group.
 
@@ -296,24 +296,24 @@ You might also want to check out:
 ## Our tools and datasets
 
 We [publish](/data-code) most of our code and data openly.
+Some of them may be of interest.
 A full list is available on our [data and code page](/data-code/).
-Here are some resources:
+Here are some resources that go well with some of the listed datasets or themes:
 
 * [VoxCity](/project/voxcity/) -- a Python package for open geospatial data integration, 3D city model generation, and urban environment simulation.
-* [Global Streetscapes](/project/global-streetscapes/) -- 10M street-level images including Singapore, with 346 attributes.
+* [Global Streetscapes](/project/global-streetscapes/) -- 10M street-level images including Singapore, with hundreds of attributes.
 * [ZenSVI](/project/zensvi/) -- open-source SVI acquisition, processing and analysis toolkit.
-* [Urbanity](https://github.com/winstonyym/urbanity) -- a feature-rich urban network dataset covering Singapore and 50+ cities.
+* [Urbanity](https://github.com/winstonyym/urbanity) -- a feature-rich urban network dataset (and tool) covering Singapore and 50+ cities.
 * [Global Building Morphology Indicators](/project/gbmi/) -- building morphology data covering SG.
 
 ## What about the rest of Southeast Asia?
 
 While this guide is focused on Singapore, some of our research covers the wider region.
 Southeast Asia presents a more varied and challenging landscape for open urban data.
-
 A few pointers:
 
-* OpenStreetMap remains the single most important source of open geospatial data across the region, though coverage and quality vary greatly between countries and between urban and rural areas. We explored this topic in our [paper on 3D building data in ASEAN]({{< ref "/post/2020-09-3dgeoinfo-3d-asean-paper/index.md" >}}).
-* KartaView has particularly extensive street-level imagery coverage in the region -- arguably the best open source of open SVI for the region. Further, there is [an open dataset](https://kartaview.org/landing/open-imagery) released by Grab focusing on a few cities with expanded street view coverage.
+* [OpenStreetMap](https://www.openstreetmap.org/) remains the single most important source of open geospatial data across the region, though coverage and quality vary greatly between countries and between urban and rural areas. We explored this topic in our [paper on 3D building data in ASEAN]({{< ref "/post/2020-09-3dgeoinfo-3d-asean-paper/index.md" >}}).
+* [KartaView](https://kartaview.org) has particularly extensive street-level imagery coverage in the region -- arguably it is the best open source of open SVI for the region. Further, there is [an open dataset](https://kartaview.org/landing/open-imagery) released by Grab focusing on a few cities with expanded street view coverage.
 * [Google Open Buildings](https://sites.research.google/open-buildings/) provides building footprint data across Southeast Asian countries.
 * Our [Global Streetscapes](/project/global-streetscapes/) includes imagery from several cities across Southeast Asia.
 * Individual countries have their own open data portals with varying levels of maturity -- for example, [data.go.id](https://data.go.id/) (Indonesia), [data.gov.ph](https://data.gov.ph/) (Philippines), and [data.go.th](https://data.go.th/) (Thailand).
