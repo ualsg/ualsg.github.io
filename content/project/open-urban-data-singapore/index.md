@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Guide for open urban data in Singapore"
-subtitle: "Our curated inventory of data relevant for geospatial and urban analyses"
-summary: "Our curated inventory of data relevant for geospatial and urban analyses"
+title: "Guide to open urban data in Singapore"
+subtitle: "An overview of data relevant for geospatial and urban analyses"
+summary: "An overview of data relevant for geospatial and urban analyses"
 authors: [admin, filip]
 tags: [open data, singapore, guide, index, long reads]
 categories: []
