@@ -30,6 +30,13 @@ image:
 
 ---
 
+{{% callout note %}}
+The special issue has been finalised in 2026.
+All the papers are available [here](https://www.sciencedirect.com/special-issue/10QQD2KSJZ7).
+An editorial has also [been published](/publication/2026-jag-rre).
+Thanks to all the authors for their interest and submitting their contributions.
+{{% /callout %}}
+
 We announce a new special issue in the [International Journal of Applied Earth Observation and Geoinformation](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation) on Sustainable geospatial analytics and geoinformatics with repeatable, reproducible, and expandable (RRE) framework and design.
 We welcome submissions until June 2024.
 
