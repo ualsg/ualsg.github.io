@@ -72,7 +72,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Research Staff and Doctoral Researchers
-- People
+- Alumni
 ---
 
 Dr. Jesús Balado-Frías is a Postdoctoral Researcher at the University of Vigo and a member of the GeoTECH research group. He obtained his PhD in Geotechnologies Applied to Construction, Energy, and Industry from the same institution in 2019. His current research focuses on the use of point cloud data, extended reality, and deep learning for applications in construction, road safety, and pedestrian mobility.

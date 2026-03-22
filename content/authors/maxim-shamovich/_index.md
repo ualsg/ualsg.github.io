@@ -68,7 +68,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Research Staff and Doctoral Researchers
-- People
+- Alumni
 ---
 
 Maxim is a PhD researcher at RWTH Aachen University, Germany, with a background in urban building energy modelling and district energy systems. His work focuses on data and information modelling to improve the planning and operation of urban districts, with a strong emphasis on georeferenced data, semantic data models, and unified data integration. He is particularly interested in urban digital twins as well as exploring novel data sources and innovative data-driven methods to advance urban energy and planning research.
