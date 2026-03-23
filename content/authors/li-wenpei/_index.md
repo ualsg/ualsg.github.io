@@ -23,6 +23,37 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: []
 
+interests:
+- Urban data science
+- Landscape planning
+- Healthy cities
+- Urban perceptions
+
+education:
+  courses:
+  - course: PhD Candidate, Department of Architecture
+    institution: National University of Singapore
+  - course: Master of Landscape Architecture
+    institution: Huazhong University of Science and Technology
+    year: 2021
+  - course: Bachelor of Engineering in Landscape Architecture
+    institution: Hubei University of Technology
+    year: 2018
+    
+social:
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/wenpei-li-a56435228/ 
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=JT6U_vYAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Wenpei-Li-3
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-4707-546X
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
