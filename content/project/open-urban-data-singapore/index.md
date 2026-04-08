@@ -4,11 +4,11 @@
 title: "Guide to open urban data in Singapore"
 subtitle: "An overview of data relevant for geospatial and urban analyses"
 summary: "An overview of data relevant for geospatial and urban analyses"
-authors: [admin, filip]
-tags: [open data, singapore, guide, index, long reads]
+authors: [filip, admin]
+tags: [open data, singapore, guide, index, long reads, teaching]
 categories: []
 date: 2026-03-16T08:04:48+08:00
-lastmod: 2026-03-16T16:00:00+08:00
+lastmod: 2026-04-08T19:30:00+08:00
 featured: true
 draft: false
 show_related: false
@@ -24,12 +24,10 @@ image:
 projects: []
 ---
 
-TL;DR: In the spirit of academia and open science, we're making our notes and observations on relevant open data in Singapore public.
-
 ## Introduction
 
 In our research and teaching activities that are focused on Singapore, we rely largely on open data, enabling reproducibility and fostering open science.
-We created a guide on open urban datasets of relevance to help navigate all the resources and uncover some intricacies.
+We created a guide on open urban datasets of relevance to our domain to help navigate all the resources and uncover some intricacies.
 
 This article may be useful to novices to get an overview of what's available in Singapore, but also to seasoned urban data scientists who may learn about datasets they might not have been aware of.
 Some of the datasets listed here are used in our teaching activities, e.g. in our coursework at NUS as part of the [Master of Urban Planning](https://cde.nus.edu.sg/arch/programmes/master-of-urban-planning/) programme.
@@ -50,7 +48,7 @@ For example, [LTA's DataMall](https://datamall.lta.gov.sg/content/datamall/en.ht
 - **OpenStreetMap**. [OpenStreetMap](https://www.openstreetmap.org/) has a high level of quality in Singapore with rapid updates. Its data quality was the subject of some research efforts in our Lab (see [here]({{< ref "/post/2020-08-osm-singapore-building-data-quality/index.md" >}}) and [here]({{< ref "/post/2020-09-3dgeoinfo-3d-asean-paper/index.md" >}})). OSM data for Singapore can be downloaded from [Geofabrik](https://download.geofabrik.de/) or queried using [Overpass Turbo](https://overpass-turbo.eu/). [Overture Maps](https://overturemaps.org) (which is linked to OSM) looks increasingly interesting too.
 - **Research/academic datasets**. Data released by research groups (including ours) alongside publications, often deposited on services such as Figshare, Zenodo, or GitHub.
 - **Community projects**. Independent developers who build tools and release derived data.
-- **Global open datasets with Singapore coverage**. Of course, one should not forget global datasets (e.g. Copernicus) that cover the city-state as well.
+- **Global open datasets with Singapore coverage**. And of course, one should not forget global datasets (e.g. Copernicus) that cover our city-state.
 
 ## The List
 
@@ -60,14 +58,14 @@ For example, [LTA's DataMall](https://datamall.lta.gov.sg/content/datamall/en.ht
 
 About footprints and attributes:
 
-* For all building footprints your best bet is [OpenStreetMap](https://www.openstreetmap.org/), which has [nearly 100% completeness with rapid updates]({{< ref "/post/2020-08-osm-singapore-building-data-quality/index.md" >}}), though attribute data may be [limited]({{< ref "/post/2023-04-bae-openstreetmap-buildings/index.md" >}}). 
+* For all building footprints, your best bet is [OpenStreetMap](https://www.openstreetmap.org/), which has [nearly 100% completeness with rapid updates]({{< ref "/post/2020-08-osm-singapore-building-data-quality/index.md" >}}), though attribute data may be [limited]({{< ref "/post/2023-04-bae-openstreetmap-buildings/index.md" >}}). 
 * Geometric footprints of [existing HDB buildings](https://data.gov.sg/datasets/d_16b157c52ed637edd6ba1232e026258d/view) are available on data.gov.sg.
-There is also a dataset of [public housing projects that are currently under construction](https://data.gov.sg/datasets/d_930e662ac7e141fe3fd2a6efa5216902/view), which is useful if you need to know about future buildings though at the time of writing the underlying data dates from 2018.
+There is also a dataset of [public housing projects that are currently under construction](https://data.gov.sg/datasets/d_930e662ac7e141fe3fd2a6efa5216902/view), which is useful if you need to know about future buildings, though at the time of writing the underlying data dates from 2018.
 Conversely, [HDB closed buildings (100% vacant)](https://data.gov.sg/datasets/d_fa7159e32843947846e4d756d1aa4d7f/view) includes buildings that have been vacated, e.g. for [SERS redevelopment](https://en.wikipedia.org/wiki/Selective_En_bloc_Redevelopment_Scheme).
-On that note, complete historical data on any building type (i.e. buildings that once existed but have since been demolished) is not available openly to the extent of our knowledge. Historical OSM data could be the only option.
-* [HDB Property Information](https://data.gov.sg/datasets/d_17f5382f26140b1fdae0ba2ef6239d2f/view) contains descriptive information on buildings managed by HDB (with their address, number of units including granular information on their type, year of completion, number of storeys, ...), which is not available in the dataset above, so you could combine both to get a wide array of information about public housing. Like the above mentioned datasets, it also includes non-residential blocks such as multi-storey carparks. There are more than 13k buildings covered by this data, which accommodate more than 80% of residents, so it's definitely of relevance. We used this dataset as input to generate [3D building models]({{< ref "/post/2019-08-hdb-3d/index.md" >}}).
+On that note, complete historical data on any building type (i.e. buildings that once existed but have since been demolished) is not available openly to the best of our knowledge. Historical OSM data could be the only option.
+* [HDB Property Information](https://data.gov.sg/datasets/d_17f5382f26140b1fdae0ba2ef6239d2f/view) contains descriptive information on buildings managed by HDB (with their address, number of units including granular information on their type, year of completion, number of storeys, ...), which is not available in the dataset above, so you could combine both to get a wide array of information about public housing. Like the above-mentioned datasets, it also includes non-residential blocks such as multi-storey carparks. There are more than 13k buildings covered by this data, which accommodate more than 80% of residents, so it's definitely of relevance. We used this dataset as input to generate [3D building models]({{< ref "/post/2019-08-hdb-3d/index.md" >}}).
 * Data on buildings other than HDB (landed houses, condos, commercial buildings...) is not as complete.
-data.gov.sg contains another [dataset representing building footprints](https://data.gov.sg/datasets/d_e8e3249d4433845bdd8034ae44329d9e/view) as part of the URA Master Plan, but it is not complete (it is of _indicative_ nature), covering only a subset of buildings, and most of them are HDBs, which are already covered by the above dataset.
+data.gov.sg contains another [dataset representing building footprints](https://data.gov.sg/datasets/d_e8e3249d4433845bdd8034ae44329d9e/view) as part of the URA Master Plan, but it is not complete (it is of an _indicative_ nature), covering only a subset of buildings, and most of them are HDBs, which are already covered by the above dataset.
 * [Global Building Morphology Indicators](/project/gbmi/) is our open project (tool and data) with building morphology data, including Singapore, which has been built using OpenStreetMap data and enriched with a wide range of morphological attributes.
 
 To get additional building characteristics at scale, you might want to consider [OpenFACADES](/project/openfacades/), an open framework for architectural caption and attribute data enrichment via street view imagery, developed at our group.
@@ -94,7 +92,7 @@ There are also Python and R wrappers, such as [onemapsgapi](https://cran.r-proje
 
 Community-maintained dumps of postal code data obtained from OneMap exist on GitHub, such as [this one](https://github.com/xuancong84/singapore-address-heatmap), though these may not always be up to date, which is an important consideration as [they may change with redevelopment](https://www.99.co/singapore/insider/singapore-postal-codes/).
 
-Datasets rarely contain postal codes directly but some relevant ones do; worth to note is that the aforementioned dataset with footprints on [existing HDB buildings](https://data.gov.sg/datasets/d_16b157c52ed637edd6ba1232e026258d/view) contains their postal codes.
+Datasets rarely contain postal codes directly but some relevant ones do; worth noting is that the aforementioned dataset with footprints on [existing HDB buildings](https://data.gov.sg/datasets/d_16b157c52ed637edd6ba1232e026258d/view) contains their postal codes.
 
 [Nominatim](https://nominatim.org) (OpenStreetMap's geocoder) is an alternative for geocoding. 
 
@@ -102,7 +100,7 @@ Datasets rarely contain postal codes directly but some relevant ones do; worth t
 
 {{< figure src="hongbin-A5-PwZF3CrY-unsplash.jpg" title="Photo by [Hongbin](https://unsplash.com/@hbsun2013) on [Unsplash](https://unsplash.com/photos/an-aerial-view-of-a-city-with-tall-buildings-A5-PwZF3CrY)." lightbox="true" >}}
 
-Similarly like in the above section, most of the data available comes from HDB and it is deposited on data.gov.sg:
+As in the above section, most of the data available comes from HDB and it is deposited on data.gov.sg:
 
 * [HDB Resale Flat Prices](https://data.gov.sg/collections/189/view) contains detailed transactions, including the address, storey level, price, remaining lease, floor area, etc. of resale HDB flats. This dataset is regularly updated and extends back to 1990, so quite a period is covered. To give you an impression of its size: according to it, in the latest available complete year, there are 25k transactions.
 * [Renting out of flats](https://data.gov.sg/datasets/d_c9f57187485a850908655db0e8cfe651/view) contains individual HDB monthly rents from January 2021 onwards, including town, block, street, and flat type. The data is indicative (owner-declared) and not verified by the statutory board.
@@ -122,11 +120,11 @@ Although not open data, it is worth mentioning that NUS staff and students have 
 On [data.gov.sg](https://data.gov.sg) you will find [scores of datasets](https://data.gov.sg/datasets?topics=economy&agencies=SINGSTAT&resultId=d_b2adcabcfc9c4352f3086f1a61f77bc0) at different levels (planning area, subzones) and from different years. For example, you can find datasets on households by income and size, resident population by planning area, dwelling type, age, and ethnic group, among many others. Some of them are available in a geospatial format directly; though those that are not in a geospatial format can be easily joined with one as they typically rely on planning areas or subzones.
 
 Another important venue for demographic data is [SingStat](https://www.singstat.gov.sg/find-data/explore-data-themes/population), which has [detailed time series datasets with geographic distribution](https://www.singstat.gov.sg/find-data/explore-data-themes/population/geographic-distribution/latest-news-data).
-Note that many demographic datasets do not include foreigners who are not permanent residents, which represent a sizeable portion of the population.
+Note that many demographic datasets do not include foreigners who are not permanent residents, who represent a sizeable portion of the population.
 
 SLA's [OneMap API](https://www.onemap.gov.sg/apidocs/) also enables retrieving various demographic data at the planning area and subzone level.
 
-For researchers at Singapore's universities, SingStat runs the [Anonymised Microdata Access Programme (AMAP)](https://www.singstat.gov.sg/data-tools-services/anonymised-microdata-access-programme-amap), which enables them access to more detailed data.
+For researchers at Singapore's universities, SingStat runs the [Anonymised Microdata Access Programme (AMAP)](https://www.singstat.gov.sg/data-tools-services/anonymised-microdata-access-programme-amap), which gives them access to more detailed data.
 This is not open data and access must be approved (and it is also not free), but it is worth knowing about for those who need more granular analyses than publicly available datasets allow.
 
 ### Energy consumption / sustainability
@@ -136,7 +134,7 @@ Some notable entries:
 * The [Energy Market Authority (EMA)](https://www.ema.gov.sg/resources/singapore-energy-statistics) publishes electricity generation and consumption statistics. There are also some EMA datasets like [Average Monthly Household Electricity Consumption by Planning Area & Dwelling Type](https://data.gov.sg/datasets/d_634194a40f36e5bc11a942ab0164fa9d/view) released on data.gov.sg, but they are not up to date.
 * [Solar PV Installations by URA Planning Region](https://data.gov.sg/datasets/d_cd4f91f7a1ebb2b7ceb1a70c0dbb706d/view), released by EMA. 
 * [Green Mark buildings](https://data.gov.sg/datasets/d_da116ef216e3fb501846e1c9faf7e683/view) (a geospatial dataset by BCA), which can be useful for research on sustainable buildings.
-* EV charging points is available through the [LTA DataMall](https://datamall.lta.gov.sg/content/datamall/en/dynamic-data.html).
+* EV charging points are available through the [LTA DataMall](https://datamall.lta.gov.sg/content/datamall/en/dynamic-data.html).
 
 ### Transportation / mobility
 
@@ -157,9 +155,9 @@ Furthermore, there is a [GitHub repo](https://github.com/thecrapone/singapore-gt
 
 #### Origin-destination (OD) data and passenger volumes
 
-The [LTA DataMall](https://datamall.lta.gov.sg/content/datamall/en/dynamic-data.html) has APIs that enable downloading public transport (bus, train) OD data every month. For example, it contains the number of passengers that have travelled between two stations, in a granular manner by type of day (weekday/weekend) and hour, as monthly average. Data is available for the past three months. Historical data is not available. Do note that the entire trip is not available; it is limited to the transportation mode. As the above mentioned data on locations of bus stops does not contain historical data, those that have been removed are simply absent from it, though you may still encounter references to them in older OD data, which can cause mismatches when joining the two.
+The [LTA DataMall](https://datamall.lta.gov.sg/content/datamall/en/dynamic-data.html) has APIs that enable downloading public transport (bus, train) OD data every month. For example, it contains the number of passengers that have travelled between two stations, in a granular manner by type of day (weekday/weekend) and hour. Data is available for the past three months. Historical data is not available. Do note that the entire trip is not available; it is limited to the transportation mode. As the above-mentioned data on locations of bus stops does not contain historical data, those that have been removed are simply absent from it, though you may still encounter references to them in older OD data, which can cause mismatches when joining the two.
 
-About MRT/LRT stations & volumes, worth noting that there are dynamic APIs, both via the [LTA DataMall](https://datamall.lta.gov.sg/content/datamall/en/dynamic-data.html), which return real-time platform crowdedness level and forecast at 30-minute intervals.
+About MRT/LRT stations & volumes, it is worth noting that there are dynamic APIs, both via the [LTA DataMall](https://datamall.lta.gov.sg/content/datamall/en/dynamic-data.html), which return real-time platform crowdedness level and forecast at 30-minute intervals.
 
 #### Parking data
 
@@ -199,6 +197,8 @@ OpenStreetMap is pretty good for most kinds of features (e.g. parks, roads, foot
 
 Well worth mentioning is also the Geospatial Whole Island dataset available through the [LTA DataMall](https://datamall.lta.gov.sg/content/datamall/en/static-data.html). It contains a variety of features related to transportation and under their purview, e.g. road crossings, traffic lights, taxi stands, and cycling paths.
 
+The [OneMap Themes API](https://www.onemap.gov.sg/apidocs/) is worth highlighting as a comprehensive source of POI data, covering dozens of categories such as schools, healthcare facilities, parks, hawker centres, sports facilities, and more.
+
 [data.gov.sg](https://data.gov.sg) hosts some key geospatial datasets including:
 
 * Master Plan 2025 datasets such as [land use](https://data.gov.sg/datasets/d_a8c3546b26712e35021f3a681d0353ae/view) and [subzone boundaries](https://data.gov.sg/datasets/d_7a36470accc937bd7752ba6f829b74c1/view). These supersede the earlier Master Plan 2019 datasets (which remain available for historical comparison). Search data.gov.sg for [`"master plan 2025"`](https://data.gov.sg/datasets?query=%22master+plan+2025%22) to find the complete set.
@@ -237,7 +237,7 @@ Some coarse terrain data options:
 * [KartaView](https://kartaview.org/) is a crowdsourced street-level imagery platform managed by [Grab](https://www.grab.com/), a company headquartered in Singapore, which has also been (substantially) contributing to the data. The imagery has extensive coverage and it is available openly.
 * [Mapillary](https://www.mapillary.com), a similar platform owned by Meta, provides crowdsourced street-level imagery under an open licence.
 
-Some of our projects may also be relevant:
+Some of our open projects may also be relevant:
 * [Global Streetscapes](/project/global-streetscapes/) is our dataset of 10 million crowdsourced street-level images sampled from 688 cities worldwide (including Singapore), obtained from the two platforms above, and then enriched with hundreds of attributes covering weather, quality, lighting conditions, and more. Published also as a [journal paper]({{< ref "/publication/2024-global-streetscapes/index.md" >}}). Grab featured our project in their blog post [How the National University of Singapore Made Millions of Street View Imagery Meaningful](https://grabmaps.grab.com/resources/how-the-national-university-of-singapore-made-millions-of-street-view).
 * Nighttime street-level imagery: while SVI is almost exclusively captured during daytime, our {{% mention "zicheng" %}} has collected and released an open dataset of [nighttime panoramic SVIs across Singapore](https://github.com/zichengfan/Nighttime-SVI). This work, published in [a paper]({{< ref "/publication/2024-scs-night-svi/index.md" >}}), opens up a new paradigm for sensing urban lighting landscapes from a human perspective.
 * [SPECS](/project/specs/) -- Street Perception Evaluation Considering Socioeconomics, is our recent open project that contains data on how people around the world (including 200 in Singapore) perceive images of streets (including those in SG).
@@ -265,6 +265,7 @@ Check out also [the website of Meteorological Service Singapore](https://www.wea
 
 * [Eating establishments by NEA](https://data.gov.sg/datasets/d_1f0313499a17075d13aae6ed3e825bc6/view) is a comprehensive geospatial dataset on non-retail places licensed to sell food in Singapore.
 * [Hawker centres](https://data.gov.sg/datasets/d_4a086da0a5553be1d89383cd90d07ecd/view) and [supermarkets](https://data.gov.sg/datasets/d_cac2c32f01960a3ad7202a99c27268a0/view) datasets on data.gov.sg.
+* The [OneMap Themes API](https://www.onemap.gov.sg/apidocs/) includes food-related categories such as hawker centres and eating establishments, and covers many other POI types as well.
 * OpenStreetMap and Overture are options to consider, but their POI completeness varies.
 
 ### Airbnb / tourism
@@ -304,7 +305,7 @@ The usual caveats:
 
 You might also want to check out [Open Geospatial Data SG](https://nusgis.org/data/) by NUS Geography collaborator [Yingwei Yan](https://discovery.nus.edu.sg/19079-yingwei-yan), which gives a high-level overview of data resources in Singapore and provides a presentation on technical details how to obtain datasets from some particular platforms.
 
-## Our tools and datasets
+## Our open tools and open datasets
 
 We [publish](/data-code) most of our code and data openly.
 Some of them may be of interest.
@@ -319,7 +320,7 @@ Here are some resources that go well with some of the above listed datasets or t
 
 ## What about the rest of Southeast Asia?
 
-While this guide is focused on Singapore, some of our research covers the wider region.
+While this guide is focused on Singapore, some of our research spans the wider region.
 Southeast Asia presents a more varied and challenging landscape for open urban data.
 A few pointers:
 
@@ -328,7 +329,7 @@ A few pointers:
 * [Google Open Buildings](https://sites.research.google/open-buildings/) provides building footprint data across Southeast Asian countries.
 * Our [Global Streetscapes](/project/global-streetscapes/) includes imagery from several cities across Southeast Asia.
 * Individual countries have their own open data portals with varying levels of maturity -- for example, [data.go.id](https://data.go.id/) (Indonesia), [data.gov.ph](https://data.gov.ph/) (Philippines), and [data.go.th](https://data.go.th/) (Thailand).
-* Well worth mentioning is that The Philippines is one of the rare countries with open [nation-wide open lidar data](https://lipad.dream.upd.edu.ph).
+* Well worth mentioning is that the Philippines is one of the rare countries with open [nation-wide open lidar data](https://lipad.dream.upd.edu.ph).
 
 ### Have a suggestion for an entry? Spotted an error?
 
