@@ -34,6 +34,27 @@ Feel free to contact us for more information, report bugs and errors, or simply 
 We would be pleased to learn how others are using our work.
 If you are interested in collaborating with us, please get in touch with the lead developer of each resource listed below.
 
+## Vision2Slope
+
+![](vision2slope.png)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | An integrated pipeline for two-level road slope analysis from single panoramic street view images. |
+| Lead developer: | {{% mention "yang-chen" %}} |
+| Further reading: | Please read the [paper](https://doi.org/10.1080/13658816.2026.2656269) published in IJGIS |
+| Repository: | [<i class="fab fa-github"></i>  Github repo](https://github.com/CubicsYang/Vision2Slope) |
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2026_ijgis_vision2slope,
+    author = {Chen, Yang and Fan, Zicheng and Li, Hao and Zhao, Wufan and Yang, Xin and Tang, Guoan and Biljecki, Filip},
+    doi = {10.1080/13658816.2026.2656269},
+    journal = {International Journal of Geographical Information Science},
+    pages = {1--45},
+    title = {Vision2Slope: estimating urban road slopes with street view imagery},
+    year = {2026}
+}
+{{< /spoiler >}}|
+
 ## VoxCity
 
 ![](voxcity.png)
