@@ -624,6 +624,28 @@ volume = {228}
 
 # With our friendly collaborators
 
+## ProbGLC
+
+![](ProbGLC.png)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | a Probabilistic Cross-view GeoLocalization approach designed to enable generative location awareness for rapid disaster response. |
+| Lead developer: | [Hao Li](https://bobleegogogo.github.io) |
+| Data: | [Github](https://github.com/bobleegogogo/ProbGLC) |
+| Further reading: | Please read the [paper](https://doi.org/10.1016/j.isprsjprs.2026.03.050) published in IJPRS |
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2026_ijprs_ProbGLC,
+  author = {Li, Hao and Deuser, Fabian and Yin, Wenping and Knoblauch, Steffen and Zhao, Wufan and Biljecki, Filip and Xue, Yong and Huang, Wei},
+  doi = {10.1016/j.isprsjprs.2026.03.050},
+  journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+  pages = {130--145},
+  title = {Towards generative location awareness for disaster response: A probabilistic cross-view geolocalization approach},
+  volume = {237},
+  year = {2026}
+}
+{{< /spoiler >}}|
+
 ## Window Views dataset
 
 ![](window-views.jpg)
