@@ -93,18 +93,18 @@ user_groups:
 - People
 ---
 
-Dr Filip Biljecki is jointly appointed as faculty at the Department of Architecture (College of Design and Engineering) and the Department of Real Estate (NUS Business School) at the National University of Singapore.
+Dr Filip Biljecki is jointly appointed as faculty member at the Department of Architecture (College of Design and Engineering) and the Department of Real Estate (NUS Business School) at the National University of Singapore.
 He is the founder and the principal investigator of the [NUS Urban Analytics Lab](/).
 In 2020 [he was appointed]({{< ref "/post/2020-07-filip-pyp/index.md" >}}) as NUS Presidential Young Professor.
 
-Filip has published more than 170 peer-reviewed articles, which have been cited over 10,000 times.
+Filip has published more than 180 peer-reviewed articles, which have been cited over 12,000 times.
 His research and teaching have been recognised through multiple awards, and he has supervised dozens of students, leading them to publications in leading journals and placements at top universities and organisations. 
 He delivered talks at more than 150 universities and organisations worldwide, e.g. MIT, Stanford, Harvard, Berkeley, Peking, Tsinghua, University of Tokyo, Princeton, University of Hong Kong, Seoul National University, and ETH Zurich.
 
 Filip serves the community through associate editor roles in two prominent journals in urban studies: Computers, Environment and Urban Systems & Landscape and Urban Planning, and co-chair roles in OGC and ISPRS.
 
 His background is in Geomatic engineering.
-Filip holds a [PhD degree](https://filipbiljecki.com/phd.html) (with highest honours) in 3D GIS from the Delft University of Technology in the Netherlands, where he also did an MSc in Geomatics.
+Filip holds a [PhD degree](https://filipbiljecki.com/phd.html) (with highest honours) from the Delft University of Technology in the Netherlands, where he also did an MSc in Geomatics.
 In between, he accummulated industry experience as well, and has served as a consultant for companies and governments in the implementation of spatial data infrastructures.
 The list of his publications is available [here](https://filipbiljecki.com/#publications).
 

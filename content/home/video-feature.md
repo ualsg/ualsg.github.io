@@ -20,8 +20,8 @@ author = "admin"
 <script src="https://player.vimeo.com/api/player.js"></script>
 <br />
 
-We are introducing innovative methods, datasets, and software to derive new insights in cities and advance data-driven urban planning, digital twins, and geospatial technologies in establishing and managing the smart cities of tomorrow. 
-Converging multidisciplinary approaches inspired by recent advancements in computer science, geomatics and urban data science, and influenced by crowdsourcing and open science, we conceive cutting-edge techniques for urban sensing and analytics at the city-scale.
+We are developing quantitative methods and tools that leverage emerging geospatial data and AI to sense the form, function, and human experience of cities.
+
 Watch the [video](https://vimeo.com/764033095) above or read more [here](/about/).
 
 Established and directed by {{% mention "filip" %}}, we are proudly based at the [Department of Architecture](https://cde.nus.edu.sg/arch/) at the [College of Design and Engineering](https://cde.nus.edu.sg) of the [National University of Singapore](https://www.nus.edu.sg), a leading global university centered in the heart of Southeast Asia.

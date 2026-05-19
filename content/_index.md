@@ -49,20 +49,18 @@ sections:
   - block: markdown
     content:
       title: About us
-      text: <div style="padding:56.25% 0 0 0;position:relative;">
+      text:         We are developing quantitative methods and tools that leverage emerging geospatial data and AI to sense the form, function, and human experience of cities.
+
+        Watch the <a href="https://vimeo.com/764033095">video</a> below or read more <a href="/about/">here</a>.<br /><br />
+
+        Established and directed by {{% mention "filip" %}}, we are proudly based at the <a href="https://cde.nus.edu.sg/arch/">Department of Architecture</a> at the <a href="https://cde.nus.edu.sg">College of Design and Engineering</a> of the <a href="https://www.nus.edu.sg">National University of Singapore</a>, a leading global university centered in the heart of Southeast Asia.
+        We are also affiliated with the <a href="https://bschool.nus.edu.sg/real-estate/">Department of Real Estate</a> at the <a href="https://bschool.nus.edu.sg">NUS Business School</a>.
+
+        <div style="padding:56.25% 0 0 0;position:relative;">
         <iframe src="https://player.vimeo.com/video/764033095?h=f100addf1d&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>
         </iframe>
         </div>
         <script src="https://player.vimeo.com/api/player.js"></script>
-        <br />
-
-        We are introducing innovative methods, datasets, and software to derive new insights in cities and advance data-driven urban planning, digital twins, and geospatial technologies in establishing and managing the smart cities of tomorrow. 
-
-        Converging multidisciplinary approaches inspired by recent advancements in computer science, geomatics and urban data science, and influenced by crowdsourcing and open science, we conceive cutting-edge techniques for urban sensing and analytics at the city-scale.
-        Watch the <a href="https://vimeo.com/764033095">video</a> above or read more <a href="/about/">here</a>.<br /><br />
-
-        Established and directed by {{% mention "filip" %}}, we are proudly based at the <a href="https://cde.nus.edu.sg/arch/">Department of Architecture</a> at the <a href="https://cde.nus.edu.sg">College of Design and Engineering</a> of the <a href="https://www.nus.edu.sg">National University of Singapore</a>, a leading global university centered in the heart of Southeast Asia.
-        We are also affiliated with the <a href="https://bschool.nus.edu.sg/real-estate/">Department of Real Estate</a> at the <a href="https://bschool.nus.edu.sg">NUS Business School</a>.
     design:
       columns: '2'
 
