@@ -12,4 +12,4 @@ subtitle = "Openings, scholarships, and fellowships"
   columns = "2"
 +++
 
-Please check the [opportunities page](openings/) for more information how to join us.
+Please check the [opportunities page](/opportunities/) for more information how to join us.

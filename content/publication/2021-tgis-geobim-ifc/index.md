@@ -18,6 +18,5 @@ abstract: "Industry Foundation Classes (IFC), the buildingSMART open standard fo
 featured: false
 publication: "*Transactions in GIS*"
 doi: "10.1111/tgis.12709"
-projects:
-- geobim-benchmark
+projects: []
 ---

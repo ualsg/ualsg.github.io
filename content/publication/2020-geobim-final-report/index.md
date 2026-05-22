@@ -9,7 +9,6 @@ For GeoBIM (integration of geoinformation with building information models), the
 This benchmark was useful to gather best practices and data about the functioning of useful tools to manage standardized data. Common behaviors and potential problems were pointed out and the discussion about the use of standards was further pushed."
 featured: false
 publication: ""
-projects:
-- geobim-benchmark
+projects: []
 ---
 

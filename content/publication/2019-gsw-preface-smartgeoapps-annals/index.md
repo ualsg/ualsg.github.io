@@ -2,7 +2,7 @@
 title: "Preface -- ISPRS workshop on advanced geospatial applications for smart cities and regions (SmartGeoApps 2019)"
 date: 2019-05-01
 publishDate: 2019-07-07T23:45:31.873035Z
-authors: ["Giorgio Agugiaro", "Mila Koeva", "Tu Wei", " filip"]
+authors: ["Giorgio Agugiaro", "Mila Koeva", "Tu Wei", "filip"]
 publication_types: ['paper-conference']
 abstract: ""
 featured: false
@@ -18,8 +18,7 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-project:
-- urban-modelling-smart-cities
+projects: []
 
 ---
 

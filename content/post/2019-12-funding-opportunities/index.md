@@ -30,9 +30,9 @@ image:
 projects: []
 ---
 
-We prepared [a list](/openings/) of external funding opportunities to carry out a PhD, postdoc, or visiting research with us.
+We prepared [a list](/opportunities/) of external funding opportunities to carry out a PhD, postdoc, or visiting research with us.
 Are you interested in applying for one of these to conduct research in GIS, 3D & urban analytics?
 [Contact us](/#contact).
-Visit our [opportunities page](/openings/) for the full list.
+Visit our [opportunities page](/opportunities/) for the full list.
 
 ![](featured.png)

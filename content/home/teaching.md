@@ -13,5 +13,3 @@ subtitle = "Our education activities"
 +++
 
 We are involved in teaching master courses and supervising dissertations.
-Are you looking for a thesis topic?
-Please check the [teaching page](teaching/) for more information.

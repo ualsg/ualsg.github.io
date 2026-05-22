@@ -42,7 +42,7 @@ While the start and the time frame of the work are subject to mutual agreement, 
 
 Please note that this engagement is in principle not intended to be framed as a thesis project.
 If you are interested in conducting a master thesis with us, you are welcome to contact us. 
-Please have a look at the [topics we offer and examples of completed theses](/teaching/#theses-dissertations-and-capstone-projects).
+Please have a look at the [topics we offer and examples of completed theses](/opportunities/student-projects/).
 You are also free to propose your own project.
 Do note that master theses are rather for credits and fulfilling graduation requirements, therefore, they are not paid.
 

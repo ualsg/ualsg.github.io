@@ -27,7 +27,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [geobim-benchmark]
+projects: []
 ---
 
 {{< figure src="featured.jpg" title="Views of the Myran model converted to CityGML by the test AGIS-FME-IFCr-L1, visualized in azul. In this case, the roof is missing." numbered="false" lightbox="true" >}}

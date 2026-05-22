@@ -31,8 +31,8 @@ projects: []
 ---
 
 We are half way through the academic year, and many NUS students are looking for a topic for their dissertation/thesis, or simply to learn something new.
-We created [a list of student projects](/teaching/#theses-dissertations-and-capstone-projects) within the frame of GIS, 3D city modelling & urban analytics.
+We created [a list of student projects](/opportunities/student-projects/) within the frame of GIS, 3D city modelling & urban analytics.
 Our topics are suitable for different study programmes, from Geography to Computer Science, and relate to thrilling real-world problems and enable learning new skills.
 Thanks to the [NUS non-graduating non-exchange scheme](http://www.nus.edu.sg/registrar/education-at-nus/non-graduating-programme.html), students from outside NUS and Singapore are eligible to participate as well.
 
-Have a look at the [list](/teaching/#theses-dissertations-and-capstone-projects), and feel free to get in touch.
+Have a look at the [list](/opportunities/student-projects/), and feel free to get in touch.

@@ -27,12 +27,12 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [geobim-benchmark]
+projects: []
 ---
 
 {{< figure src="featured.jpg" title="Cross-software comparison of exporting IFC models." numbered="false" lightbox="true" >}}
 
-The [GeoBIM Benchmark 2019](/project/geobim-benchmark) is finalised with two papers published in tandem in Transactions in GIS.
+The [GeoBIM Benchmark 2019](https://3d.bk.tudelft.nl/projects/geobim-benchmark/) is finalised with two papers published in tandem in Transactions in GIS.
 These back-to-back papers describe our findings on the software support of IFC and CityGML.
 There is also a [third paper]({{< ref "/post/2020-09-geobim-ijgi-paper/index.md" >}}), announced previously, describing the part of the benchmark focusing on BIM-GIS Integration (IFC georeferencing and conversions).
 

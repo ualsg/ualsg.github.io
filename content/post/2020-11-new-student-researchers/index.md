@@ -117,4 +117,4 @@ Teaching activities in Geographic Information Systems (GIS) and Cartography.
 
 Welcome everyone!
 
-We might be [accepting new student researchers next year](/openings/ads/2020-student-researcher-gis/), so keep an eye at our [openings page](/openings) if interested.
+We might be [accepting new student researchers next year](/opportunities/ads/2020-student-researcher-gis/), so keep an eye at our [opportunities page](/opportunities) if interested.

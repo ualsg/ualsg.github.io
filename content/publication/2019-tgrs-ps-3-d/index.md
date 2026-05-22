@@ -8,6 +8,5 @@ abstract: "Persistent scatterers (PSs) are coherent measurement points obtained 
 featured: false
 publication: "*IEEE Transactions on Geoscience and Remote Sensing*"
 doi: "10.1109/TGRS.2019.2901904"
-projects:
-- urban-modelling-smart-cities
+projects: []
 ---

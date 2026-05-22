@@ -37,7 +37,7 @@ We are glad to share our new paper:
 This research was led by {{% mention "binyu" %}}.
 Congratulations on her continued successes and great work! :raised_hands: :clap:
 
-This publication is the latest one from her line of research on digital twins, following her recently published work on [assessing and benchmarking 3D city models](/publication/2022-ijgis-3-d-city-index/) (in [IJGIS](https://doi.org/10.1080/13658816.2022.2140808)).
+This publication is the latest one from her line of research on digital twins, following her recently published work on [assessing and benchmarking 3D city models](/publication/2023-ijgis-3-d-city-index/) (in [IJGIS](https://doi.org/10.1080/13658816.2022.2140808)).
 
 The paper presents a comprehensive overview of challenges to the adoption of digital twins at the urban scale.
 The review was achieved with a dual method: a systematic literature review (primarily covering academia) and an expert survey (mainly focused on government and industry stakeholders) conducted according to the stringent Delphi method involving dozens of experts around the world.

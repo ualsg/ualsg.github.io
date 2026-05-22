@@ -8,7 +8,6 @@ abstract: "An investigation into the implementation state of open standards in s
 featured: false
 publication: "*Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.*"
 doi: "10.5194/isprs-archives-XLII-4-W15-47-2019"
-projects:
-- geobim-benchmark
+projects: []
 ---
 

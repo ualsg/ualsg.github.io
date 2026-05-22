@@ -31,8 +31,6 @@ The Github repository is available [here](https://github.com/kunifujiwara/VoxCit
 
 ![](5.jpg)
 
-![](6.jpg)
-
 ## Paper and attribution
 
 A [paper](https://doi.org/10.1016/j.compenvurbsys.2025.102366) describing the development has been published in _Computers, Environment and Urban Systems_.

@@ -23,6 +23,8 @@ Please note that such engagements are not paid.
 Students use them to obtain credits and clear requirements by study programmes. 
 We advertise part-time RA and similar opportunities in internal channels of the university and/or on our website, please refer to those if you are looking for such position.
 
+<a id="theses-dissertations-and-capstone-projects"></a>
+
 ### Some examples of completed theses / graduation projects in the past few years
 
 {{< theses_finished >}}

@@ -27,9 +27,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- geobim-benchmark
-- urban-modelling-smart-cities
+projects: []
 ---
 The [ISPRS Geospatial Week 2019](https://www.gsw2019.org) was held in Enschede, the Netherlands.
 As part of the [ISPRS WG IV/10 (Advanced Geospatial Applications for Smart Cities and Regions)](http://www2.isprs.org/commissions/comm4/wg10.html), we have been involved in the organisation of the [ISPRS Workshop on Advanced Geospatial Applications for Smart Cities and Regions (SmartGeoApps 2019)](https://www.gsw2019.org/smartgeoapps/).

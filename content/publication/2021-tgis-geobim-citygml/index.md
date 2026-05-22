@@ -17,7 +17,6 @@ abstract: "OGC CityGML is an open standard for 3D city models intended to foster
 featured: false
 publication: "*Transactions in GIS*"
 doi: "10.1111/tgis.12710"
-projects:
-- geobim-benchmark
+projects: []
 ---
 

@@ -27,7 +27,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [urban-modelling-smart-cities]
+projects: []
 ---
 
 {{< figure src="featured.png" title="Shadow calculation for five building models (top) and their derived compact counterparts (bottom), where it can be found that the areas of the building shadows are nearly the same while the number of triangles has been greatly reduced." numbered="false" lightbox="true" >}}

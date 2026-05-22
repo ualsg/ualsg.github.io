@@ -27,7 +27,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [urban-modelling-smart-cities]
+projects: []
 ---
 
 The [World Economic Forum (WEF)](https://www.weforum.org) has published a new report: _Smart at Scale: Cities to Watch_.

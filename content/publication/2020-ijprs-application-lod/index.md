@@ -8,7 +8,6 @@ abstract: "The level of detail (LOD) concept for 3D building models, which indic
 featured: false
 publication: "*ISPRS Journal of Photogrammetry and Remote Sensing*"
 doi: "10.1016/j.isprsjprs.2020.01.019"
-projects:
-    - urban-modelling-smart-cities
+projects: []
 ---
 

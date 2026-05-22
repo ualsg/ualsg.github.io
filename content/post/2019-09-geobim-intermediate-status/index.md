@@ -27,7 +27,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [geobim-benchmark]
+projects: []
 ---
 
 We have been involved in the [ISPRS/EuroSDR GeoBIM benchmark](https://3d.bk.tudelft.nl/projects/geobim-benchmark/), a study to investigate the state of the art of software adoption of IFC and CityGML.
