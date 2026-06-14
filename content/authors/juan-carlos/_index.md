@@ -17,7 +17,7 @@ role: Visiting Scholar
 
 # Organizations/Affiliations
 organizations:
-- name: "University of Vigo"
+- name: "University of Navarra"
   #url: ""
 
 # Short bio (displayed in user profile at end of posts)
