@@ -18,7 +18,7 @@ Our mission is to leverage and make sense of big geospatial data at different sc
 We are particularly interested in the interface of emerging urban datasets such as street-level imagery, dynamic/sensor data, and 3D city models with the state of the art of artificial intelligence to solve contemporary urban challenges and provide a strong foundation to advance urban informatics.
 Crowdsourcing plays an important role in our research, as we follow and contribute to the vibrant and impressive developments in Volunteered Geographic Information (VGI) and engage such data in our advancements.
 
-The research group was established in 2019 by its Director/PI Dr {{% mention "filip" %}}, Assistant Professor at the [NUS College of Design and Engineering](https://www.cde.nus.edu.sg) and the [NUS Business School](https://bschool.nus.edu.sg), and has been a home for [dozens of enthusiastic researchers](/people) who share ambitions about making our cities smarter.
+The research group was established in 2019 by its Director/PI Dr {{% mention "filip" %}}, Associate Professor at the [NUS College of Design and Engineering](https://www.cde.nus.edu.sg) and the [NUS Business School](https://bschool.nus.edu.sg), and has been a home for [dozens of enthusiastic researchers](/people) who share ambitions about making our cities smarter.
 You can read more about our research agenda also in [an interview with the PI](https://news.nus.edu.sg/creating-a-map-for-the-future).
 
 ![](banner-gbmi.png)

@@ -93,22 +93,20 @@ user_groups:
 - People
 ---
 
-Dr Filip Biljecki is jointly appointed as faculty member at the Department of Architecture (College of Design and Engineering) and the Department of Real Estate (NUS Business School) at the National University of Singapore.
+Dr Filip Biljecki is jointly appointed as an Associate Professor at the Department of Architecture (College of Design and Engineering) and the Department of Real Estate (NUS Business School) at the National University of Singapore.
 He is the founder and the principal investigator of the [NUS Urban Analytics Lab](/).
 In 2020 [he was appointed]({{< ref "/post/2020-07-filip-pyp/index.md" >}}) as NUS Presidential Young Professor.
 
-Filip has published more than 180 peer-reviewed articles, which have been cited over 12,000 times.
-His research and teaching have been recognised through multiple awards, and he has supervised dozens of students, leading them to publications in leading journals and placements at top universities and organisations. 
-He delivered talks at more than 150 universities and organisations worldwide, e.g. MIT, Stanford, Harvard, Berkeley, Peking, Tsinghua, University of Tokyo, Princeton, University of Hong Kong, Seoul National University, and ETH Zurich.
-
-Filip serves the community through associate editor roles in two prominent journals in urban studies: Computers, Environment and Urban Systems & Landscape and Urban Planning, and co-chair roles in OGC and ISPRS.
+Filip has published 200 peer-reviewed articles, which have been cited over 13,000 times, and some of the work has been translated into practice such as implementation in standards.
+His research and teaching have been recognised through multiple international awards, and he has supervised dozens of students, leading them to publications in leading journals and placements at top universities and organisations. He delivered invited talks at more than 150 universities and organisations worldwide.
+Filip serves the community through associate editor roles in two journals in urban studies: Computers, Environment and Urban Systems & Landscape and Urban Planning.
 
 His background is in Geomatic engineering.
 Filip holds a [PhD degree](https://filipbiljecki.com/phd.html) (with highest honours) from the Delft University of Technology in the Netherlands, where he also did an MSc in Geomatics.
 In between, he accummulated industry experience as well, and has served as a consultant for companies and governments in the implementation of spatial data infrastructures.
-The list of his publications is available [here](https://filipbiljecki.com/#publications).
+The full list of his publications is available [here](https://filipbiljecki.com/#publications).
 
-### Additional appointments and service
+### Additional appointments and service (past and present)
 
 * [Computers, Environment and Urban Systems](https://www.sciencedirect.com/journal/computers-environment-and-urban-systems) -- Associate Editor
 * [Landscape and Urban Planning](https://www.journals.elsevier.com/landscape-and-urban-planning) -- Subject Associate Editor (Urban Analytics)
@@ -128,6 +126,7 @@ The list of his publications is available [here](https://filipbiljecki.com/#publ
 
 ### Awards and honours (selected)
 
+* [Gill Memorial Award by the Royal Geographical Society (UK), 2026](https://www.rgs.org/about-us/our-work/medals-awards-and-prizes/society-medals-and-awards/2026)
 * Annual Teaching Excellence Award (ATEA), 2025
 * College Educator Award AY2023/2024, 2025
 * 3D GeoInfo best paper award, 2023
