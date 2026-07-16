@@ -24,6 +24,17 @@ To stay updated, please follow our [LinkedIn account](https://www.linkedin.com/c
 
 ---
 
+### 2026-07-23 --- Sensing people and places with emerging urban data and spatial intelligence
+
+We have two guest lectures in a joint session:
+
+- Estimating Building Style, Quality and Performance with Multi-source Ground Sensing Data in Mustang, Nepal, by [Professor Ying Long](https://www.arch.tsinghua.edu.cn/info/FUrban%20Planning%20and%20Design/1760), Tsinghua University
+- From Human Mobility Data to Spatial Intelligence for Inclusive and Sustainable Cities, by [Professor Chen Zhong](https://profiles.ucl.ac.uk/46973-chen-zhong), University College London
+
+![](2026-07-23.jpg)
+
+---
+
 ### 2026-01-28 --- Rethinking cities in the age of AI 
 
 Departing from the usual format, this time, we are hosting a joint seminar with guests from Australia, Korea, and China:
