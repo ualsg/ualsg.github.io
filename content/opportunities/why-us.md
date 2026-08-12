@@ -17,6 +17,8 @@ We continuously explore new frontiers in the geospatial field, such as urban dig
 
 [Our papers](/publication/) are continuously published in top journals and are impactful across academia, government, and industry.
 
+Read more about us on our [About page](/about).
+
 Our [department](https://cde.nus.edu.sg/arch/) is consistently [ranked among the best in the world]({{< ref "/post/2021-03-qs-ranking/index.md" >}}).
 
 Working at NUS means being part of a leading global university centred in Asia ([world's top 10 according to QS]({{< ref "/post/2024-06-qs-ranking/index.md" >}})) with connections to an extensive network of experts across interdisciplinary domains.
@@ -28,7 +30,7 @@ Our Lab is located at SDE4, [the first newly-built net-zero energy building in S
 The Principal Investigator of the Lab was [awarded](/post/2020/07/16/filip-biljecki-appointed-as-presidential-young-professor/) the prestigious presidential young professorship in 2020, supporting the longterm development of the research group.
 
 Singapore is a cosmopolitan English-speaking city-state bridging the East and the West.
-It is considered as the [#1 most competitive country](https://www.straitstimes.com/business/economy/singapore-economy-ranked-worlds-most-competitive), and the [safest country in the world](https://www.asiaone.com/singapore/singapore-ranked-safest-country-world-above-japan-survey). Singapore offers world-class living standards and a very clean, efficient, and low-tax environment which has [successfully attracted talents from all over the world](https://www.straitstimes.com/singapore/singapore-retains-top-spot-in-asia-pacific-index-for-talent-competitiveness).
+It is considered as the [#1 most competitive country](https://www.straitstimes.com/business/economy/singapore-economy-ranked-worlds-most-competitive), and [ranks 1st on perceived safety](https://www.sg101.gov.sg/resources/archives/singapore-is-the-safest-country-in-the-world-in-2025/). Singapore offers world-class living standards and a very clean, efficient, and low-tax environment which has [successfully attracted talents from all over the world](https://www.straitstimes.com/singapore/singapore-retains-top-spot-in-asia-pacific-index-for-talent-competitiveness).
 
 And of course, it has great food and weather.
 
