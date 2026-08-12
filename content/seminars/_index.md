@@ -24,6 +24,17 @@ To stay updated, please follow our [LinkedIn account](https://www.linkedin.com/c
 
 ---
 
+### 2026-08-18 --- Getting that academic job: Two perspectives from the Built Environment
+
+A session on early-career academic trajectories featuring two new faculty members:
+
+- [Dr Sicheng Zhan](https://jamescheng21.github.io), Assistant Professor at The University of Hong Kong (HKU), PhD from NUS, Postdoc at MIT
+- [Dr Matias Quintana](https://matiasquintana.com), Incoming Assistant Professor at the Singapore Management University (SMU), PhD from NUS, Postdoc at SEC
+
+![](2026-08-18.jpg)
+
+---
+
 ### 2026-07-23 --- Sensing people and places with emerging urban data and spatial intelligence
 
 We have two guest lectures in a joint session:

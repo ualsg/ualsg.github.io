@@ -7,13 +7,13 @@ title: Wenpei Li
 authors:
 - li-wenpei
 
-weight: 62
+weight: 38
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -75,4 +75,4 @@ user_groups:
 - People
 ---
 
-Wenpei Li is a PhD candidate at the National University of Singapore. She holds a master’s degree in Landscape Architecture from Huazhong University of Science and Technology. Her PhD research investigates how urban parks shape people’s experiences and perceptions using large-scale textual data. At the Urban Analytics Lab (UAL), she extends this work by integrating multimodal data from multiple sources to examine park experiences and perceptions across different spatial scales.
+Wenpei Li is a Research Fellow at the National University of Singapore. She holds a master’s degree in Landscape Architecture from Huazhong University of Science and Technology and a PhD from NUS. Her PhD research investigated how urban parks shape people’s experiences and perceptions using large-scale textual data. At the Urban Analytics Lab (UAL), she extends this work by integrating multimodal data from multiple sources to examine park experiences and perceptions across different spatial scales.
