@@ -14,7 +14,7 @@ title = "About the Urban Analytics Lab"
 
 We are a multidisciplinary research group focusing on urban data management and analysis, geographic data science, and digital twins at the [Department of Architecture](https://cde.nus.edu.sg/arch/) of the [National University of Singapore (NUS)](http://www.nus.edu.sg), a leading global university centred in Asia.
 
-In a nutshell, we are developing quantitative methods and tools that leverage emerging geospatial data and AI to sense the form, function, and human experience of cities.
+In a nutshell, we are developing quantitative methods and tools that leverage emerging urban and geospatial data and AI to sense the form, function, and human experience of cities.
 While doing that, we are also developing foundational research to support urban informatics such as means to understanding data quality and integrity.
 
 In our mission to leverage and make sense of big geospatial data at different scales for urban applications, we are particularly interested in the interface of emerging urban datasets such as street-level imagery, online reviews and dynamic/sensor data with the state of the art of artificial intelligence to solve urban challenges and take urban informatics forward.

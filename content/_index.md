@@ -10,7 +10,7 @@ sections:
       title: Urban Analytics Lab
       image:
         filename: urbanity3.png
-      text: A research group at the National University of Singapore
+      text: A GeoAI research group at the National University of Singapore
         <br /><br />
         <div>
         <ul class="network-icon" aria-hidden="true">
@@ -49,7 +49,7 @@ sections:
   - block: markdown
     content:
       title: About us
-      text:         We are developing quantitative methods and tools that leverage emerging geospatial data and AI to sense the form, function, and human experience of cities.
+      text:         We are developing quantitative methods and tools that leverage emerging urban and geospatial data and AI to sense the form, function, and human experience of cities.
 
         Watch the <a href="https://vimeo.com/764033095">video</a> below or read more <a href="/about/">here</a>.<br /><br />
 
