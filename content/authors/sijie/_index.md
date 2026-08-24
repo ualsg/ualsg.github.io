@@ -7,7 +7,7 @@ title: Sijie Yang
 authors:
 - sijie
 
-weight: 58
+weight: 53
 
 # Is this the primary user of the site?
 superuser: false

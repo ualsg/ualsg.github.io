@@ -7,7 +7,7 @@ title: Zicheng Fan
 authors:
 - zicheng
 
-weight: 55
+weight: 51
 
 # Is this the primary user of the site?
 superuser: false

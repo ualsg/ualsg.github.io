@@ -1,13 +1,13 @@
 ---
 # Display name
-name: Koichi Ito
-title: Koichi Ito
+name: Hsin-Yu Cheng
+title: Hsin-Yu Cheng
 
 # Username (this should match the folder name)
 authors:
-- koichi
+- hsin-yu
 
-weight: 50
+weight: 54
 
 # Is this the primary user of the site?
 superuser: false
@@ -25,27 +25,28 @@ bio: []
 
 education:
   courses:
-  - course: Master of Urban Planning
-    institution: National University of Singapore
-    year: 2021
-  - course: B.A. in Liberal Arts, City/Urban, Community and Regional Planning
-    institution: Soka University of America
-    year: 2019
+  - course: MSc in Geomatics for the Built Environment
+    institution: Delft University of Technology
+    year: 2025
+  - course: BSc in Geography and BA in Philosophy (Double Degree)
+    institution: National Taiwan University
+    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: home
-  icon_pack: fas
-  link: https://koichiito.com
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=WE_g9_WsIAAC&hl=en&oi=sra
+  link: https://scholar.google.com/citations?user=cZFrmQ4AAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Hsin-Yu-Cheng-4
 - icon: linkedin
   icon_pack: fab
-  link: 'https://www.linkedin.com/in/koichi-ito-651464161/'
+  link: https://www.linkedin.com/in/hsin-yu-cheng-b64aaa26b
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -62,7 +63,4 @@ user_groups:
 - People
 ---
 
-Koichi is a PhD researcher at our group. 
-He holds a master's degree in urban planning from the NUS School of Design and Environment.
-His working experience includes a consulting job in data analytics at the World Bank.
-At our research group, Koichi is involved in investigating the applications of emerging data sources for urban planning.
+Hsin-Yu Cheng is a PhD researcher in the Department of Architecture at the National University of Singapore and a member of the Urban Analytics Lab. She holds an MSc in Geomatics for the Built Environment from Delft University of Technology. Her previous research focused on extracting structured roof geometry from remote sensing imagery by integrating deep learning and spatial optimization. Her research interests include urban remote sensing, computer vision, and building reconstruction, with a particular focus on developing image-based methods for deriving structured representations of buildings and the built environment.
