@@ -68,7 +68,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Research Staff and Doctoral Researchers
-- People
+- Alumni
 ---
 
 Dr. Juan Gamero-Salinas is a Postdoctoral Researcher at the Institute of Data Science and Artificial Intelligence (DATAI) of the University of Navarra, as well as member of the StatData, SAVIArquitectura and BIOMA research groups. His research lies at the intersection of data science, artificial intelligence, and the built environment. His current work focuses on the evaluation of environmental performance in buildings and cities, with particular emphasis on developing data-driven methodologies to assess, monitor, and improve environmental performance in architecture and urban systems.
