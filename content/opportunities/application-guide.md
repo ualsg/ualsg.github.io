@@ -380,15 +380,15 @@ In theory, PhD admission with only a bachelor degree is possible, but only under
 No, we don't offer master degrees.
 [Our department](https://cde.nus.edu.sg/arch/) offers coursework master programmes that you might want to consider in furthering your studies, such as the [Master of Urban Planning](https://cde.nus.edu.sg/arch/programmes/master-of-urban-planning/).
 As part of the coursework, it is possible to do a thesis or internship in a research group, but we don't offer entire master programmes, we are just a research group.
-Research masters ('Master by Research' -- MbR) is also a possibility at our department.
-But for more information, refer directly to our [NUS Department of Architecture](https://cde.nus.edu.sg/arch/).
+Research masters ('Master by Research' -- MbR) is also a possibility at our department, but not at our group (we accept only doctoral applicants who already have a masters degree).
+Such a degree could be an option at another group at our department, so for more information, refer directly to our [NUS Department of Architecture](https://cde.nus.edu.sg/arch/).
 {{< /spoiler >}}
 
 {{< spoiler text="How many papers do I need to apply for a position, postdoc, PhD, etc?" >}}
 Most research groups and departments at NUS don't really count papers like it is a sad and unfortunate practice at many other places. 
 We care more about quality and impact, they are more important than quantity.
 One paper can be more valuable than [3 papers that are incremental and don't have much value](https://en.wikipedia.org/wiki/Salami_slicing_tactics#Salami_slicing_in_scientific_publishing).
-Thus, we do not have quantifiable requirements, and we assess applicants holistically and privilege quality.
+Thus, we do not have quantifiable requirements, and we assess applicants holistically and privilege quality and impact.
 {{< /spoiler >}}
 
 
