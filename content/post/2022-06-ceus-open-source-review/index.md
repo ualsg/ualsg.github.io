@@ -32,7 +32,7 @@ image:
 
 We are glad to share our new paper:
 
-> Yap W, Janssen P, Biljecki F (2022): Free and open source urbanism: Software for urban planning practice. _Computers, Environment and Urban Planning_ 96: 101825. [<i class="ai ai-doi-square ai"></i> 10.1016/j.compenvurbsys.2022.101825](https://doi.org/10.1016/j.compenvurbsys.2022.101825) [<i class="far fa-file-pdf"></i> PDF](/publication/2022-ceus-open-source-urbanism/2022-ceus-open-source-urbanism.pdf)</i> <i class="ai ai-open-access-square ai"></i>
+> Yap W, Janssen P, Biljecki F (2022): Free and open source urbanism: Software for urban planning practice. _Computers, Environment and Urban Systems_ 96: 101825. [<i class="ai ai-doi-square ai"></i> 10.1016/j.compenvurbsys.2022.101825](https://doi.org/10.1016/j.compenvurbsys.2022.101825) [<i class="far fa-file-pdf"></i> PDF](/publication/2022-ceus-open-source-urbanism/2022-ceus-open-source-urbanism.pdf)</i> <i class="ai ai-open-access-square ai"></i>
 
 This review paper was led by {{% mention "winston" %}}.
 Congratulations on his first journal paper out of his PhD, in a top journal no less. :raised_hands: :clap:
@@ -65,7 +65,7 @@ BibTeX citation:
 @article{2022_ceus_open_source_urbanism,
   author = {Yap, Winston and Janssen, Patrick and Biljecki, Filip},
   doi = {10.1016/j.compenvurbsys.2022.101825},
-  journal = {Computers, Environment and Urban Planning},
+  journal = {Computers, Environment and Urban Systems},
   pages = {101825},
   title = {{Free and open source urbanism: Software for urban planning practice}},
   volume = {96},

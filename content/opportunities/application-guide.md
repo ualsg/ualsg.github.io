@@ -15,9 +15,9 @@ We welcome motivated and talented prospective researchers from diverse disciplin
 
 ## Overview: where to start
 
-+ **PhD applicants** — stay on this page. It covers requirements, the application process, contacting us, and [frequently asked questions](#faq).
-+ **Jobs (e.g. research assistant, postdoc, and similar roles)** — first check whether we have current [openings](/opportunities/vacancies/). These positions depend on funded projects and are advertised when available; the sections below and the rest of this guide remain useful background.
-+ **Visiting scholars** — stay on this page and see the [visiting scholars](#visiting-scholars-up-to-12-months) section for how to propose a stay, what we look for, and practical points (funding, timing, non-graduating student enrolment).
++ **PhD applicants**: stay on this page. We accept PhD applicants twice a year. This page covers requirements, the application process, contacting us, and [frequently asked questions](#faq).
++ **Jobs (e.g. research assistant, postdoc, and similar roles)**: first check whether we have current [openings](/opportunities/vacancies/). These positions depend on funded projects and are advertised when available; the sections below and the rest of this guide remain useful background.
++ **Visiting scholars**: stay on this page and see the [visiting scholars](#visiting-scholars-up-to-12-months) section for how to propose a stay, what we look for, and practical points (funding, timing, non-graduating student enrolment).
 
 Interested in joining us? This page contains more information and some tips, including [answers to frequently asked questions](#faq).
 
@@ -118,22 +118,24 @@ Overall, from PhD applicants, we expect to demonstrate that they are a match for
 
 ### How to apply for a PhD
 
-We accept new PhD students every academic year, at both intakes.
+We accept new PhD students every academic year, at both intakes (every six months).
 However, research groups at NUS usually do not admit them directly and unless stated differently, funding usually comes from the University.
-Applications to the PhD programme should be done directly to our [College of Design and Engineering](http://www.cde.nus.edu.sg), as they are managing the process.
-However, we are happy to provide some help to applicants if requested.
+Applications to the PhD programme (and scholarships) should be done directly to our [College of Design and Engineering](http://www.cde.nus.edu.sg), as they are managing the process.
+Successful applicants who get admitted and funded are then able to join us.
+
+In the meantime, we are happy to provide some help and guidance to applicants if requested.
 
 You will find all requirements on [the website of the graduate school](https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/), such as English language test requirement, together with the application process and deadlines (there are two intakes each year).
 Also, the [NUS website on graduate admissions](https://nusgs.nus.edu.sg) is a good starting point to get more information about doing a PhD at our university.
 Further, you will also find myriads of websites that give a plenty of tips how to polish your materials.
-But here are some further tips and requirements on our end.
+But below are some further tips and requirements on our end.
 
 The most important tip is to tailor your application and make it specific to our environment and research agenda.
 PhD applications are examined carefully by the Department and College.
 Your application will be given adequate attention, however, generic applications with boilerplate or AI-generated text and those without a clear motivation and understanding of the scope of our work, and those that do not demonstrate research affinity, are not considered.
 Your PhD application reflects your ability and skill to find and digest information, which is an instrumental skill for a researcher to possess. 
 
-Therefore, in your application, you need to be clear about your motivation to spend several years in a PhD programme: why do you want to do a PhD, why are you interested in research and in an academic environment, what makes you a strong candidate, what are your career goals, what are your research interests, what are your relevant skills and accomplishments so far, and why do you want to come specifically to NUS and our department and group.
+Therefore, in your application, you need to be clear about your motivation to spend four years in a PhD programme: why do you want to do a PhD, why are you interested in research and in an academic environment, what makes you a strong candidate, what are your career goals, what are your research interests, what are your relevant skills and accomplishments so far, and why do you want to come specifically to NUS and our department and group.
 Each of these points should be substantiated with some evidence or motivation.
 
 Prospective candidates who did research on what we do and those that are able to demonstrate their aptitude for research and motivate their aspiration to join us in particular have a better chance getting admitted into the doctoral programme.
@@ -251,6 +253,7 @@ In practice, as far as we know, this will not make or break your chances later i
 Your work, publications, and attained skills matter the most.
 {{< /spoiler >}}
 
+
 {{< spoiler text="I am preparing my application but I don't see you listed in the NUS application system. How to apply?" >}}
 This is related to the question above.
 Please select the PhD in Architecture programme in the application portal. 
@@ -365,21 +368,20 @@ No, NUS does not provide waivers, sorry, we can't do much about it.
 {{< spoiler text="I didn't receive a reply to my email. Should I send it again?" >}}
 While we appreciate interest, we do not entertain generic emails and AI-generated applications.
 Research abilities and commitment are key characteristics of a successful PhD researcher, which should be evident from one's application.
-If it wasn't worth your time to write it, it's not worth our time to read it, sorry.
+If it wasn't worth your time to write it, it's not worth our time to read it.
 {{< /spoiler >}}
 
 
 {{< spoiler text="Do I need a masters degree to apply for a PhD?" >}}
-Yes, a masters degree is pretty much a hard requirement.
+Yes, a masters degree is a requirement.
 If you have a bachelor degree, and you are interested in a PhD with us, we recommend you getting a masters degree first and build your research skills and experience, and then apply for a PhD.
 Our two departments ([NUS Architecture](https://cde.nus.edu.sg/arch/) and [NUS Real Estate](https://bschool.nus.edu.sg/real-estate/)) offer nice master programmes that you might want to consider in furthering your studies.
-In theory, PhD admission with only a bachelor degree is possible, but only under exceptional circumstances and we don't recall many such cases.
 {{< /spoiler >}}
 
 {{< spoiler text="Can I do a masters at your group?" >}}
 No, we don't offer master degrees.
-[Our department](https://cde.nus.edu.sg/arch/) offers coursework master programmes that you might want to consider in furthering your studies, such as the [Master of Urban Planning](https://cde.nus.edu.sg/arch/programmes/master-of-urban-planning/).
-As part of the coursework, it is possible to do a thesis or internship in a research group, but we don't offer entire master programmes, we are just a research group.
+Our two departments ([NUS Architecture](https://cde.nus.edu.sg/arch/) and [NUS Real Estate](https://bschool.nus.edu.sg/real-estate/)) offer nice master programmes that you might want to consider in furthering your studies, e.g. [Master of Urban Planning](https://cde.nus.edu.sg/arch/programmes/master-of-urban-planning/).
+As part of the coursework of such programmes, it is possible to do a thesis or internship in a research group, but we don't offer entire master programmes, we are just a research group.
 Research masters ('Master by Research' -- MbR) is also a possibility at our department, but not at our group (we accept only doctoral applicants who already have a masters degree).
 Such a degree could be an option at another group at our department, so for more information, refer directly to our [NUS Department of Architecture](https://cde.nus.edu.sg/arch/).
 {{< /spoiler >}}
