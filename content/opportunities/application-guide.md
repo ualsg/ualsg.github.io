@@ -11,15 +11,15 @@ banner:
 
 Thank you for your interest in joining our research group at the [National University of Singapore](https://nus.edu.sg).
 We look forward to working together on [a research framework](/about) focused on the nexus of novel urban data streams, urban analytics, and geospatial data science, an integrated and unique research agenda in Singapore and beyond.
-We welcome motivated and talented prospective researchers from diverse disciplines and countries, who share our research goal of making cities smarter and more (geo)data-driven.
+We welcome motivated and talented prospective researchers from diverse disciplines and countries, who share our goal of making cities smarter and more (geo)data-driven.
 
 ## Overview: where to start
 
-+ **PhD applicants**: stay on this page. We accept PhD applicants twice a year. This page covers requirements, the application process, contacting us, and [frequently asked questions](#faq).
-+ **Jobs (e.g. research assistant, postdoc, and similar roles)**: first check whether we have current [openings](/opportunities/vacancies/). These positions depend on funded projects and are advertised when available; the sections below and the rest of this guide remain useful background.
-+ **Visiting scholars**: stay on this page and see the [visiting scholars](#visiting-scholars-up-to-12-months) section for how to propose a stay, what we look for, and practical points (funding, timing, non-graduating student enrolment).
++ **PhD applicants**: stay on this page. We accept PhD applicants twice a year (in line with the intakes in the doctoral programme at our school). This page covers requirements, the application process, contacting us, and [frequently asked questions](#faq).
++ **Jobs (e.g. research assistant, postdoc, and similar roles)**: first please check whether we have current [openings](/opportunities/vacancies/). These positions depend on funded projects and are advertised when available; while this guide serves as useful background. We also accept prospective postdocs who would like to apply for an [externally funded fellowship](../fellowships).
++ **Visiting scholars**: stay on this page and please see the [visiting scholars](#visiting-scholars-up-to-12-months) section for how to propose a stay, what we look for, and practical points (funding, timing, non-graduating student enrolment).
 
-Interested in joining us? This page contains more information and some tips, including [answers to frequently asked questions](#faq).
+This page contains also [answers to frequently asked questions](#faq).
 
 {{< toc mobile_only=false is_open=true >}}
 
@@ -27,15 +27,15 @@ Interested in joining us? This page contains more information and some tips, inc
 
 This pretty much depends on the nature of the position and career stage, but in general, here are some of the criteria that enter into consideration when assessing applicants, especially those who already have academic experience, and may help your application stand out:
 
-+ Perceived commitment and fit in our group, department and university (e.g. evident from a tailored cover letter with an elaborated narrative that is in line with our current research agenda and builds upon our recent publications).
-+ Compatibility/match of the expertise of the candidate with the actitivies and research developed in our group and complementarity.
++ Perceived commitment and fit in our group, department, and university (e.g. evident from a tailored cover letter with an elaborated narrative that is in line with [our current research agenda](/about) and builds upon our recent publications).
++ Compatibility/match of the expertise of the candidate with the proposed actitivies and research developed in our group and complementarity. Unambiguous evidence (e.g. research experience, related project, relevant outputs) that you possess the necessary skills is a must.
 + Focus on quality rather than quantity.
-+ The candidate's ownership in a line of research and evident momentum in output and novelty in research activities so far and their impact (e.g. publications in leading international journals in the last few years, their citations, impact/relevance in the broad scientific community, and coherent research agenda). The publication record should be commensurate with years of experience (for entry-level researchers such as prospective PhD students, there is no such expectation but having a paper is always a strong plus).
++ The candidate's ownership in a line of research and evident momentum in output and novelty in research activities so far and their impact (e.g. publications in leading international journals in the last few years, their citations, impact/relevance in the broad scientific community, and coherent research agenda). The publication record should be commensurate with years of experience (for entry-level researchers such as prospective PhD researchers, there is no such expectation but many PhD applicants nowadays have first-author papers and that is a strong plus).
 + Visibility and proactivity in communicating and disseminating their work (e.g. having a GitHub repository or a personal website with up to date information about one's work and research agenda, as we expect our scientists to be visible, take ownership of their work, and promote it internationally).
 + Evidence of coding/computational level to support the research and an indication of open science practices (ideally, clearly visible from a well developed GitHub repository or open-source package, and reproducible workflows and having released open artefacts).
 + Quality of the written English and materials provided, and communication skills. 
 + Community engagement and participation in local or international initiatives (e.g. workshops, talks, membership in working groups/societies).
-+ Indication of independence, self-motivation, and proactivity.
++ Indication of independence, motivation, and proactivity.
 
 ## Why us
 
@@ -45,16 +45,16 @@ It aspires to be a vital community of academics, researchers, staff, students an
 [Singapore](https://en.wikipedia.org/wiki/Singapore) is a cosmopolitan English-speaking city-state bridging the East and the West.
 It is considered as the [#1 most competitive country](https://www.straitstimes.com/business/s-pore-reclaims-top-spot-in-world-competitiveness-ranking-after-three-years) and [ranks 1st on perceived safety](https://www.sg101.gov.sg/resources/archives/singapore-is-the-safest-country-in-the-world-in-2025/), [successfully attracting talents from all parts of the globe](https://www.straitstimes.com/singapore/singapore-retains-top-spot-in-asia-pacific-index-for-talent-competitiveness) by offering first-class living and working experience in the heart of Southeast Asia, a very clean and efficient environment, and unparalleled infrastructure.
 Residents enjoy also great food and weather.
-Overall, Singapore provides a fulfilling professional and personal experience in a liveable garden city that is rarely found in the English speaking world.
+Overall, Singapore provides a fulfilling professional and personal experience in a liveable garden city that is rarely found in the English speaking world and in the tropics.
 
 Researchers joining our group have an opportunity to work on research initiatives in the domains of the Lab as part of existing or upcoming projects, and will have a chance to produce high-impact research.
-At the same time, researchers have flexibility to explore their interests and establish their agenda.
+At the same time, researchers have flexibility to explore their interests and establish their agenda and research identity.
 Overall, being part of our Lab presents a rare and holistic opportunity in Singapore and this part of Asia to be involved in the entire urban informatics and geospatial ecosystem under the same roof: from investigating new means to urban sensing all the way to developing applications and tools, while continuously exploring new frontiers in the field such as interface with AI and contributions to domains such as urban planning, mobility, energy, and climate to make cities smarter and more data-driven.
 
 Our University, College, and research group provide a motivating, conducive, and flexible environment to explore the candidate's interests, build relevant skills, and develop world-class research required to attain a PhD degree or further qualifications at a research-intensive university such as NUS, and chart their longterm career path.
 Our productive and collaborative setting enables researchers to align their project with existing ones and leverage on our network and other activities to turbocharge their research and curiosity.
 Further, our Lab provides an academic network that grants a front row opportunity to connect and collaborate with both junior scholars and renowned international researchers who have been continuously visiting our group and Department.
-In addition, PhD students are encouraged to go for exchange opportunities as well.
+In addition, PhD students are encouraged to go for visiting opportunities as well.
 
 Our small and friendly Lab is located at SDE4, [the first newly-built net-zero energy building in Singapore]({{< ref "/post/2020-12-sde4-ilfi/index.md" >}}), and the first university building in the world to be [WELL Certified Gold](https://www.wellcertified.com/).
 
@@ -76,11 +76,11 @@ However, before you drop us an email, please familiarise yourself with our work.
 We make an effort to maintain a comprehensive website with a variety of information (e.g. we have a blog and all our publications are available open access, together with a lot of open data and open-source code) to become acquainted with our work and research agenda, and decide whether it is aligned with your interests and aspirations.
 If you do so, we will be happy to answer your questions that are not covered by this guide.
 Please note that while we are grateful for interest, we do not respond to generic and AI-generated applications. 
-At minimum, we expect prospective students to understand what we do and how we do it, e.g. read this page and more about us on our website ([here](../../about) and [here](../why-us)) and check some of our [papers](/publication).
+At minimum, we expect prospective students to understand what we do, why we do it, and how we do it, e.g. read this page and more about us on our website ([here](../../about) and [here](../why-us)) and check some of our [papers](/publication).
 
 ## PhD
 
-We welcome PhD applicants at all intakes. 
+We welcome PhD applicants continuously at all intakes at NUS.
 This section provides more information about the process.
 
 _On a related note, [check out the list of doctoral candidates who have completed their PhD in our group](../../doctors/)._
@@ -98,7 +98,7 @@ Some of the expectations from PhD researchers during and at the end of their stu
 + Achieve independence and excellence in research. 
 + Become an expert in a specialised domain and attain a unique expertise not many others have.
 + Be able to conduct independent research from start to end (from identifying gaps, conceptualisation and planning to execution and communication). In short, become a great scholar.
-+ Create new knowledge and introduce a significant scientific novelty accepted by the community and be known for it (primarily through impactful publications in leading outlets).
++ Create new knowledge and introduce a significant scientific novelty and contribution accepted by the community and be known for it (primarily through impactful publications in leading outlets).
 + Be proactive in publishing and communicating their research in reputable venues.
 + Collaborate and contribute to the scientific community in various ways (i.e. other forms of output such as open data, open-source software, community engagements...).
 + Attain a valuable set of skills, largely domain-agnostic, both hard (e.g. coding, statistics) and soft (e.g. written communication, presenting, project management) that can be applied to a variety of scientific challenges and in various environments, including beyond academia.
@@ -107,50 +107,45 @@ Have a look at [this nice illustrated guide to a PhD](https://matt.might.net/art
 
 To succeed, a PhD student ideally should:
 + establish ownership of his/her work, have intellectual and scientific curiosity, be creative, and be excited and passionate about the topic and field;
-+ have initiative and be proactive about a variety of aspects related to the research (e.g. take the lead in identifying gaps, think of new ideas, and follow relevant conferences and journals);
++ take initiative and be proactive about a variety of aspects related to the research (e.g. take the lead in identifying gaps, think of new ideas, and follow relevant conferences and journals);
 + continuously develop transferrable skills, be on top of the developments in the field and broader domains, and seek means to contribute and advance knowledge;
 + regularly seek opportunities to promote and apply their research;
 + revisit and adjust plans, and be open to feedback; and
 + be collaborative and establish collaborations, including those beyond disciplinary lines.
 
-
-Overall, from PhD applicants, we expect to demonstrate that they are a match for the above and likely to succeed in the doctoral programme.
+Overall, from PhD applicants, we expect that they demonstrate that they are a match for the above and likely to succeed in the doctoral programme.
 
 ### How to apply for a PhD
 
 We accept new PhD students every academic year, at both intakes (every six months).
-However, research groups at NUS usually do not admit them directly and unless stated differently, funding usually comes from the University.
-Applications to the PhD programme (and scholarships) should be done directly to our [College of Design and Engineering](http://www.cde.nus.edu.sg), as they are managing the process.
+However, research groups at NUS usually do not admit them directly and unless stated differently, funding (scholarships) usually comes from the University.
+Thus, applications to the PhD programme (and scholarships) should be done directly to our [College of Design and Engineering](http://www.cde.nus.edu.sg), which is managing the process.
 Successful applicants who get admitted and funded are then able to join us.
 
 In the meantime, we are happy to provide some help and guidance to applicants if requested.
+It is also advisable to get in touch with us first to provide an informal assessment of the application and discuss fit.
 
 You will find all requirements on [the website of the graduate school](https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/), such as English language test requirement, together with the application process and deadlines (there are two intakes each year).
-Also, the [NUS website on graduate admissions](https://nusgs.nus.edu.sg) is a good starting point to get more information about doing a PhD at our university.
+Also, the [NUS website on graduate admissions](https://nusgs.nus.edu.sg) is a good starting point to get more information about doing a PhD at our university and has information about scholarships.
 Further, you will also find myriads of websites that give a plenty of tips how to polish your materials.
-But below are some further tips and requirements on our end.
+And below are some further tips and requirements on our end.
 
 The most important tip is to tailor your application and make it specific to our environment and research agenda.
 PhD applications are examined carefully by the Department and College.
 Your application will be given adequate attention, however, generic applications with boilerplate or AI-generated text and those without a clear motivation and understanding of the scope of our work, and those that do not demonstrate research affinity, are not considered.
-Your PhD application reflects your ability and skill to find and digest information, which is an instrumental skill for a researcher to possess. 
+Your PhD application reflects your ability, curiosity, and skill to find and digest information, which are instrumental for a researcher to possess, and doing a PhD without such skills and affinities is not a good idea. 
 
-Therefore, in your application, you need to be clear about your motivation to spend four years in a PhD programme: why do you want to do a PhD, why are you interested in research and in an academic environment, what makes you a strong candidate, what are your career goals, what are your research interests, what are your relevant skills and accomplishments so far, and why do you want to come specifically to NUS and our department and group.
+Therefore, in your application, you need to be clear about your motivation to spend four years in a PhD programme: why do you want to do a PhD, why are you interested in research and in an academic environment, what makes you a strong candidate, what are your career goals, what are your research interests, what are your relevant skills and accomplishments so far, and why do you want to come specifically to Singapore, NUS and our department and group.
 Each of these points should be substantiated with some evidence or motivation.
 
 Prospective candidates who did research on what we do and those that are able to demonstrate their aptitude for research and motivate their aspiration to join us in particular have a better chance getting admitted into the doctoral programme.
-This is most evident from a tailored and research-focused application pertaining to our Lab, University and Singapore, and one that affirms their alignment with the idea of a PhD elaborated above.
 
-When applying for a PhD, you will need to submit your CV as well.
-In particular, make sure you highlight your computational and research skills in it, and any publications you may have.
-PhD applicants are not expected to have a rich publication record and scientific output, but a record of any prior research outputs and activities (code, papers, data, internships, thesis, etc. preferably with evidence such as developed GitHub repositories and materials on a personal website) will be valuable.
-Some of these are instrumental in proving your technical skills, which are essential in our Lab and the College of Design and Engineering.
-
-The CV needs to be accompanied by:
-* a brief research proposal and statement of purpose (2-4 pp.) containing a summary of the topics that you find interesting, overview of your previous work, a short literature review that covers recent developments in your area of interest, and an idea and plan for your PhD research. You should be able to briefly formulate existing gaps and think about how do you plan to fill them in the next few years. This does not have to be comprehensive and advanced, as during the initial months of your PhD you'll have time to work on all that and sharpen your plans, but you should this document as an opportunity to demonstrate your motivation and research skills. Do remember to include other key components in your statement (a common mistake is to overlook including a literature review, contributions, output plan, and schedule) and avoid making your proposal generic (e.g. forgetting to mention the fit for our group, university, and Singapore, as admission/scholarship committees usually turn down such applications). For example, mention why you want to do a PhD particularly here, how does your expertise match our group, what research (i.e. papers) did attract your interest the most and how would you take it forward, etc. In particular, make sure you link the proposed research to a few recent papers of our Lab (identify a few papers that you find most interesting and explain your reasoning). If your proposal gives an impression that it can be submitted also to several other universities, your application will not stand out;
-* examples of writing samples (if you have not written a paper yet, you might want to submit a thesis or individual assignment; avoid group assignments as it is not easy to isolate and ascertain your contribution to it);
-* a few words about one of our [publications](/publication) with brief ideas how would you take these results further and/or how would you use them for your research; and
-* a brief statement how do you envision contributing to our research agenda and group. A PhD is a substantial commitment from both sides for a few years, thus, your fit is no less important than your research finesse.
+Most importantly, the application consists of the following items:
+* Academic CV. In particular, do make sure that you highlight your computational and research skills in it, and any publications you may have. PhD applicants are not expected to have a rich publication record and scientific output, but a record of any prior research outputs and activities (code, papers, data, internships, thesis, etc. preferably with evidence such as developed GitHub repositories and materials on a personal website) will be valuable. Some of these are important in proving your technical skills, which are essential in our Lab and the College of Design and Engineering.
+* A brief research proposal and statement of purpose (2-4 pp.) containing a summary of the topics that you find interesting, overview of your previous work, a short literature review that covers recent developments in your area of interest, and an idea and plan for your PhD research. You should be able to briefly formulate existing gaps and think about how do you plan to fill them in the next few years. This does not have to be comprehensive and advanced, as during the initial months of your PhD you'll have time to work on all that and sharpen your plans, but you should use this document as an opportunity to demonstrate your motivation and research skills. Do remember to include other key components in your statement (a common mistake is to overlook including a literature review, contributions, output plan, and schedule) and avoid making your proposal generic (e.g. forgetting to mention the fit for our group, university, and Singapore, as admission/scholarship committees usually turn down such applications). For example, mention why you want to do a PhD particularly here, how does your expertise match our group, what research (i.e. papers) did attract your interest the most and how would you take it forward, etc. In particular, make sure you link the proposed research to a few recent papers of our Lab (identify a few papers that you find most interesting and explain your reasoning). If your proposal gives an impression that it can be submitted also to several other universities, your application will not stand out.
+* Examples of writing samples (if you have not written a paper yet, you might want to submit a thesis or individual assignment; avoid group assignments as it is not easy to isolate and ascertain your contribution to it).
+* A few words about one of our [publications](/publication) with brief ideas how would you take these results further and/or how would you use them for your research.
+* A brief statement how do you envision contributing to our research agenda and group. A PhD is a substantial commitment from both sides for a few years, thus, your fit is no less important than your research finesse.
 
 All the points above should be concise, e.g. a few paragraphs for each aforementioned aspect, so it shouldn't take much time and effort to stand out.
 You will find that preparing such documentation is quite beneficial as it will also help you to explore and refine your thoughts and interests.
@@ -163,15 +158,14 @@ We thank you for your interest and time.
 ### Deadlines, supervision, and more information
 
 The [application deadlines](https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/application-period-2/) are usually at the end of the year for the intake in August next year, and in July for the start in January next year.
-Please start preparing early, and indicate in your application that you would like to be supervised by Dr {{< mention "filip" >}}, the PI and PhD supervisor of the group.
-The supervisor is assigned to the candidate after the successful admission to the PhD programme.
+Please start preparing early, and indicate in your application that you would like to be supervised by Prof {{< mention "filip" >}}, the PI and PhD supervisor of the group.
 
-You may also want to read the graduate studies website of either the [Department of Architecture](https://cde.nus.edu.sg/arch/programmes/higher-degrees-by-research/) (and its [FAQ](https://cde.nus.edu.sg/arch/programmes/higher-degrees-by-research/frequently-asked-questions/)), or the [Department of Real Estate](https://bschool.nus.edu.sg/real-estate/phd/curriculum/) (the PI of the Lab is part of both).
+You may also want to read the graduate studies website of either the [Department of Architecture](https://cde.nus.edu.sg/arch/programmes/higher-degrees-by-research/) (and its [FAQ](https://cde.nus.edu.sg/arch/programmes/higher-degrees-by-research/frequently-asked-questions/)).
 
 ### After applying
 
 Applications are handed by the administration and graduate admission committee.
-Do note that we are often not involved in this process nor in admission decisions.
+Do note that we are often not involved in this process much.
 Therefore, we are afraid that we do not have an insight in your application status and are not able to keep you updated.
 However, please rest assured that your application is carefully evaluated and that you will hear back from the university in time.
 
@@ -181,11 +175,14 @@ In the meantime, you are welcome to get in touch with us about other matters.
 
 Funding is a very important aspect of doing a PhD and a common obstacle, and it should be considered as early as possible.
 While the current reality of academia is that obtaining longterm and full scholarships for a PhD is unfortunately often difficult and highly competitive, securing funding is not impossible.
-Many of our [graduate students](/people/) and others at our department have been successful in obtaining it.
+Many of our [graduate students](/people/) and others at our department have been successful in obtaining it, primarily from NUS (i.e. research scholarships).
 
 An admission to the PhD programme does not imply a scholarship.
-Some scholarships are awarded at the admission stage, while others may be applied to after the admission. 
-It might also be possible to do a PhD with a scholarship you obtain externally.
+Some scholarships are awarded at the admission stage by NUS, while others may be applied to after the admission. 
+It might also be possible to do a PhD with a scholarship you obtain externally, as long as it covers the tuition fee and living costs in Singapore, and it lasts for at least four years.
+
+Please note that we do not accept self-funded PhD students.
+All PhD researchers must have funding.
 
 There are [scholarship opportunities at NUS](https://nusgs.nus.edu.sg/scholarships/) to partially or fully fund your PhD, and there are external funding options as well you might want to explore on your own.
 Do also check the [comprehensive list](../fellowships) that we prepared for candidates seeking external funding.
@@ -205,25 +202,26 @@ Good luck!
 We have hosted several visiting scholars in the past few years, including overseas PhD students and senior researchers (e.g. awardees of [postdoc fellowships](/opportunities/fellowships/)), often for a period of half to one year.
 Such stays have been productive and enriching for both the visitor and our group, resulting in [continuous collaborations and publications](/publication/).
 
-If you are interested -- please prepare a short proposal of the research you plan to conduct during your stay in our Lab together with a timeline and other specifics.
-Further, please select a few papers from our group and describe how your interest are compatible with them.
+If you are interested -- please prepare a short idea of the research you plan to conduct during your stay in our Lab together with a timeline and other specifics.
 Please state also your funding mechanism.
 We prefer our guests staying with us 6 months or longer, which is a period that is more likely to lead to a meaningful collaboration.
 
 You are welcome to have a look at our [website](/about), recent [blog posts](/post), and recent [papers](/publication/), and think of a common overlap or complementary research direction, which will ensure a mutually beneficial research visit.
 We are excited to learn from each other and have continuous academic exchanges which may continue even beyond the stay here. 
 Fit and match with our research group are quite relevant, as visiting fellowships should be a two-way relationship.
-We are a small group and have a quota set by our university on the number of visitors we are allowed to host, so every year, we have bandwidth and space to accept only a few visiting scholars.
-Thus, we prioritise those who work on research that is closely aligned with our activities, and ensure a complementary fit and contribution to our projects and team (and vice-versa), and at the same time making sure that you get the most of such a visit for your academic trajectory.
+We are a small group and also have a quota set by our department on the number of visitors we are allowed to host, so each year, we have bandwidth and space to accept only a few visiting scholars.
+Thus, we prioritise those who work on research that is closely aligned with our activities, and ensure a complementary fit and contribution to our activities and team (and vice-versa), and at the same time making sure that you get the most of such a visit for your academic trajectory.
 
 The academic expectations are more or less [listed above](#what-are-the-general-requirements-and-what-makes-an-application-excel), but most importantly, we expect a committed integration in our group and an idea of research that matches our agenda and something that you would not normally do if you have simply stayed at your home university.
 
-If you are interested in spending some time with us, [contact us](/#contact) with the following information and materials: brief proposal (1 page) aligned with our agenda, CV, desired time period of the stay, and information on the funding scheme that you plan to use or apply for to facilitate the visit.
+If you are interested in spending some time with us, [contact us](/#contact) with the following information and materials: brief proposal (up to 1 page) aligned with our agenda, CV, desired time period of the stay, and information on the funding scheme that you plan to use or apply for to facilitate the visit.
 
-Unfortunately, NUS does not have funding programmes to support incoming visiting scholars, and most of our visitors have been supported by their home universities, their project budgets, foreign government schemes, or [other funding streams](/opportunities/fellowships/).
+Unfortunately, NUS does not have funding programmes and accommodation to support incoming visiting scholars, and most of our visitors have been supported by their home universities, their project budgets, foreign government schemes, or [other funding streams](/opportunities/fellowships/).
 
 Visiting scholars who are students need to be enrolled at NUS as [non-graduating students](https://www.nus.edu.sg/registrar/academic-information-policies/non-graduating), which will organise their residence permit in Singapore for longer stays.
 The application to this programme needs to be done at least three months before the intended start date, which is done after discussions with us and our endorsement.
+Please note that the programme entails a fee (which is used to cover visa expenses, maintenance of campus facilities, etc.).
+
 Thus, if you are interested in a stay with us as visiting scholar, please contact us around 5-6 months in advance.
 
 
@@ -233,7 +231,7 @@ Much of the information on this website may be found of interest as well to thos
 When we have openings, we post them on [our website with vacancies](https://ual.sg/opportunities/vacancies/), thus, you may want to keep an eye on the website occasionally or follow our social media accounts where we advertise them when they happen. For job opportunities at our university, at other research groups, you may want to check the [NUS Careers website](https://careers.nus.edu.sg/NUS/go/View-All-Jobs-for-NUS/546644/
 ).
 
-Postdoctoral research fellows are expected to be moderately independent, and have a demonstrated record of research excellence and a momentum in publishing (i.e. first-author papers in leading venues). 
+Postdoctoral research fellows are expected to be independent, and have a demonstrated record of research excellence and a momentum in publishing (i.e. first-author papers in leading venues). 
 In a postdoc job with us, they will spearhead new research initiatives, manage and/or contribute to funding applications, and provide guidance to junior members.
 Our Lab cultivates an environment that accords a degree of freedom in exploring own research ideas, and fosters careers of postdocs in several ways such as involvements in multiple projects and taking part in strategy development, paving the way for a potential faculty position.
 
@@ -246,11 +244,11 @@ Yes, we do. We accept them continously at all intakes. For more information, ple
 
 
 {{< spoiler text="I see on the NUS website that your department offers only a PhD in Architecture, but I am interested in what you folks do. Is there some other PhD degree you offer?" >}}
-PhD degrees at NUS are not awarded by research groups, they are managed by higher levels such as the department and graduate school.
+PhD degrees at NUS are not awarded by research groups, they are managed by the department and graduate school.
 PhD programmes at NUS follow the nomenclature of the hosting departments, thus, if you pursue a PhD on a topic in this domain (i.e. urban analytics, etc.) and under the supervision of the PI of the group, it will be nominally part of the PhD in Architecture programme, since we are part of the Department of Architecture.
 The department and its PhD cohort work on a wide array of topics, and the PhD _per se_ is not necessarily related to architecture.
 In practice, as far as we know, this will not make or break your chances later in your career.
-Your work, publications, and attained skills matter the most.
+Your work, publications, and attained skills will matter the most.
 {{< /spoiler >}}
 
 
@@ -262,7 +260,7 @@ Please select the PhD in Architecture programme in the application portal.
 
 {{< spoiler text="Can I do a part-time PhD in your group?" >}}
 No.
-A PhD is a significant undertaking that is time and energy consuming, and it is quite difficult to combine it with a full-time job. In fact, it is challenging even when it is full-time. Thus, we do not accept part-time PhD students. If you want to do a great job, take the full-time route.
+A PhD is a significant undertaking that is time and energy consuming, and it is quite difficult to combine it with a full-time job, even with exceptional discipline. In fact, it is challenging even when it is full-time. Thus, we do not accept part-time PhD students. If you want to do a great job, take the full-time route.
 There are no exceptions to this rule.
 {{< /spoiler >}}
 
@@ -270,8 +268,8 @@ There are no exceptions to this rule.
 {{< spoiler text="How long does it take to finish a PhD?" >}}
 It takes about four years. 
 The maximum period of candidature at NUS is five years.
-In practice, four years is the minimum time required, and doing a PhD in less than that is a rarity at our College.
-This is an important consideration if you are looking for external funding -- make sure it lasts at least four years.
+Doing a PhD in less than four years is a rarity at our College.
+This is an important consideration if you are looking for external funding -- make sure it lasts for at least four years.
 {{< /spoiler >}}
 
 
@@ -280,7 +278,7 @@ That much depends on your profile, accomplishments, experience, and the country 
 Academia tends to be the desired path of those who do a PhD and/or postdoc (and NUS is a highly reputable university, which helps in getting a job elsewhere afterwards), but we don't see these positions constrained to an academic future and a PhD should open doors also elsewhere.
 Developing expertise in a particular niche and transferrable skills makes you attractive also to government agencies, national institutes, and industry.
 You could also think about starting a company, NUS offers some support for startups.
-Our alumni have ended up in decent places, including faculty positions, after working with us.
+We are proud of placements of our alumni, who have landed jobs like faculty positions at universities and those in prestigious firms, after working with us.
 Further, consulting is also another viable path.
 {{< /spoiler >}}
 
@@ -290,7 +288,7 @@ The [section above](#why-us) provides numerous reasons.
 Singapore and NUS are an excellent place to do a PhD and do research (and in terms of living as well), and are very well recognised around the world.
 Further, both NUS and Singapore are quite well connected with the rest of Asia and the world.
 For example, [we regularly host people from Europe, USA, China, ASEAN, and other places]({{< relref "/seminars/" >}}), allowing our members to develop extensive and diverse connections and get exposed to a variety of latest developments, and our scholars have opportunities to do international visits too.
-Finally, our group and department have a global footprint, evidenced by the impact of [our publications]({{< relref "/publication/" >}}) and [invited lectures]({{< relref "/post/2022-07-usa-visits" >}}) in several countries worldwide.
+Finally, our group and department have a global footprint, evidenced by the impact of [our publications]({{< relref "/publication/" >}}), many collaborations, and [invited lectures]({{< relref "/post/2022-07-usa-visits" >}}) in several countries worldwide.
 {{< /spoiler >}}
 
 
@@ -302,15 +300,15 @@ Do note that if you have an offer from a highly ranked university, you can updat
 
 {{< spoiler text="Do I need to have a paper published for a PhD application?" >}}
 No. A publication record is not a requirement for a PhD.
-That said, of course, it will be a strong plus if you have one, as it demonstrates research skills and aptitude, and will make it easier to get into the PhD mode as you will already have some momentum.
-Most scholarship awardees so far had some kind of a publication, sometimes a journal paper.
+That said, a sizeable minority of PhD applicants nowadays has first-author publications (some in leading journals), so of course, it will be a strong plus if you have one, as it demonstrates research skills and aptitude, and will make it easier to get into the PhD mode as you will already have some momentum and experience.
+Most of our scholarship awardees so far had some kind of a publication, sometimes a journal paper.
 {{< /spoiler >}}
 
 
 {{< spoiler text="Do you care about my GPA?" >}}
 We don't -- we recognise that coursework (bachelor, master) is very different from research (PhD/Postdoc).
 One can excel in the former without shining in the latter, and vice-versa.
-But a high GPA, while by no means the main criteria, may help in getting the scholarship in the evaluation process managed by the University.
+But a high GPA, while by no means the main criteria, may help in your application being favoured during the evaluation process managed by the University.
 {{< /spoiler >}}
 
 
@@ -325,8 +323,8 @@ There are also lots of collaborative opportunities, many of [our publications]({
 
 
 {{< spoiler text="I do not think that I am ready yet for a PhD / I plan to apply but have some time and would like to prepare for the PhD -- What should I do?" >}}
-That much depends on your current skillset and what you will be working on during your PhD. One thing you usually cannot go wrong with is enhance your technical skills (e.g. programming in Python, machine learning packages, data visualisation, get acquainted with the most recent developments in AI...), communication (e.g. English oral and writing skills), and start casually following journals in the field and have a cursory look at recent papers. 
-You might also want to consider having a break and enjoying a longer holiday before starting your doctoral programme.
+That much depends on your current skillset and what you will be working on during your PhD. One thing you usually cannot go wrong with is enhance your technical skills (e.g. programming, machine learning packages, data visualisation, get acquainted with the most recent developments in AI...), communication (e.g. English oral and writing skills), and start casually following journals in the field and have a cursory look at recent papers. 
+You might also want to consider having a break and enjoying a longer holiday before starting your busy doctoral programme.
 {{< /spoiler >}}
 
 
@@ -334,36 +332,40 @@ You might also want to consider having a break and enjoying a longer holiday bef
 We are not computer scientists and we don't pretend to be. However, our research is technical and many of us are engineers.
 If you are at the beginner level with technical skills such as programming, doing research here is a great opportunity to advance these skills after some time and patience.
 However, if you have zero technical experience and affinity, and no computational skills, we do not recommend applying for a PhD in our domain.
-Please consider other research groups at NUS and our department that may match your profile and aspirations better.
+Please consider other research groups in our department or elsewhere at NUS that may match your profile and aspirations better.
 {{< /spoiler >}}
 
 
 {{< spoiler text="I want to do a PhD, but how can I choose a topic and am I free to do that on my own?" >}}
 One of the best parts of doing a PhD is to learn how to identify gaps and set a research direction.
-Barring some circumstances such as funding/sponsoring project constraints, a PhD researcher will determine the topic in collaboration with the supervisor, after several iterations and with a high degree of freedom.
+Barring some circumstances such as funding/sponsoring project constraints, a PhD researcher will determine the topic in collaboration with the supervisor, after several iterations and with a high degree of freedom respecting the researcher's interests.
 We are open to a variety of topics and PhD projects, as long as they make sense, bridge a clear gap in the field, and fit within our group, and as long as they match your profile, strengths, skills, and interests. 
 The fit in our research agenda is important because it would make it easier to get support and initiate collaborations.
 For visiting scholars, e.g. if they are doing a PhD, we need to make sure what they do here will be compatible with their PhD at their home university, and not deviate too much from it, so what they do here can directly contribute towards their PhD at their home university.
 {{< /spoiler >}}
 
 
-{{< spoiler text="I was not able to get a scholarship to support my PhD. Can I get an RA job?" >}}
-When we have RA openings, we post them on [our website with vacancies](https://ual.sg/opportunities/vacancies/).
-However, note that doing a PhD without a scholarship can be difficult and stressful because an RA job rarely covers the entire duration of the programme and it is not always perfectly aligned with a PhD project.
-We do not accept self-funded PhD students.
-{{< /spoiler >}}
-
 {{< spoiler text="Do you accept self-funded PhD scholars?" >}}
 No. We accept only those that have a scholarship (either a Singapore-based or a foreign one).
 {{< /spoiler >}}
+
+
+{{< spoiler text="I was not able to get a scholarship to support my PhD. Can I get an RA job?" >}}
+When we have RA openings, we post them on [our website with vacancies](https://ual.sg/opportunities/vacancies/).
+However, note that doing a PhD without a scholarship can be difficult and stressful because an RA job rarely covers the entire duration of the programme and it is not always perfectly aligned with a PhD project.
+Thus, we do not accept self-funded PhD students and those with RA jobs.
+{{< /spoiler >}}
+
 
 {{< spoiler text="Is it possible to do a PhD remotely?" >}}
 No.
 {{< /spoiler >}}
 
+
 {{< spoiler text="Can the university waive the PhD tuition fee if my scholarship funds only a stipend for living and research expenses, and the funding agency is not willing to cover also the tuition fee?" >}}
 No, NUS does not provide waivers, sorry, we can't do much about it.
 {{< /spoiler >}}
+
 
 {{< spoiler text="I didn't receive a reply to my email. Should I send it again?" >}}
 While we appreciate interest, we do not entertain generic emails and AI-generated applications.
@@ -378,26 +380,28 @@ If you have a bachelor degree, and you are interested in a PhD with us, we recom
 Our two departments ([NUS Architecture](https://cde.nus.edu.sg/arch/) and [NUS Real Estate](https://bschool.nus.edu.sg/real-estate/)) offer nice master programmes that you might want to consider in furthering your studies.
 {{< /spoiler >}}
 
+
 {{< spoiler text="Can I do a masters at your group?" >}}
 No, we don't offer master degrees.
 Our two departments ([NUS Architecture](https://cde.nus.edu.sg/arch/) and [NUS Real Estate](https://bschool.nus.edu.sg/real-estate/)) offer nice master programmes that you might want to consider in furthering your studies, e.g. [Master of Urban Planning](https://cde.nus.edu.sg/arch/programmes/master-of-urban-planning/).
-As part of the coursework of such programmes, it is possible to do a thesis or internship in a research group, but we don't offer entire master programmes, we are just a research group.
+As part of the coursework of such programmes, it is possible to do a thesis or internship in a research group, but we don't offer entire master programmes, we are just a small research group.
 Research masters ('Master by Research' -- MbR) is also a possibility at our department, but not at our group (we accept only doctoral applicants who already have a masters degree).
-Such a degree could be an option at another group at our department, so for more information, refer directly to our [NUS Department of Architecture](https://cde.nus.edu.sg/arch/).
+That said, such a degree could be an option at some other groups at our department, so for more information, refer directly to our [NUS Department of Architecture](https://cde.nus.edu.sg/arch/).
 {{< /spoiler >}}
 
+
 {{< spoiler text="How many papers do I need to apply for a position, postdoc, PhD, etc?" >}}
-Most research groups and departments at NUS don't really count papers like it is a sad and unfortunate practice at many other places. 
+Most research groups and departments at NUS don't really count papers like it is an unfortunate practice at many other places. 
 We care more about quality and impact, they are more important than quantity.
 One paper can be more valuable than [3 papers that are incremental and don't have much value](https://en.wikipedia.org/wiki/Salami_slicing_tactics#Salami_slicing_in_scientific_publishing).
-Thus, we do not have quantifiable requirements, and we assess applicants holistically and privilege quality and impact.
+Thus, we do not have quantifiable requirements, and we assess applicants holistically and privilege quality and impact, and rarely get impressed by someone's publication count.
 {{< /spoiler >}}
 
 
 {{< spoiler text="Do I have to take courses during the PhD?" >}}
 Yes, but the coursework requirement is not as heavy as in some other places such as the USA. You can also request to waive certain courses if you have taken relevant ones at the graduate school level.
-Further, our department offers the option of one or two independent study courses, which count as a regular course, during which a piece of research is executed and submitted as a report. which can be integrated in the PhD.
-This is an attractive option also because during one semester it allows you to have two supervisors, one of which is a co-supervisor from elsewhere at the department or another department.
+Further, our department offers the option of an independent study course, which counts as a regular course, during which a piece of research is executed and submitted as a report, which can be integrated in the PhD.
+This is an attractive option also because during one semester it allows you to have two supervisors, one of which is a co-supervisor from elsewhere at our department or from another department.
 {{< /spoiler >}}
 
 
@@ -407,6 +411,6 @@ Yes. We are happy to endorse candidates who are seeking external funding as long
 
 
 {{< spoiler text="I got admitted to the PhD programme, but I want to start half year later. Is it possible to defer the admission?" >}}
-Usually yes. There are some valid reasons for that, e.g. waiting for an external scholarship outcome. Please contact the graduate school if you got admitted but would like to start at the next intake instead.
+Sometimes yes. There are some valid reasons for that, e.g. waiting for an external scholarship outcome. Please contact the graduate school if you got admitted but would like to start at the next intake instead.
 {{< /spoiler >}}
 

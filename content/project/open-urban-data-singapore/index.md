@@ -24,6 +24,8 @@ image:
 projects: []
 ---
 
+{{< toc mobile_only=false is_open=true >}}
+
 ## Introduction
 
 In our research and teaching activities that are focused on Singapore, we rely largely on open data, enabling reproducibility and fostering open science.
@@ -331,6 +333,13 @@ A few pointers:
 * Individual countries have their own open data portals with varying levels of maturity -- for example, [data.go.id](https://data.go.id/) (Indonesia), [data.gov.ph](https://data.gov.ph/) (Philippines), and [data.go.th](https://data.go.th/) (Thailand).
 * Well worth mentioning is that the Philippines is one of the rare countries with open [nation-wide open lidar data](https://lipad.dream.upd.edu.ph).
 
-### Have a suggestion for an entry? Spotted an error?
+## Singapore Open Research Awards
+
+Worth mentioning in the context of open data in Singapore is [The Singapore Open Research Awards](https://libguides.ntu.edu.sg/SGORawards2026).
+The Awards recognise researchers in Singapore who have advanced research in a meaningful and impactful way by making their research content, tools, and processes open, accessible, transparent, and reusable.
+The Singapore Open Research (SGOR) Awards and Conference were featured on UNESCO’s Open and Inclusive Science Hub, recognising Singapore’s efforts to foster a national culture of open research.
+The Awards and Conference are jointly organised by NTU, NIE, NUS, SIT, SMU, SUSS, SUTD, and UAS, i.e. all 7 publicly-funded Singapore universities.
+
+## Have a suggestion for an entry? Spotted an error?
 
 [Get in touch](/#contact).

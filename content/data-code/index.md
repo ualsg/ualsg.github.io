@@ -132,6 +132,7 @@ If you are interested in collaborating with us, please get in touch with the lea
 | Short description: | A simple and powerful platform for conducting streetscape perception surveys with image-based questions. |
 | Lead developer: | {{% mention "sijie" %}} |
 | Further reading: | Please read the [paper](https://doi.org/10.1016/j.buildenv.2025.112569) published in BAE |
+| Website: | [<i class="fas fa-home"></i> Website](https://sp-survey.org) |
 | Code: | [<i class="fab fa-github"></i>  Github repo](https://github.com/Sijie-Yang/Streetscape-Perception-Survey) |
 | Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
 @article{2025_bae_thermal,

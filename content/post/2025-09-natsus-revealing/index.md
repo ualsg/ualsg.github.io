@@ -47,6 +47,20 @@ The paper was also [featured](https://cde.nus.edu.sg/news-detail/ai-model-maps-b
 
 ![](3.png)
 
+### Video and infographic
+
+Thanks to [ResearchBunny](https://www.researchbunny.com/papers/revealing-building-operating-carbon-dynamics-for-multiple-cities-ck6n), we have another video and an infographic about this research:
+
+{{< video src="abstract.mp4" controls="true" >}}
+
+<figure>
+  <a href="infographic.png" target="_blank">
+    <img src="infographic.png" alt="Infographic about the work" style="width:100%">
+  </a>
+  <figcaption>Infographic about the work. Courtesy of <a href="https://www.researchbunny.com/papers/revealing-building-operating-carbon-dynamics-for-multiple-cities-ck6n">ResearchBunny</a>.</figcaption>
+</figure>
+
+Read more about ResearchBunny [here](https://www.researchbunny.com).
 
 ### Abstract
 
