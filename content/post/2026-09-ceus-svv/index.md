@@ -41,6 +41,21 @@ Congratulations on this important journal publication! :raised_hands: :clap:
 
 ![](2.png)
 
+### Video and infographic
+
+Thanks to [ResearchBunny](https://www.researchbunny.com/papers/street-view-video-for-urban-sensing-potential-for-measuring-urban-vitality-akw6?nav=general), we have a video and an infographic about this research:
+
+{{< video src="abstract.mp4" controls="true" >}}
+
+<figure>
+  <a href="infographic.png" target="_blank">
+    <img src="infographic.png" alt="Infographic about the work" style="width:100%">
+  </a>
+  <figcaption>Infographic about the work. Courtesy of <a href="https://www.researchbunny.com/papers/street-view-video-for-urban-sensing-potential-for-measuring-urban-vitality-akw6?nav=general">ResearchBunny</a>.</figcaption>
+</figure>
+
+Read more about ResearchBunny [here](https://www.researchbunny.com).
+
 
 ### Abstract
 

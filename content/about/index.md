@@ -12,15 +12,15 @@ title = "About the Urban Analytics Lab"
   columns = "1"
 +++
 
-We are a multidisciplinary research group focusing on urban data management and analysis, geographic data science, and digital twins at the [Department of Architecture](https://cde.nus.edu.sg/arch/) of the [National University of Singapore (NUS)](http://www.nus.edu.sg), a leading global university centred in Asia.
+We are a multidisciplinary research group in urban data science at the [Department of Architecture](https://cde.nus.edu.sg/arch/) of the [National University of Singapore (NUS)](http://www.nus.edu.sg), a leading global university centred in Asia.
 
-In a nutshell, we are developing quantitative methods and tools that leverage emerging urban and geospatial data and AI to sense the form, function, and human experience of cities.
-While doing that, we are also developing foundational research to support urban informatics such as means to understanding data quality and integrity.
+In a nutshell, we measure cities from data: we are developing quantitative methods and tools that leverage emerging urban and geospatial data and AI to sense the form, function, and human experience of cities.
+While doing that, we are also developing foundational research to support sustainable development of urban informatics such as introducing new means to understanding data quality and integrity.
 
-In our mission to leverage and make sense of big geospatial data at different scales for urban applications, we are particularly interested in the interface of emerging urban datasets such as street-level imagery, online reviews and dynamic/sensor data with the state of the art of artificial intelligence to solve urban challenges and take urban informatics forward.
+In our mission to leverage and make sense of big geospatial data at scale for urban applications, we are particularly interested in the interface of emerging urban datasets such as street-level imagery, online reviews and dynamic/sensor data with the state of the art of artificial intelligence to solve urban challenges and take urban informatics forward.
 Our research catalyses the development of spatial/urban data infrastructures and digital twins under the umbrella of smart cities and the built environment, as evidenced through its adoption by international organisations, governments, and industry.
 
-Crowdsourcing and user-generated information play an important role in our research, as we follow and contribute to the vibrant developments in Volunteered Geographic Information (VGI) and tend to engage such data in our innovations.
+Crowdsourcing and user-generated geographic information play an important role in our research, and we follow and contribute to the vibrant developments in Volunteered Geographic Information (VGI) and tend to engage such data in our work.
 
 The research group was established in 2019 by its Director/PI Dr {{% mention "filip" %}}, Associate Professor at the [NUS College of Design and Engineering](https://www.cde.nus.edu.sg) and the [NUS Business School](https://bschool.nus.edu.sg), and has been a home for [dozens of remarkable researchers](/people) who share ambitions about making our cities smarter and more data-driven.
 You can read more about our research agenda also in [an interview with the PI](https://news.nus.edu.sg/creating-a-map-for-the-future).
@@ -34,6 +34,10 @@ Besides funding from NUS and academic/government organisations such as Singapore
 In 2026, we reached a milestone of 100 lab members (alumni + current), and we have [graduated our first PhDs](/doctors).
 Some photos of our vibrant and multidisciplinary team over the years are below.
 
+![](ual-cny-dinner-2025-02.jpg)
+
+{{< figure src="lidar.png" caption="A lidar scan of our group's open office. Courtesy of [Olaf Wysocki](https://olafwysocki.github.io) and [Ziyang Xu](https://www.asg.ed.tum.de/gds/xu/) (TU Munich) during their visit in 2024." >}}
+
 ## Our culture
 
 Ours is a small and friendly team with a flat hierarchy, where ideas are discussed on their merit rather than by seniority.
@@ -44,8 +48,6 @@ We are a multidisciplinary and international group, and we find that many of our
 We care about the quality and impact of our research rather than counting papers, and we take open science seriously, releasing our [data and code](/data-code) and documenting our work so that others can build on it.
 And while everyone here is busy and works hard, we always find time for lunches, dinners, and the occasional outing.
 
-
-![](ual-cny-dinner-2025-02.jpg)
 
 ![](ual-dinner-2022-06.jpg)
 

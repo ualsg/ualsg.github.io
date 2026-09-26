@@ -17,11 +17,15 @@ image:
 
 # An open-source platform for streetscape perception research
 
-SP-Survey, developed by {{% mention "sijie" %}}, is a simple and powerful platform for conducting streetscape perception surveys with image-based questions. It can be deployed in minutes.
+[SP-Survey](https://sp-survey.org), developed by {{% mention "sijie" %}}, is a simple and powerful platform for conducting streetscape perception surveys with image-based questions. It can be deployed in minutes without coding.
+
+The project has [a website](https://sp-survey.org).
 
 It is available openly on [GitHub](https://github.com/Sijie-Yang/Streetscape-Perception-Survey).
 
-![](1.png)
+## Video
+
+{{< video src="sp-survey.mov" controls="true" >}}
 
 ## Paper and attribution
 
@@ -46,3 +50,4 @@ If you use SP-Survey in a scientific context, please cite the paper:
 The project was led by {{% mention "sijie" %}} and conducted in the [Urban Analytics Lab](/) at the National University of Singapore (NUS).
 The full list of people involved is listed in the paper.
 
+![](1.png)
