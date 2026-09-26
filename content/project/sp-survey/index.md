@@ -4,7 +4,7 @@ summary: An open-source platform for streetscape perception research.
 authors: [sijie]
 profile: true  # Show author profile?
 date: 2025-11-22T08:36:16+08:00
-lastmod: 2025-11-22T08:36:16+08:00
+lastmod: 2026-09-26T11:55:00+08:00
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -25,7 +25,7 @@ It is available openly on [GitHub](https://github.com/Sijie-Yang/Streetscape-Per
 
 ## Video
 
-{{< video src="sp-survey.mov" controls="true" >}}
+{{< video src="sp-survey.mp4" controls="true" >}}
 
 ## Paper and attribution
 
