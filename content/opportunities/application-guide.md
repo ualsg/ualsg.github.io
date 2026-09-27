@@ -15,7 +15,7 @@ We welcome motivated and talented prospective researchers from diverse disciplin
 
 ## Overview: where to start
 
-+ **PhD applicants**: stay on this page. We accept PhD applicants twice a year (in line with the intakes in the doctoral programme at our school). This page covers requirements, the application process, contacting us, and [frequently asked questions](#faq).
++ **PhD applicants**: stay on this page. We accept PhD applicants twice a year (in line with the intakes in the doctoral programme at our school). This page covers requirements, the application process, contacting us, and [frequently asked questions](#faq). Please note that we do not offer a masters by research, and do not accept self-funded PhD students.
 + **Jobs (e.g. research assistant, postdoc, and similar roles)**: first please check whether we have current [openings](/opportunities/vacancies/). These positions depend on funded projects and are advertised when available; while this guide serves as useful background. We also accept prospective postdocs who would like to apply for an [externally funded fellowship](../fellowships).
 + **Visiting scholars**: stay on this page and please see the [visiting scholars](#visiting-scholars-up-to-12-months) section for how to propose a stay, what we look for, and practical points (funding, timing, non-graduating student enrolment).
 
@@ -82,6 +82,9 @@ At minimum, we expect prospective students to understand what we do, why we do i
 
 We welcome PhD applicants continuously at all intakes at NUS.
 This section provides more information about the process.
+
+Doctoral applicants should have a masters degree (or being close to completing one).
+We do not offer a masters by research, and do not accept self-funded PhD students.
 
 _On a related note, [check out the list of doctoral candidates who have completed their PhD in our group](../../doctors/)._
 
