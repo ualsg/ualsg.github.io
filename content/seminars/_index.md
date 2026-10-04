@@ -24,6 +24,19 @@ To stay updated, please follow our [LinkedIn account](https://www.linkedin.com/c
 
 ---
 
+### 2026-10-26 --- World Heritage Understanding aided with Artificial Intelligence – From Public Discourse to Policy Documents
+
+By Dr [Nan Bai](https://www.tudelft.nl/en/staff/n.bai/),
+[Faculty of Architecture and the Built Environment](https://www.tudelft.nl/en/architecture-and-the-built-environment/),
+[Delft University of Technology](https://www.tudelft.nl/en/),
+the Netherlands
+
+The cultural significance of UNESCO World Heritage is conventionally only defined by the experts and decision-makers. In the past decade, however, social inclusion and public participation have been  growing as goals in heritage management. The 2011 UNESCO Recommendation on the Historic Urban Landscape recognizes urban heritage as a social, cultural and economic asset for the development of cities. Treating cities as dynamic organisms and urban heritage management as a holistic approach, it is important to document and map the knowledge from a broader public to facilitate more inclusive heritage decision-making processes. However, effectively sensing, documenting, and managing urban heritage in the 21st century presents unprecedented opportunities and challenges with the ever-growing volumes of data in all sources and the advancing AI-aided digital technologies to analyse them. The integration of multi-source data, including but not limited to geographic information systems, street view imagery, crowdsourced information, and user-generated content from social media, offers transformative potential for heritage studies and urban science. This integration allows for more comprehensive and scalable assessment of cultural significance, supporting evidence-based heritage management practices. This presentation focuses on how cultural heritage is perceived by people with the help of data science and artificial intelligence. With this knowledge, scholars and practitioners will be able to offer spatial design frameworks and planning suggestions for heritage conservation and urban [re]development, particularly under the impact of climate change.
+
+![](2026-10-26.jpg)
+
+---
+
 ### 2026-08-18 --- Getting that academic job: Two perspectives from the Built Environment
 
 A session on early-career academic trajectories featuring two new faculty members:
@@ -60,7 +73,7 @@ Departing from the usual format, this time, we are hosting a joint seminar with 
 
 ### 2025-10-23 --- Modeling Pedestrian Mobility in Cities: Tools for Sustainable Urban Design
 
-By [Andres Sevtsuk](https://dusp.mit.edu/people/andres-sevtsuk),
+By Assoc Prof [Andres Sevtsuk](https://dusp.mit.edu/people/andres-sevtsuk),
 [Department of Urban Studies and Planning](https://dusp.mit.edu),
 [Massachusetts Institute of Technology](https://web.mit.edu),
 USA
@@ -73,7 +86,7 @@ The global challenges of climate change, public health, and urban economic compe
 
 ### 2025-08-11 --- Planning the Unplannable: How Urban Complexity Can Work in Our Favor
 
-By [Javier Argota Sánchez-Vaquerizo](https://gess.ethz.ch/en/the-department/people/person-detail.Mjc3MjQz.TGlzdC81MTIsNjE4MTIwODY=.html),
+By Dr [Javier Argota Sánchez-Vaquerizo](https://gess.ethz.ch/en/the-department/people/person-detail.Mjc3MjQz.TGlzdC81MTIsNjE4MTIwODY=.html),
 [Computational Social Science](https://coss.ethz.ch),
 [ETH Zurich](https://ethz.ch/en.html),
 Switzerland
@@ -102,7 +115,7 @@ Departing from the usual format, this time, we are hosting a joint seminar with 
 
 ### 2025-07-23 --- Evaluating Urban Ventilation Corridor through Mobile Air Quality Monitoring and Environmental Justice
 
-By [Ye Tian](https://people.ucd.ie/ye.tian),
+By Dr [Ye Tian](https://people.ucd.ie/ye.tian),
 [School of Geography](https://www.ucd.ie/geography/),
 [University College Dublin](https://www.ucd.ie),
 Ireland
@@ -117,7 +130,7 @@ This talk will introduce the UVC extraction through 2D and 3D urban morphologica
 
 ### 2025-07-14 --- Multimodal Earth Vision and Artificial Intelligence Techniques for Natural Hazard Risk and Impact Assessment
 
-By [Christian Geiß](https://scholar.google.de/citations?user=aajz_MgAAAAJ&hl=en),
+By Prof [Christian Geiß](https://scholar.google.de/citations?user=aajz_MgAAAAJ&hl=en),
 [Earth Observation Center](https://www.dlr.de/en/eoc/),
 [German Aerospace Center](https://www.dlr.de/en),
 Germany
@@ -130,7 +143,7 @@ Global changes encompass human-driven alterations to the Earth system. These cha
 
 ### 2025-06-05 --- Urban 3D Modeling and Applications in the Era of Foundation Models
 
-By [Wufan Zhao](https://wufan-zhao.github.io/),
+By Dr [Wufan Zhao](https://wufan-zhao.github.io/),
 [Urban Governance and Design Thrust](https://soch.hkust-gz.edu.cn/academics/ugod/),
 [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/),
 China
@@ -143,7 +156,7 @@ Foundation models are transforming how cities are sensed, modeled, and understoo
 
 ### 2025-06-05 --- Mapping the Unseen: GeoAI-Empowered Spatial Sensing and Analytics for Urban Villages in China
 
-By [Rui Cao](https://caorui.space/),
+By Dr [Rui Cao](https://caorui.space/),
 [Urban Governance and Design Thrust](https://soch.hkust-gz.edu.cn/academics/ugod/),
 [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/),
 China
@@ -156,7 +169,7 @@ Urban villages, informal settlements embedded within China's rapidly expanding c
 
 ### 2025-02-14 --- Towards GeoAI Foundation Models: Unlocking Spatial Knowledge through Vision-Language Models
 
-By [Meiliu Wu](https://www.gla.ac.uk/schools/ges/staff/meiliuwu/),
+By Dr [Meiliu Wu](https://www.gla.ac.uk/schools/ges/staff/meiliuwu/),
 [School of Geographical & Earth Sciences](https://www.gla.ac.uk/schools/ges/),
 [University of Glasgow](https://www.gla.ac.uk),
 Scotland
@@ -170,7 +183,7 @@ The core of this framework leverages spatially explicit prompt engineering and c
 
 ### 2024-10-21 --- From Built Heritage 3D Spatial Documentation to National Hazards Maps: a multi-scale & multi-techniques research approach
 
-By [Elisabetta Colucci](https://www.polito.it/en/staff?p=041312),
+By Dr [Elisabetta Colucci](https://www.polito.it/en/staff?p=041312),
 [Department of Architecture and Design](https://www.dad.polito.it/en/),
 [Politecnico di Torino](https://www.polito.it/en),
 Italy
@@ -186,7 +199,7 @@ Furthermore, open data, spatial databases, and interdisciplinary collaboration f
 
 ### 2024-09-17 --- Greener Urban Trips for Everyone: From Measured Wellbeing Impacts to Big Data Analytics
 
-By [Tuuli Toivonen](https://researchportal.helsinki.fi/en/persons/tuuli-toivonen),
+By Prof [Tuuli Toivonen](https://researchportal.helsinki.fi/en/persons/tuuli-toivonen),
 [Digital Geography Lab](https://www.helsinki.fi/en/researchgroups/digital-geography-lab),
 [University of Helsinki](https://www.helsinki.fi/en),
 Finland
@@ -201,7 +214,7 @@ The presentation will describe the ongoing work of the project and more broadly 
 
 ### 2024-07-17 --- What happens with big data approaches to urban science when data don't exist?
 
-By [Fábio Duarte](https://dusp.mit.edu/people/fabio-duarte),
+By Dr [Fábio Duarte](https://dusp.mit.edu/people/fabio-duarte),
 [MIT Senseable City Lab](https://senseable.mit.edu),
 [Massachusetts Institute of Technology](https://www.mit.edu),
 USA
@@ -214,7 +227,7 @@ As layers of networks and digital information blanket urban space, new approache
 
 ### 2024-07-16 --- Twenty years of using crowd-sourced geodata to analyze urban phenomena – where do we go next?
 
-By [Ate Poorthuis](https://www.atepoorthuis.com),
+By Dr [Ate Poorthuis](https://www.atepoorthuis.com),
 [Department of Earth and Environmental Sciences](https://ees.kuleuven.be),
 [KU Leuven](https://www.kuleuven.be/),
 Belgium
@@ -227,7 +240,7 @@ In the last twenty years we have seen the proliferation of all kinds of new digi
 
 ### 2024-07-15 --- Ethics and Responsible Innovation in Data-Intensive Smart Cities and Urban Mobility Management
 
-By [Vonu Thakuriah](https://sites.rutgers.edu/thakuriah/),
+By Prof [Vonu Thakuriah](https://sites.rutgers.edu/thakuriah/),
 [Rutgers Urban and Civic Informatics Lab](https://rucilab.rutgers.edu),
 [Rutgers University-New Brunswick](https://www.rutgers.edu),
 USA
@@ -240,7 +253,7 @@ Data and information technology have transformed our daily lives and have reshap
 
 ### 2024-07-08 --- User-Generated Data: Alternative Data Source for Urban Planning in Indonesia
 
-By [Adiwan Fahlan Aritenang](https://www.itb.ac.id/staf/profil/adiwan-fahlan-aritenang),
+By Assoc Prof [Adiwan Fahlan Aritenang](https://www.itb.ac.id/staf/profil/adiwan-fahlan-aritenang),
 [Urban and Regional Planning Program](https://www.itb.ac.id/masters-program-in-urban-and-regional-planning),
 [Institut Teknologi Bandung](https://www.itb.ac.id),
 Indonesia
@@ -253,7 +266,7 @@ In Indonesia, limited data availability has led to the lack of accuracy and inef
 
 ### 2024-05-13 --- Advancing Sense of Place with Human-centered Geospatial Data Science
 
-By [Yuhao Kang](http://www.kkyyhh96.site/),
+By Dr [Yuhao Kang](http://www.kkyyhh96.site/),
 [Department of Geography](https://sc.edu/study/colleges_schools/artsandsciences/geography/index.php),
 [University of South Carolina](https://sc.edu/),
 USA
@@ -266,7 +279,7 @@ Human sense of place refers to how we perceive, experience, and interact with a 
 
 ### 2023-12-18 --- Opportunities and Challenges in Geospatial AI
 
-By [Song Gao](https://geography.wisc.edu/staff/gao-song/),
+By Assoc Prof [Song Gao](https://geography.wisc.edu/staff/gao-song/),
 [Geospatial Data Science Lab](https://geography.wisc.edu/geods/research),
 [University of Wisconsin - Madison](https://www.wisc.edu),
 USA
@@ -279,7 +292,7 @@ Geospatial artificial intelligence (GeoAI), an emerging interdisciplinary field,
 
 ### 2023-10-02 --- Realising Computational Design of Complex Geometry in Architecture
 
-By [Ming Shan (Charmaine) Ng](https://www.hyokadb.jim.kit.ac.jp/profile/en.a8ad724387d2489b91764df21b29a00b.html),
+By Assoc Prof [Ming Shan (Charmaine) Ng](https://www.hyokadb.jim.kit.ac.jp/profile/en.a8ad724387d2489b91764df21b29a00b.html),
 [Center for the Possible Futures](https://www.cpf.kit.ac.jp),
 [Kyoto Institute of Technology](https://www.kit.ac.jp/en/),
 Japan
@@ -292,7 +305,7 @@ The talk showcases research and practice about computational design and digital 
 
 ### 2023-09-18 --- Cities on the Climate Frontlines: Evaluating Urban Climate Change and Policy Responses
 
-By [Angel Hsu](https://publicpolicy.unc.edu/person/hsu-angel/),
+By Assoc Prof [Angel Hsu](https://publicpolicy.unc.edu/person/hsu-angel/),
 [Data-Driven EnviroLab](https://datadrivenlab.org), 
 [The University of North Carolina at Chapel Hill](https://www.unc.edu/),
 USA
@@ -305,7 +318,7 @@ Cities are both contributors and potential problem solvers of the global climate
 
 ### 2023-08-07 --- Experiencing the Future of Cities through Virtual Reality
 
-By [Gamze Dane](https://gamzedane.com),
+By Dr [Gamze Dane](https://gamzedane.com),
 [Department of Built Environment](https://www.tue.nl/en/our-university/departments/built-environment), 
 [Eindhoven University of Technology](https://www.tue.nl/en/),
 the Netherlands
@@ -321,7 +334,7 @@ This presentation will showcase examples of projects where VR technology was uti
 
 ### 2023-07-10 --- Sensing Cities with Street-level Imagery
 
-By [Zhang Fan](https://www.ce.ust.hk/people/fan-zhang-zhangfan),
+By Dr [Zhang Fan](https://www.ce.ust.hk/people/fan-zhang-zhangfan),
 [Department of Civil and Environmental Engineering](https://www.ce.ust.hk), 
 [Hong Kong University of Science and Technology](https://hkust.edu.hk),
 Hong Kong SAR
@@ -338,7 +351,7 @@ This presentation will introduce case studies of street-level imagery under the 
 
 ### 2023-04-12 --- Urban Analytics and Social Sensing
 
-By [Wei Huang](https://huangweibuct.github.io/weihuang.github.io/),
+By Prof [Wei Huang](https://huangweibuct.github.io/weihuang.github.io/),
 [College of Surveying and Geo-Informatics](https://celiang.tongji.edu.cn/chinese/sy.htm),
 [Tongji University](https://en.tongji.edu.cn/p/), 
 China
@@ -361,7 +374,7 @@ I will introduce a framework that combines data sources, models and end goals, w
 
 ### 2023-03-06 --- Map Outside the ~~Box~~ Pixel
 
-By [Yuhao Lu](https://fcl.ethz.ch/people/researchers/Yuhao-Lu.html),
+By Dr [Yuhao Lu](https://fcl.ethz.ch/people/researchers/Yuhao-Lu.html),
 [Future Cities Laboratory](https://fcl.ethz.ch), 
 [Singapore-ETH Centre](https://sec.ethz.ch),
 Singapore
@@ -378,7 +391,7 @@ These projects are technical by nature, but also creative in ways that I hope ca
 
 ### 2023-02-27 --- Urban shade planning for thermally sustainable cities: perspectives from multi-sensor analysis
 
-By [Park Yujin](http://planning.cau.ac.kr/01_info/sub02_view.php?gubun=1&seq=600),
+By Dr [Park Yujin](http://planning.cau.ac.kr/01_info/sub02_view.php?gubun=1&seq=600),
 [Department of Urban Planning and Real Estate](http://planning.cau.ac.kr), 
 [Chung-Ang University](https://www.cau.ac.kr/),
 South Korea
@@ -391,7 +404,7 @@ Devising a nature- and design-based solution to combat climate challenges is a v
 
 ### 2023-02-02 --- The Eco-Race in Architecture Caught Between Environmental Intuition and Intelligence
 
-By [Jonathan Natanian](https://jonathann.net.technion.ac.il),
+By Dr [Jonathan Natanian](https://jonathann.net.technion.ac.il),
 [Faculty of Architecture and Town Planning](https://architecture.technion.ac.il), 
 [Technion -- Israel Institute of Technology](http://www.technion.ac.il/en/),
 Israel
@@ -408,7 +421,7 @@ This lecture will discuss some of these questions which revolve around the gaps 
 
 ### 2023-01-03 --- Addressing the Urban Planning Challenges Using GeoAI
 
-By [Vaibhav Kumar](https://sites.google.com/view/vaibhavkumar1/home),
+By Dr [Vaibhav Kumar](https://sites.google.com/view/vaibhavkumar1/home),
 [Department of Data Science and Engineering](https://dse.iiserb.ac.in),
 [Indian Institute of Science Education and Research Bhopal](https://www.iiserb.ac.in),
 India
@@ -434,7 +447,7 @@ As planning research develops in response to a more complex policy context, bett
 
 ### 2022-11-25 --- The role of digital tools and data for citizen engagement and participatory planning
 
-By [Gamze Dane](https://gamzedane.com),
+By Dr [Gamze Dane](https://gamzedane.com),
 [Department of Built Environment](https://www.tue.nl/en/our-university/departments/built-environment/),
 [Eindhoven University of Technology](https://www.tue.nl/en/),
 & Digital City Program at the [Urban Development Initiative](https://brainporteindhoven.com/udi/en/),
@@ -464,8 +477,7 @@ The Philippines has committed to transitioning into a low-carbon future by reduc
 
 ### 2022-07-28 --- Open Computational Design for Sustainable Developments (in person at NUS + online)
 
-By
-[Kian Wee Chen](https://acee.princeton.edu/people-directory/kian-wee-chen/),
+By Dr [Kian Wee Chen](https://acee.princeton.edu/people-directory/kian-wee-chen/),
 [CHAOS Lab](https://chaos.princeton.edu),
 [Andlinger Center for Energy and the Environment](https://acee.princeton.edu),
 Princeton University,
@@ -480,8 +492,7 @@ Open computational design will significantly reduce the cost of technology adopt
 
 ### 2022-07-22 --- Factor Analysis and Spatial Prediction: New Methods and Tools
 
-By
-[Yongze Song](https://yongzesong.com),
+By Dr [Yongze Song](https://yongzesong.com),
 [School of Design and the Built Environment](https://about.curtin.edu.au/learning-teaching/humanities/design-built-environment/),
 Curtin University,
 Australia
