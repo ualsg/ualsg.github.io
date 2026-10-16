@@ -44,11 +44,6 @@ Research Group at the National University of Singapore
           </a>
         </li>
         <li>
-          <a itemprop="sameAs" href="http://twitter.com/urbanalyticslab" target="_blank" rel="noopener">
-            <i class="fab fa-twitter big-icon"></i>
-          </a>
-        </li>
-        <li>
           <a itemprop="sameAs" href="https://www.linkedin.com/company/urban-analytics-lab/" target="_blank" rel="noopener">
             <i class="fab fa-linkedin big-icon"></i>
           </a>

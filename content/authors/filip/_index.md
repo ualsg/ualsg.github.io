@@ -97,8 +97,9 @@ Filip Biljecki is an Associate Professor at the Department of Architecture (Coll
 He is the founder and the principal investigator of the [NUS Urban Analytics Lab](/).
 In the early stages of the Lab development, [he was appointed]({{< ref "/post/2020-07-filip-pyp/index.md" >}}) as NUS Presidential Young Professor.
 
-Filip has published around 200 peer-reviewed articles, which have been cited over 13,000 times, and some of the work has been translated into practice such as implementation in standards.
-His research and teaching have been recognised through multiple international awards, and he has supervised dozens of students, leading them to publications in leading journals and placements at top universities and organisations.
+Filip has published around 200 peer-reviewed articles, which have been cited over 15,000 times, and some of the work has been translated into practice such as implementation in standards.
+His awards include the Young Researcher Award in GIScience from the Austrian Academy of Sciences, the Gill Memorial Award from the Royal Geographical Society (with the Institute of British Geographers), and the NUS Annual Teaching Excellence Award.
+He has supervised dozens of students, leading them to publications in leading journals and placements at top universities and organisations.
 He delivered invited talks at more than 150 universities, events, and organisations worldwide.
 Filip serves the community through associate editor roles in two journals in urban studies: Computers, Environment and Urban Systems & Landscape and Urban Planning.
 
@@ -113,6 +114,7 @@ The full list of his publications is available [here](https://filipbiljecki.com/
 * [Landscape and Urban Planning](https://www.journals.elsevier.com/landscape-and-urban-planning) -- Subject Associate Editor (Urban Analytics)
 * [Cities](https://www.sciencedirect.com/journal/cities) -- Editorial Board Member
 * [International Journal of Geographical Information Science](https://www.tandfonline.com/journals/tgis20) -- Editorial Board Member
+* [Environment and Planning B: Urban Analytics and City Science](https://journals.sagepub.com/home/EPB) -- Editorial Advisory Board Member
 * [Open Geospatial Consortium](https://www.ogc.org), [3DIM DWG](https://www.ogc.org/projects/groups/3dimdwg) -- Co-Chair
 * [International Society for Photogrammetry and Remote Sensing](https://www.isprs.org), [WG IV/1: Spatial Data Representation and Interoperability](https://www2.isprs.org/commissions/comm4/wg1/) -- Chair
 * [Future Cities Lab Global at the Singapore-ETH Centre](https://sec.ethz.ch/research/fcl.html) -- Principal Investigator

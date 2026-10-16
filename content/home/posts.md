@@ -70,4 +70,4 @@ subtitle = "Updates from our group"
 We are hiring developers, postdocs, and computational research associates on a new project on digital twins. Please see our [opportunities page]({{< ref "/opportunities/vacancies.md" >}}).
 {{% /callout %}} -->
 
-Feel free to follow us on <a href="https://twitter.com/urbanalyticslab">Twitter</a> or through our [RSS feed]({{< ref path="/post" outputFormat="rss" >}}).
+Feel free to follow us on <a href="https://www.linkedin.com/company/urban-analytics-lab/">LinkedIn</a> or through our [RSS feed]({{< ref path="/post" outputFormat="rss" >}}).

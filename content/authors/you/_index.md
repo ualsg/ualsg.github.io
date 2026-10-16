@@ -24,4 +24,4 @@ This could be you.
 
 We are always glad to hear from prospective PhD students, postdocs, and other researchers interested in joining us.
 
-**[Join us — application guide and opportunities](/opportunities/application-guide/)**
+[Join us — application guide and opportunities](/opportunities/application-guide/)

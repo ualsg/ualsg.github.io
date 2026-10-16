@@ -48,6 +48,19 @@ sections:
   
   - block: markdown
     content:
+      title:
+      text: |
+        {{% callout note %}}
+        **We are recruiting!** One full-time position (Research Assistant) is open. [Details and how to apply](/opportunities/vacancies/).
+        {{% /callout %}}
+    design:
+      columns: '1'
+      spacing:
+        padding: ["20px", "0", "20px", "0"]
+
+  
+  - block: markdown
+    content:
       title: About us
       text:         We are developing quantitative methods and tools that leverage emerging urban and geospatial data and AI to sense the form, function, and human experience of cities.
 
@@ -140,10 +153,6 @@ sections:
       office_hours:
       appointment_url: ''
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: X
-          link: 'https://twitter.com/urbanalyticslab'
         - icon: linkedin
           icon_pack: fab
           name: LinkedIn

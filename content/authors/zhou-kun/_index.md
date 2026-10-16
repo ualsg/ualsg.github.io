@@ -50,7 +50,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Graduate Researchers and Students
-- People
+- Alumni
 ---
 
 Kun Zhou graduated with a master's degree in Geographic Information Systems at the National University of Singapore. She has experience in modeling land use changes using vector cellular automata. Her research interest is in the application of geographic information technology in urban planning. At UAL, her current research interest is to explore computer vision techniques and their applications in urban analysis.

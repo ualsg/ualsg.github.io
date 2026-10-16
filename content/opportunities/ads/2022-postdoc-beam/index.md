@@ -3,7 +3,7 @@ date = 2022-07-21
 title = "Vacancy: Research Fellow, 2 positions in Urban Microclimate and Digital Twin"
 +++
 
-{{< figure src="header.jpg" title="Singapore skyline by [Mike Enerio](https://unsplash.com/@mikeenerio) on [Unsplash](https://unsplash.com/photos/CQhgno3yhv8)." >}}
+{{< figure src="header.jpg" title="Singapore skyline by [Mike Enerio](https://unsplash.com/@mikeenerio) on [Unsplash](https://unsplash.com/photos/w7Z0fiZw4Mw)." >}}
 
 {{% callout note %}}
 It is not possible to apply anymore to this position.
