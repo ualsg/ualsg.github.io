@@ -3,7 +3,7 @@ date = 2020-09-10
 title = "Vacancy: Postdoctoral research fellow on data quality/integrity in 3D GIS/smart cities/digital twins"
 +++
 
-{{< figure src="header.jpg" title="Singapore skyline by [Mike Enerio](https://unsplash.com/@mikeenerio) on [Unsplash](https://unsplash.com/photos/CQhgno3yhv8)." >}}
+{{< figure src="header.jpg" title="Singapore skyline by [Mike Enerio](https://unsplash.com/@mikeenerio) on [Unsplash](https://unsplash.com/photos/w7Z0fiZw4Mw)." >}}
 
 {{% callout info %}}
 It is not possible to apply anymore to this position, as we have received a sufficient number of applications.

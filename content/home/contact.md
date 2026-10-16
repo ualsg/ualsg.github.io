@@ -43,10 +43,6 @@ content:
   office_hours:
   appointment_url: ''
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: X
-      link: 'https://twitter.com/urbanalyticslab'
     - icon: linkedin
       icon_pack: fab
       name: LinkedIn
