@@ -16,6 +16,10 @@ We are eligible to host awardees of such fellowships.
 
 + [Lee Kuan Yew Postdoctoral Fellowship](https://www.nus.edu.sg/research/research-management/funding-opportunities/lee-kuan-yew-postdoctoral-fellowship) is a prestigious postdoctoral funding option for up to 3 years to promote the development of young and outstanding academics in science, medicine and engineering. The scheme is open to nationals of all countries. 
 
++ The [Singapore NRF Postdoctoral Award](/opportunities/ads/2026-postdoc-fellowships/) is Singapore's premium national postdoctoral scheme, supporting outstanding early-career researchers (all nationalities, within three years of their PhD) with a competitive salary and a S$250,000 research grant for up to four years at NUS.
+
++ The [Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](https://www.nus.edu.sg/research/odprt-home/fellowships/eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship) supports postdoctoral researchers holding a PhD in a non-computer-science discipline who wish to apply AI techniques to natural sciences, engineering, or mathematics, for up to two years at NUS.
+
 + [The Branco Weiss Fellowship](https://brancoweissfellowship.org) awards young researchers around the world with a generous personal research grant, giving them the freedom to work on whatever topic they choose anywhere in the world, for up to five years.
 
 + Citizens of [Commonwealth countries](https://thecommonwealth.org/member-countries) (there are 53 countries in the Commonwealth of Nations; incl. India, Australia, Canada, New Zealand, Malaysia, several in Africa and the Caribbean, and a few European ones -- Cyprus, Malta, and UK) can consider applying for the [NUS Commonwealth Scholarship](http://www.nus.edu.sg/registrar/prospective-students/graduate/scholarship/commonwealth-scholarship). The scholarship includes a monthly stipend and tuition fees.

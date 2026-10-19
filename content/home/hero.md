@@ -39,7 +39,7 @@ Research Group at the National University of Singapore
 <div id="profile">
       <ul class="network-icon" aria-hidden="true">
         <li>
-          <a itemprop="sameAs" href="mailto:filip@nus.edu.sg">
+          <a itemprop="sameAs" href="mailto:AKIBX006@nus.edu.sg">
             <i class="fas fa-envelope big-icon"></i>
           </a>
         </li>

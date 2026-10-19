@@ -1,6 +1,8 @@
 ---
 title: Vacancies
 show_date: false
+aliases:
+  - /opportunities/ads/phd-singa/
 
 banner:
   image: "NUS_signage_4_r.jpg"

@@ -15,7 +15,7 @@ sections:
         <div>
         <ul class="network-icon" aria-hidden="true">
           <li>
-            <a itemprop="sameAs" href="mailto:filip@nus.edu.sg">
+            <a itemprop="sameAs" href="mailto:AKIBX006@nus.edu.sg">
               <i class="fas fa-envelope big-icon"></i>
             </a>
           </li>
@@ -51,7 +51,7 @@ sections:
       title:
       text: |
         {{% callout note %}}
-        **We are recruiting!** One full-time position (Research Assistant) is open. [Details and how to apply](/opportunities/vacancies/).
+        **We are recruiting!** One full-time position (Research Assistant) and two fully funded PhD positions in urban data science are open (August 2027 and January 2028 intakes). We also welcome postdoctoral candidates through external fellowship schemes at NUS. [Details and how to apply](/opportunities/vacancies/).
         {{% /callout %}}
     design:
       columns: '1'
@@ -137,7 +137,7 @@ sections:
     content:
       title: Contact
       text: 
-      email: filip@nus.edu.sg
+      email: AKIBX006@nus.edu.sg
       phone: 
       address:
         street: SDE4, NUS College of Design and Engineering, 8 Architecture Dr
