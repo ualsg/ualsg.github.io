@@ -44,7 +44,7 @@ It aspires to be a vital community of academics, researchers, staff, students an
 
 [Singapore](https://en.wikipedia.org/wiki/Singapore) is a cosmopolitan English-speaking city-state bridging the East and the West.
 It is considered as the [#1 most competitive country](https://www.straitstimes.com/business/s-pore-reclaims-top-spot-in-world-competitiveness-ranking-after-three-years) and [ranks 1st on perceived safety](https://www.sg101.gov.sg/resources/archives/singapore-is-the-safest-country-in-the-world-in-2025/), [successfully attracting talents from all parts of the globe](https://www.straitstimes.com/singapore/singapore-retains-top-spot-in-asia-pacific-index-for-talent-competitiveness) by offering first-class living and working experience in the heart of Southeast Asia, a very clean and efficient environment, and unparalleled infrastructure.
-Residents enjoy also great food and weather.
+Residents also enjoy great food and weather.
 Overall, Singapore provides a fulfilling professional and personal experience in a liveable garden city that is rarely found in the English speaking world and in the tropics.
 
 Researchers joining our group have an opportunity to work on research initiatives in the domains of the Lab as part of existing or upcoming projects, and will have a chance to produce high-impact research.
@@ -129,7 +129,7 @@ It is also advisable to get in touch with us first to provide an informal assess
 
 You will find all requirements on [the website of the graduate school](https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/), such as English language test requirement, together with the application process and deadlines (there are two intakes each year).
 Also, the [NUS website on graduate admissions](https://nusgs.nus.edu.sg) is a good starting point to get more information about doing a PhD at our university and has information about scholarships.
-Further, you will also find myriads of websites that give a plenty of tips how to polish your materials.
+Further, you will also find myriads of websites that give plenty of tips how to polish your materials.
 And below are some further tips and requirements on our end.
 
 The most important tip is to tailor your application and make it specific to our environment and research agenda.
@@ -144,10 +144,10 @@ Prospective candidates who did research on what we do and those that are able to
 
 Most importantly, the application consists of the following items:
 * Academic CV. In particular, do make sure that you highlight your computational and research skills in it, and any publications you may have. PhD applicants are not expected to have a rich publication record and scientific output, but a record of any prior research outputs and activities (code, papers, data, internships, thesis, etc. preferably with evidence such as developed GitHub repositories and materials on a personal website) will be valuable. Some of these are important in proving your technical skills, which are essential in our Lab and the College of Design and Engineering.
-* A brief research proposal and statement of purpose (2-4 pp.) containing a summary of the topics that you find interesting, overview of your previous work, a short literature review that covers recent developments in your area of interest, and an idea and plan for your PhD research. You should be able to briefly formulate existing gaps and think about how do you plan to fill them in the next few years. This does not have to be comprehensive and advanced, as during the initial months of your PhD you'll have time to work on all that and sharpen your plans, but you should use this document as an opportunity to demonstrate your motivation and research skills. Do remember to include other key components in your statement (a common mistake is to overlook including a literature review, contributions, output plan, and schedule) and avoid making your proposal generic (e.g. forgetting to mention the fit for our group, university, and Singapore, as admission/scholarship committees usually turn down such applications). For example, mention why you want to do a PhD particularly here, how does your expertise match our group, what research (i.e. papers) did attract your interest the most and how would you take it forward, etc. In particular, make sure you link the proposed research to a few recent papers of our Lab (identify a few papers that you find most interesting and explain your reasoning). If your proposal gives an impression that it can be submitted also to several other universities, your application will not stand out.
+* A brief research proposal and statement of purpose (2-4 pp.) containing a summary of the topics that you find interesting, overview of your previous work, a short literature review that covers recent developments in your area of interest, and an idea and plan for your PhD research. You should be able to briefly formulate existing gaps and think about how do you plan to fill them in the next few years. This does not have to be comprehensive and advanced, as during the initial months of your PhD you'll have time to work on all that and sharpen your plans, but you should use this document as an opportunity to demonstrate your motivation and research skills. Do remember to include other key components in your statement (a common mistake is to overlook including a literature review, contributions, output plan, and schedule) and avoid making your proposal generic (e.g. forgetting to mention the fit for our group, university, and Singapore, as admission/scholarship committees usually turn down such applications). For example, mention why you want to do a PhD particularly here, how does your expertise match our group, what research (i.e. papers) did attract your interest the most and how you would take it forward, etc. In particular, make sure you link the proposed research to a few recent papers of our Lab (identify a few papers that you find most interesting and explain your reasoning). If your proposal gives an impression that it can be submitted also to several other universities, your application will not stand out.
 * Examples of writing samples (if you have not written a paper yet, you might want to submit a thesis or individual assignment; avoid group assignments as it is not easy to isolate and ascertain your contribution to it).
 * A few words about one of our [publications](/publication) with brief ideas how would you take these results further and/or how would you use them for your research.
-* A brief statement how do you envision contributing to our research agenda and group. A PhD is a substantial commitment from both sides for a few years, thus, your fit is no less important than your research finesse.
+* A brief statement how you envision contributing to our research agenda and group. A PhD is a substantial commitment from both sides for a few years, thus, your fit is no less important than your research finesse.
 
 All the points above should be concise, e.g. a few paragraphs for each aforementioned aspect, so it shouldn't take much time and effort to stand out.
 You will find that preparing such documentation is quite beneficial as it will also help you to explore and refine your thoughts and interests.
@@ -159,10 +159,13 @@ We thank you for your interest and time.
 
 ### Deadlines, supervision, and more information
 
-The [application deadlines](https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/application-period-2/) are usually at the end of the year for the intake in August next year, and in July for the start in January next year.
+The [application deadlines](https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/application-period-2/) are usually at the end of the year (or early January) for the intake in August next year, and in late July / early August for the start in January next year.
 Please start preparing early, and indicate in your application that you would like to be supervised by Prof {{< mention "filip" >}}, the PI and PhD supervisor of the group.
 
 You may also want to read the graduate studies website of the [Department of Architecture](https://cde.nus.edu.sg/arch/programmes/higher-degrees-by-research/) and its [FAQ](https://cde.nus.edu.sg/arch/programmes/higher-degrees-by-research/frequently-asked-questions/).
+
+When specific funded positions are advertised ([see vacancies](/opportunities/vacancies/)), apply to those calls and follow their instructions, which take precedence over the general guidance here.
+Outside advertised calls, we welcome applications at both intakes.
 
 ### After applying
 
@@ -174,7 +177,7 @@ In the meantime, you are welcome to get in touch with us about other matters.
 ### Funding and scholarships
 
 Funding is a very important aspect of doing a PhD and a common obstacle, and it should be considered as early as possible.
-While the current reality of academia is that obtaining longterm and full scholarships for a PhD is unfortunately often difficult and highly competitive, securing funding is not impossible.
+While the current reality of academia is that obtaining long-term and full scholarships for a PhD is unfortunately often difficult and highly competitive, securing funding is not impossible.
 Many of our [graduate students](/people/) and others at our department have been successful in obtaining it, primarily from NUS (i.e. research scholarships).
 
 An admission to the PhD programme does not imply a scholarship.
@@ -200,13 +203,13 @@ Good luck!
 ## Visiting scholars (up to 12 months)
 
 {{% callout note %}}
-We are grateful for the many requests for research visits we receive each year. As we keep our team small and cohesive, and are subject to administrative caps on the number of visitors at NUS, we are able to host only a few visiting scholars, and we select them carefully. Securing funding or a scholarship (e.g. from the China Scholarship Council, CSC) is an important first step, but it does not by itself guarantee a visit. Visits are preferably aligned with the [semesters at NUS](https://www.nus.edu.sg/registrar/academic-calendar). Please get in touch with us by:
+We are grateful for the many requests for research visits we receive each year. As we keep our team small and cohesive, and are subject to administrative caps on the number of visitors at NUS, we are able to host only a few visiting scholars each year. Securing funding or a scholarship (e.g. from the China Scholarship Council, CSC) is an important first step, but it does not by itself guarantee a visit. Visits are preferably aligned with the [semesters at NUS](https://www.nus.edu.sg/registrar/academic-calendar). Please get in touch with us by:
 
 + **15 June** for a start around January the following year;
 + **15 November** for a start around August the following year.
 {{% /callout %}}
 
-We have hosted more than 20 visiting PhD researchers from universities across Europe, Asia and North America, as well as visiting postdocs (e.g. awardees of [postdoc fellowships](/opportunities/fellowships/)), typically for six to twelve months.
+We have hosted dozens of visiting PhD researchers from universities across Asia, Europe, and North America, as well as visiting postdocs (e.g. awardees of [postdoc fellowships](/opportunities/fellowships/)), typically for six to twelve months.
 These stays have been productive for both the visitors and our group, and many have led to [joint publications](/publication/) and lasting collaborations.
 Examples of papers led by visiting researchers include work on [urban soundscapes from street view imagery](/publication/2023-ceus-soundscapes/), [graph neural networks for urban functions](/publication/2023-ijprs-knowledge-topology/), and [perception of riverscapes from oblique imagery](/publication/2022-land-semantic-riverscapes/).
 
@@ -251,8 +254,7 @@ The application is made by the visiting student directly to the University; it i
 ## Research assistants and research fellows (postdocs)
 
 Much of the information on this website may be found of interest as well to those seeking a full-time job (RA, postdocs), but these depend on funded projects (they are on project basis).
-When we have openings, we post them on [our website with vacancies](https://ual.sg/opportunities/vacancies/), thus, you may want to keep an eye on the website occasionally or follow our social media accounts where we advertise them when they happen. For job opportunities at our university, at other research groups, you may want to check the [NUS Careers website](https://careers.nus.edu.sg/NUS/go/View-All-Jobs-for-NUS/546644/
-).
+When we have openings, we post them on [our website with vacancies](https://ual.sg/opportunities/vacancies/), thus, you may want to keep an eye on the website occasionally or follow our social media accounts where we advertise them when they happen. For job opportunities at our university, at other research groups, you may want to check the [NUS Careers website](https://careers.nus.edu.sg/NUS/go/View-All-Jobs-for-NUS/546644/).
 
 Postdoctoral research fellows are expected to be independent, and have a demonstrated record of research excellence and a momentum in publishing (i.e. first-author papers in leading venues). 
 In a postdoc job with us, they will spearhead new research initiatives, manage and/or contribute to funding applications, and provide guidance to junior members.
@@ -345,7 +347,7 @@ There are also lots of collaborative opportunities, many of [our publications]({
 
 
 {{< spoiler text="I do not think that I am ready yet for a PhD / I plan to apply but have some time and would like to prepare for the PhD -- What should I do?" >}}
-That much depends on your current skillset and what you will be working on during your PhD. One thing you usually cannot go wrong with is enhance your technical skills (e.g. programming, machine learning packages, data visualisation, get acquainted with the most recent developments in AI...), communication (e.g. English oral and writing skills), and start casually following journals in the field and have a cursory look at recent papers. 
+That much depends on your current skillset and what you will be working on during your PhD. One thing you usually cannot go wrong with is to enhance your technical skills (e.g. programming, machine learning packages, data visualisation, get acquainted with the most recent developments in AI...), communication (e.g. English oral and writing skills), and start casually following journals in the field and have a cursory look at recent papers. 
 You might also want to consider having a break and enjoying a longer holiday before starting your busy doctoral programme.
 {{< /spoiler >}}
 
