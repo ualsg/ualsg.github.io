@@ -145,7 +145,7 @@ Before preparing your application, please make sure that you understand:
 * [How](/publication) we do it.
 * What a PhD at NUS looks like and what we expect: please read [our guide for prospective applicants (incl. a FAQ)](/opportunities/application-guide/) to learn more about it and also visit the [NUS/CDE website for the PhD programme](https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/ph-d-master-of-engineering/).
 
-Please apply by [email](mailto:AKIBX006@nus.edu.sg) (write "Application: PhD-1" in the subject for the first position, or "Application: PhD-2" for the second one), including the following:
+Please apply by [email](mailto:ual@nus.edu.sg) (write "Application: PhD-1" in the subject for the first position, or "Application: PhD-2" for the second one), including the following:
 
 * Academic CV
 * Which intake you prefer (August 2027 or January 2028)

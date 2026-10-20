@@ -64,7 +64,7 @@ For more about the environment and what we look for, see our [About](/about) and
 
 ### How to get in touch
 
-Please apply by email to [AKIBX006@nus.edu.sg](mailto:AKIBX006@nus.edu.sg), indicating the scheme in the subject line ("NRF Postdoctoral Award" or "Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship"), and including:
+Please apply by email to [ual@nus.edu.sg](mailto:ual@nus.edu.sg), indicating the scheme in the subject line ("NRF Postdoctoral Award" or "Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship"), and including:
 
 + Your academic CV with the full publication list.
 + A few paragraphs on what you would like to work on and how it connects to our recent [publications](/publication).
@@ -79,4 +79,4 @@ For other external funding options (e.g. the [Lee Kuan Yew Postdoctoral Fellowsh
 
 ### Contact
 
-For more information, feel free to contact us at [AKIBX006@nus.edu.sg](mailto:AKIBX006@nus.edu.sg).
+For more information, feel free to contact us at [ual@nus.edu.sg](mailto:ual@nus.edu.sg).

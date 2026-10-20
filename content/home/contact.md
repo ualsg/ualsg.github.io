@@ -27,7 +27,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: AKIBX006@nus.edu.sg
+  email: ual@nus.edu.sg
   phone: 
   address:
     street: SDE4, NUS College of Design and Engineering, 8 Architecture Dr
