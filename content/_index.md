@@ -15,7 +15,7 @@ sections:
         <div>
         <ul class="network-icon" aria-hidden="true">
           <li>
-            <a itemprop="sameAs" href="mailto:AKIBX006@nus.edu.sg">
+            <a itemprop="sameAs" href="mailto:ual@nus.edu.sg">
               <i class="fas fa-envelope big-icon"></i>
             </a>
           </li>
@@ -137,7 +137,7 @@ sections:
     content:
       title: Contact
       text: 
-      email: AKIBX006@nus.edu.sg
+      email: ual@nus.edu.sg
       phone: 
       address:
         street: SDE4, NUS College of Design and Engineering, 8 Architecture Dr

@@ -31,7 +31,7 @@ interests: []
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:AKIBX006@nus.edu.sg'
+  link: 'mailto:ual@nus.edu.sg'
 - icon: twitter
   icon_pack: fab
   link: http://twitter.com/urbanalyticslab
