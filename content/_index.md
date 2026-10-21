@@ -51,7 +51,7 @@ sections:
       title:
       text: |
         {{% callout note %}}
-        **We are recruiting!** One full-time position (Research Assistant) and two fully funded PhD positions in urban data science are open (August 2027 and January 2028 intakes). We also welcome postdoctoral candidates through external fellowship schemes at NUS. [Details and how to apply](/opportunities/vacancies/).
+        **We are recruiting!** Two fully funded PhD positions in urban data science are open (August 2027 and January 2028 intakes). We also welcome postdoctoral candidates through external fellowship schemes at NUS. [Details and how to apply](/opportunities/vacancies/).
         {{% /callout %}}
     design:
       columns: '1'
