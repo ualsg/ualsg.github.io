@@ -6,7 +6,10 @@ title = "Vacancy: Research Assistant (GeoAI / GIS / Urban Flood Resilience)"
 {{< figure src="header.jpg" title="Photo by [Wes Warren](https://unsplash.com/@wcwarren) on [Unsplash](https://unsplash.com/photos/a-flooded-street-with-a-yellow-sign-eFzH4HGwcv4)." >}}
 
 {{% callout note %}}
-The deadline to apply is 2026-10-20.
+~~The deadline to apply is 2026-10-20.~~
+It is not possible to apply anymore to this position.
+Thanks to all the applicants for their interest.
+For new vacancies please follow our [opportunities page]({{< ref "/opportunities/vacancies.md" >}}).
 {{% /callout %}}
 
 ### Job and project description
@@ -59,7 +62,10 @@ The main campus of the National University of Singapore. This is not a remote po
 ### Application
 
 {{% callout note %}}
-The deadline to apply is 2026-10-20.
+~~The deadline to apply is 2026-10-20.~~
+It is not possible to apply anymore to this position.
+Thanks to all the applicants for their interest.
+For new vacancies please follow our [opportunities page]({{< ref "/opportunities/vacancies.md" >}}).
 {{% /callout %}}
 
 Applications must be done through the [NUS Careers website](https://careers.nus.edu.sg/) where the position has been advertised. 
