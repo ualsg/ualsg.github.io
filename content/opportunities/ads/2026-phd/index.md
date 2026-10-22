@@ -8,6 +8,7 @@ title = "Vacancy: PhD researchers in urban data science"
 
 {{% callout note %}}
 The deadline to apply is 2026-11-29.
+Applications are submitted by email to [ual@nus.edu.sg](mailto:ual@nus.edu.sg) and must include a research proposal, among the other documents listed [below](#application).
 {{% /callout %}}
 
 ### Positions and research agenda
@@ -44,8 +45,8 @@ Please also check [this guide that we prepared (including our expectations from 
 
 You should demonstrate that you possess:
 
-- A master's degree :mortar_board: in a related discipline from a reputable university. Current MSc candidates are eligible to apply as well, provided that they are in the final stage of their studies and that their degree will be conferred before the start of the PhD programme.
-- Evidence of research aptitude, such as a publication, research internship / experience, and/or a compelling proposal.
+- A master's degree :mortar_board: in a related discipline from a reputable university. This is a strict requirement: applications from candidates with only a bachelor's degree will not be considered. Current MSc candidates are eligible to apply as well, provided that they are in the final stage of their studies and that their degree will be conferred before the start of the PhD programme.
+- Evidence of research aptitude, such as a publication, research internship / experience, and/or a master's thesis.
 - Ability to identify research gaps and conceptualise research plans and methods to address them.
 - Proficiency in one or more of the following areas: urban data science, computer science, GIScience, geomatics, remote sensing (in the urban/built environment), computer vision / deep learning, urban planning, and/or urban simulations. We do not expect applicants to be proficient in all the topics we work on :unicorn:, however, we ask them to demonstrate that they have skills in at least one of the related topics, have affinity for expanding their expertise beyond their main focus, and have solid ideas about how to continue their research aspirations.
 - Very good communication skills in English (oral and written).
@@ -137,7 +138,10 @@ Feel free to check the rest of our website for further detailed information (e.g
 {{% callout note %}}
 The new PhDs will join us in the August 2027 or January 2028 intake.
 The application deadline is 29 November 2026.
-The selected candidates will then apply through the official NUS admission process themselves, with our endorsement.
+Shortlisted candidates will be interviewed in December 2026.
+The selected candidates will then apply through the official NUS admission process themselves, with our endorsement, by the [NUS deadline](https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/application-period-2/) for their intake: 15 January 2027 for the August 2027 intake, or early August 2027 (to be confirmed by NUS) for the January 2028 intake.
+In the NUS application, they can reuse the materials submitted to us (e.g. the same research proposal), complemented with the documents required by NUS.
+As the timeline for the August 2027 intake is short, please plan ahead for the English language test (if required) and the reference letters required by NUS.
 {{% /callout %}}
 
 Before preparing your application, please make sure that you understand:
@@ -145,16 +149,16 @@ Before preparing your application, please make sure that you understand:
 * [How](/publication) we do it.
 * What a PhD at NUS looks like and what we expect: please read [our guide for prospective applicants (incl. a FAQ)](/opportunities/application-guide/) to learn more about it and also visit the [NUS/CDE website for the PhD programme](https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/ph-d-master-of-engineering/).
 
-Please apply by [email](mailto:ual@nus.edu.sg) (write "Application: PhD-1" in the subject for the first position, or "Application: PhD-2" for the second one), including the following:
+Please apply by email to [ual@nus.edu.sg](mailto:ual@nus.edu.sg) (write "Application: PhD-1" in the subject for the first position, or "Application: PhD-2" for the second one), including the following:
 
 * Academic CV
 * Which intake you prefer (August 2027 or January 2028)
 * A cover letter / statement (about one page) briefly indicating:
     * (i) your computational skills and relevant experience so far and how they would translate to the benefit of this PhD position, and your learning goals and aspirations;
-    * (ii) outlook on one of the aforementioned topics with some ideas and how you plan to tackle such a problem; 
+    * (ii) a brief outlook on one of the aforementioned topics (the details belong in the research proposal below);
     * (iii) how you intend to contribute to our growing research group and enhance its activities.
     * Keep it short and simple, please. A few paragraphs for each of these points is sufficient.
-* A PhD research proposal addressing either of the two topics (up to a few pages).
+* A PhD research proposal addressing either of the two topics (up to a few pages). Applications without a proposal will not be considered.
 * Links to relevant materials such as a paper published in a reputable conference or journal that evidences your research aptitude, background and experience. Please do not provide group projects from your coursework or similar. Only material relevant to this position will be considered.
 * Names and contact information for three referees. There is no need to submit recommendation letters at this stage. By providing this information, we assume that we have your and their permission to contact them to learn more about you. Letters will be required later from applicants selected for the positions.
 * Other materials showing that you meet the [required qualifications](#required-qualifications) and aptitude for research, e.g. link to a public GitHub repository you have developed, recorded presentation, and portfolio. Candidates who can demonstrate strong computational skills and have research experience will be prioritised.
@@ -164,5 +168,5 @@ The selected candidates will later be asked to provide the full documentation, e
 
 ### Contact
 
-For more information feel free to contact [Prof Filip Biljecki](/author/filip-biljecki/).
+For more information, feel free to contact us at [ual@nus.edu.sg](mailto:ual@nus.edu.sg).
 
