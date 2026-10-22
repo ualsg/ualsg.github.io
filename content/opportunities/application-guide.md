@@ -80,6 +80,13 @@ At minimum, we expect prospective students to understand what we do, why we do i
 
 ## PhD
 
+{{% callout note %}}
+There are two routes to a PhD in our group:
+
++ **Regular route (always open).** You can apply continuously (twice a year) through the NUS PhD admission process, which also covers applying for NUS scholarships. This page describes this route.
++ **Advertised positions (from time to time).** Occasionally we have dedicated funded PhD positions with their own call, deadline and instructions, which take precedence over the general guidance on this page. These are listed on our [vacancies page](/opportunities/vacancies/). Currently, we are recruiting [two PhD researchers in urban data science](/opportunities/ads/2026-phd/) (deadline: 29 November 2026).
+{{% /callout %}}
+
 We welcome PhD applicants continuously at all intakes at NUS.
 This section provides more information about the process.
 
@@ -125,7 +132,6 @@ Unless stated differently, funding (scholarships) usually comes from the Univers
 Successful applicants who get admitted and funded are then able to join us.
 
 In the meantime, we are happy to provide some help and guidance to applicants if requested.
-It is also advisable to get in touch with us first to provide an informal assessment of the application and discuss fit.
 
 You will find all requirements on [the website of the graduate school](https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/), such as English language test requirement, together with the application process and deadlines (there are two intakes each year).
 Also, the [NUS website on graduate admissions](https://nusgs.nus.edu.sg) is a good starting point to get more information about doing a PhD at our university and has information about scholarships.
