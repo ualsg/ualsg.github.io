@@ -64,25 +64,50 @@ sections:
       title: About us
       text:         We are developing quantitative methods and tools that leverage emerging urban and geospatial data and AI to sense the form, function, and human experience of cities.
 
-        Watch the <a href="https://vimeo.com/764033095">video</a> below or read more <a href="/about/">here</a>.<br /><br />
+        Read more <a href="/about/">here</a>.<br /><br />
 
         Established and directed by {{% mention "filip" %}}, we are proudly based at the <a href="https://cde.nus.edu.sg/arch/">Department of Architecture</a> at the <a href="https://cde.nus.edu.sg">College of Design and Engineering</a> of the <a href="https://www.nus.edu.sg">National University of Singapore</a>, a leading global university centered in the heart of Southeast Asia.
-        We are also affiliated with the <a href="https://bschool.nus.edu.sg/real-estate/">Department of Real Estate</a> at the <a href="https://bschool.nus.edu.sg">NUS Business School</a>.
-
-        <div style="padding:56.25% 0 0 0;position:relative;">
-        <iframe src="https://player.vimeo.com/video/764033095?h=f100addf1d&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>
-        </iframe>
-        </div>
-        <script src="https://player.vimeo.com/api/player.js"></script>
     design:
       columns: '2'
+
+  - block: features
+    content:
+      title: Research themes
+      subtitle: Across these themes, we develop GeoAI methods and release open data and software. See [all our publications](/publication/).
+      items:
+        - name: Street-level imagery
+          icon: street-view
+          icon_pack: fas
+          description: "Street view imagery as a source for measuring cities at human scale: open datasets, software and methods used across the field. Examples: [SVI review](/publication/2021-land-svi-review/), [Global Streetscapes](/publication/2024-global-streetscapes/), [ZenSVI](/publication/2025-ceus-zensvi/)."
+        - name: New urban data
+          icon: comments
+          icon_pack: fas
+          description: "Emerging data sources that conventional techniques miss, from place reviews and street video to thermal and nighttime imagery. Examples: [urban functions from reviews](/publication/2026-ceus-urbanfunctions/), [nighttime lights](/publication/2027-rse-nighttime/), [thermal imagery](/publication/2023-sd-iris/), [street view video](/publication/2027-ceus-svv/)."
+        - name: Urban dynamics and change
+          icon: history
+          icon_pack: fas
+          description: "Sensing how cities change over time, and what those changes cause. Examples: [physical urban change](/publication/2025-ceus-urbanchange/), [causal effects on cycling](/publication/2024-tra-examining/), [evolution of urban visual environments](/publication/2023-landup-svi-evolution/)."
+        - name: Trustworthy urban data and AI
+          icon: balance-scale
+          icon_pack: fas
+          description: "Quality, bias and uncertainty in the data and models behind urban analytics. Examples: [coverage bias](/publication/2025-ceus-svi-coverage/), [seasonal bias](/publication/2025-ceus-svi-seasonality/), [bias in multimodal LLMs](/publication/2026-npj-bias/), [OSM building quality](/publication/2023-bae-osm-qa/)."
+        - name: Human experience of cities
+          icon: user-friends
+          icon_pack: fas
+          description: "How people perceive and experience urban environments, including comfort, greenery and health. Examples: [perception and personality](/publication/2025-natcities-specs/), [urban comfort index](/publication/2025-scs-urban-comfort/), [urban motifs and health](/publication/2026-nathealth-motifs/)."
+        - name: 3D city models and digital twins
+          icon: city
+          icon_pack: fas
+          description: "Open 3D urban data, simulations and urban digital twins. Examples: [VoxCity](/publication/2026-ceus-voxcity/), [OpenFACADES](/publication/2025-ijprs-openfacades/), [digital twin challenges](/publication/2023-autcon-dt-challenges/)."
+    design:
+      columns: '1'
 
   - block: collection
     content:
       title: News
       subtitle: Updates from our group
       text: Feel free to follow us on <a href="https://www.linkedin.com/company/urban-analytics-lab/">LinkedIn</a> and through our [RSS feed]({{< ref path="/post" outputFormat="rss" >}}).
-      count: 7
+      count: 4
       filters:
         author: ''
         category: ''
@@ -117,7 +142,7 @@ sections:
       title: Recent publications
       subtitle: Full list of publications is [here](/publication/).
       text:
-      count: 5
+      count: 3
       filters:
         author: ''
         category: ''
@@ -129,7 +154,7 @@ sections:
       order: desc
       page_type: publication
     design:
-      view: card
+      view: compact
       columns: '2'
 
   - block: contact

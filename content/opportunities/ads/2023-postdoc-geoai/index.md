@@ -19,7 +19,7 @@ The Research Fellow will also contribute to the management of the group and othe
 The successful applicant in this senior role will be engaged on some of our novel research lines on GeoAI, GIScience, VGI, and digital twins, namely: investigation of the potential and integration of emerging urban data sources (e.g. 3D city models, street view imagery), initiating new means of processing, benchmarking and quality assessment of data and workflows, invention of new methodologies to maximise the value of urban data, and/or developing new use cases and studies pertaining to building/urban/geospatial data infrastructure in the context of smart cities and sustainability.
 Positioned at the intersection of academia, industry, international organisations and government, the nature of the work is computational and practical.
 
-The Research Fellow will be supervised by the Principal Investigator of the Lab -- [Dr Filip Biljecki](/authors/filip/), [NUS College of Design and Engineering](http://www.cde.nus.edu.sg).
+The Research Fellow will be supervised by the Principal Investigator of the Lab -- [Dr Filip Biljecki](/author/filip-biljecki/), [NUS College of Design and Engineering](http://www.cde.nus.edu.sg).
 
 Candidates should have strong computational skills and a PhD degree in computer science, geographical information science, geomatics, mechanical engineering, or another relevant field of study, with a demonstrated track record in their career so far (in terms of publications/impact and/or other forms of output such as development of code, open datasets, and outreach).
 
@@ -162,5 +162,5 @@ These do not have to be submitted at the application stage and are required only
 
 ### Contact
 
-For more information feel free to contact [Dr Filip Biljecki](/authors/filip).
+For more information feel free to contact [Dr Filip Biljecki](/author/filip-biljecki/).
 

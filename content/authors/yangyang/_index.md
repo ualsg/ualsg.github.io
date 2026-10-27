@@ -40,7 +40,7 @@ education:
 social:
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/liyangyang515
+  link: https://www.linkedin.com/in/liyangyang515
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.sg/citations?user=COasNI0AAAAJ&hl=en

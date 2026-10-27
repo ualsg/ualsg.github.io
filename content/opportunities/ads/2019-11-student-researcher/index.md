@@ -26,7 +26,7 @@ The project is an excellent opportunity to have an impact in the field of 3D GIS
 
 The project has a chance to unlock the potential of 3D geoinformation in areas where there was previously no reliable data available, and contribute to fostering new applications in regions that were previously neglected due to the lack of appropriate datasets.
 
-You will be supervised by the principal investigator of the project [Dr Filip Biljecki](/authors/filip/), NUS School of Design and Environment.
+You will be supervised by the principal investigator of the project [Dr Filip Biljecki](/author/filip-biljecki/), NUS School of Design and Environment.
 This position is closely related to the [full-time position advertised concurrently](../2019-11-research-developer).
 
 Both part-time and full-time work is possible, and only current NUS students are eligible to apply.
@@ -96,5 +96,5 @@ Appreciate your understanding in advance that only selected shortlisted applican
 
 ### Contact
 
-For more information please contact the principal investigator of the project [Dr Filip Biljecki](/authors/filip).
+For more information please contact the principal investigator of the project [Dr Filip Biljecki](/author/filip-biljecki/).
 

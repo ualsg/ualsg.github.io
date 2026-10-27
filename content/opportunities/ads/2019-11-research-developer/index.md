@@ -28,7 +28,7 @@ The project has a chance to unlock the potential of 3D geoinformation in areas w
 
 Besides research on the topic and the development of software prototypes, you will be expected to work on tasks such as building a repository to disseminate the results and generated datasets.
 
-You will be supervised by the principal investigator of the project [Dr Filip Biljecki](/authors/filip/), NUS School of Design and Environment.
+You will be supervised by the principal investigator of the project [Dr Filip Biljecki](/author/filip-biljecki/), NUS School of Design and Environment.
 
 
 ### Scope and responsibilities
@@ -107,5 +107,5 @@ Shortlisted candidates will later be asked to provide the full documentation (e.
 
 ### Contact
 
-For more information please contact the principal investigator of the project [Dr Filip Biljecki](/authors/filip).
+For more information please contact the principal investigator of the project [Dr Filip Biljecki](/author/filip-biljecki/).
 

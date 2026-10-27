@@ -26,7 +26,7 @@ Before getting in touch, please read the sections below and more about us ([here
 Most importantly, please read [our guide for prospective applicants](/opportunities/application-guide/).
 
 We would appreciate to learn more about your specific interest and expect you to have at least a basic understanding of what we do and what our research lines are about.
-We suggest that you have a look at some of our [publications](/publication), provide your perspective and motivation (e.g. write a few words on how you would take these results further), and let us know how do you envision contributing to our research group.
+We suggest that you have a look at some of our [publications](/publication), tell us which of our research lines interest you most and why, and let us know how you envision contributing to our research group.
 In your application, please highlight your computational, programming, and geospatial skills.
 Your experience should be evident from the courses followed, publications (optional if you are applying to a junior role), and preferably also from your GitHub account as evidence of coding and open science affinity.
 From researchers with some experience, having first-author papers in leading venues is expected, while for all roles technical skills are a must.

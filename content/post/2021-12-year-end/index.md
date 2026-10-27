@@ -42,7 +42,7 @@ Above all, we had lots of fun doing research together.
 
 
 A study led by Stanford University has identified top 2% scientists worldwide in a variety of fields.
-The [PI](/authors/filip/) of the Lab is on the list.
+The [PI](/author/filip-biljecki/) of the Lab is on the list.
 For more information about the study, see the dataset ["Updated science-wide author databases of standardized citation indicators"](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3) and their papers published in PLOS Biology indicating the motivation and methodology ([here](https://doi.org/10.1371/journal.pbio.3000384) and [here](https://doi.org/10.1371/journal.pbio.3000918)).
 
 We are especially happy to celebrate the achievements of our master students, mostly based on their [graduation projects]({{< relref "/post/2021-09-graduation-projects-2021" >}}).

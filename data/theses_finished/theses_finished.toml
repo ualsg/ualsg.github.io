@@ -118,7 +118,7 @@ study = "MSc in Applied GIS"
 year = "2020"
 uni = "NUS"
 image = "ethan-research.png"
-thesis = "../publication/2020-osm-sg-building-quality"
+thesis = "/publication/2020-osm-sg-building-quality/"
 
 [[thesis]]
 title = "Height Inference for all US Building Footprints in the Absence of Height Data"
