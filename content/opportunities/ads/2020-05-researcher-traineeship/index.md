@@ -13,13 +13,13 @@ For new vacancies please follow our [opportunities page]({{< ref "/opportunities
 
 ### Description
 
-As part of the [NUS Resilience and Growth Initiative](http://www.nus.edu.sg/cfg/rg), we are seeking a STEM graduate from the NUS Class of 2019 and Class of 2020 to join us as a [Research / Doctoral Apprentice](http://www.nus.edu.sg/cfg/rg/traineeships/research) in the scope of our [activities](/projects/).
+As part of the [NUS Resilience and Growth Initiative](http://www.nus.edu.sg/cfg/rg), we are seeking a STEM graduate from the NUS Class of 2019 and Class of 2020 to join us as a [Research / Doctoral Apprentice](http://www.nus.edu.sg/cfg/rg/traineeships/research) in the scope of our activities.
 This is a paid traineeship for 12 months.
 
 The apprentice will be introduced to a wide array of urban/geospatial data, guided on how to understand and manage it, conduct the analyses and experiments, build pipelines for data transformation and integration, and use the data for multidisciplinary use cases.
 
 This is an excellent opportunity to be part of a multidisciplinary international team, and gain an understanding of urban analytics and a range of transferrable skills, including programming, data science / AI, international collaboration, and scientific communication.
-A personalised development plan will be created, and the researcher will work on real-world problems and in the frame of [existing project(s) of the Lab](/projects/) under the supervision of the principal investigator of the Lab [Dr Filip Biljecki](/authors/filip/).
+A personalised development plan will be created, and the researcher will work on real-world problems and in the frame of existing project(s) of the Lab under the supervision of the principal investigator of the Lab [Dr Filip Biljecki](/author/filip-biljecki/).
 
 For more information about the initiative, please refer to the [R&G website](http://www.nus.edu.sg/cfg/rg/traineeships/).
 
@@ -73,5 +73,5 @@ For new vacancies please follow our [opportunities page]({{< ref "/opportunities
 
 ### Contact
 
-For more information please contact [Dr Filip Biljecki](/authors/filip).
+For more information please contact [Dr Filip Biljecki](/author/filip-biljecki/).
 

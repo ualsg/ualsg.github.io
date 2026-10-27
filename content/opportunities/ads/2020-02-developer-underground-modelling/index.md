@@ -35,7 +35,7 @@ The key tasks of this work package are:
 
 You will be part of the team of the work package (postdoctoral research fellow, two research assistants, and software developer), and collaborate with the broader project team comprising other work packages, which are focused on the acquisition of underground data and their visualisation.
 
-You will be supervised by the work package leaders and co-principal investigators of the project [Dr Filip Biljecki](/authors/filip/) and [Dr Patrick Janssen](http://patrick.janssen.name), [NUS School of Design and Environment](http://www.sde.nus.edu.sg).
+You will be supervised by the work package leaders and co-principal investigators of the project [Dr Filip Biljecki](/author/filip-biljecki/) and [Dr Patrick Janssen](http://patrick.janssen.name), [NUS School of Design and Environment](http://www.sde.nus.edu.sg).
 
 
 ### Scope and responsibilities
@@ -122,5 +122,5 @@ Shortlisted candidates will later be asked to provide the full documentation (e.
 
 ### Contact
 
-For more information please contact the co-principal investigator of the project [Dr Filip Biljecki](/authors/filip).
+For more information please contact the co-principal investigator of the project [Dr Filip Biljecki](/author/filip-biljecki/).
 

@@ -22,7 +22,7 @@ Our research catalyses the development of spatial/urban data infrastructures and
 
 Crowdsourcing and user-generated geographic information play an important role in our research, and we follow and contribute to the vibrant developments in Volunteered Geographic Information (VGI) and tend to engage such data in our work.
 
-The research group was established in 2019 by its Director/PI Dr {{% mention "filip" %}}, Associate Professor at the [NUS College of Design and Engineering](https://www.cde.nus.edu.sg) and the [NUS Business School](https://bschool.nus.edu.sg), and has been a home for [dozens of remarkable researchers](/people) who share ambitions about making our cities smarter and more data-driven.
+The research group was established in 2019 by its Director/PI Dr {{% mention "filip" %}}, Associate Professor at the [NUS College of Design and Engineering](https://www.cde.nus.edu.sg), and has been a home for [dozens of remarkable researchers](/people) who share ambitions about making our cities smarter and more data-driven.
 You can read more about our research agenda also in [an interview with the PI](https://news.nus.edu.sg/creating-a-map-for-the-future).
 
 ![](banner-gbmi.png)
@@ -87,5 +87,12 @@ Check out also some other videos about our work:
 <br />
 
 {{< youtube HPFjeKFT6ME >}}
+
+<br />
+
+<div style="padding:56.25% 0 0 0;position:relative;">
+<iframe src="https://player.vimeo.com/video/764033095?h=f100addf1d&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>
+</iframe>
+</div>
 
 

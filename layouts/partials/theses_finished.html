@@ -5,8 +5,10 @@
 <tr>
 <td>
 <strong>{{ .title }}</strong><br /><br />
-{{ if .profile }}
-<a href="/authors/{{ .profile }}">{{ .name }}</a><br />
+{{ $profile_page := "" }}
+{{ if .profile }}{{ $profile_page = site.GetPage (printf "/authors/%s" (urlize .profile)) }}{{ end }}
+{{ if $profile_page }}
+<a href="{{ $profile_page.RelPermalink }}">{{ .name }}</a><br />
 {{else}}
 {{ .name }}<br />
 {{ end }}

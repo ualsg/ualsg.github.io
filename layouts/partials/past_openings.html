@@ -1,7 +1,7 @@
 <h3>Past openings</h3>
 {{ range .opening }}
 {{ if .link }}
-<li><del><a href="../ads/{{ .link }}/">{{ .title }}</a></del></li>
+<li><del><a href="/opportunities/ads/{{ .link }}/">{{ .title }}</a></del></li>
 {{ else if .externallink }}
 <li><del><a href="{{ .externallink }}">{{ .title }}</a></del></li>
 {{ end }}

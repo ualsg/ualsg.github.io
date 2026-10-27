@@ -40,7 +40,7 @@ This big event was held at the Hotel Istana in Kuala Lumpur, Malaysia during the
 
 The conference was very well attended having an impressive number of 300+ participants from 37 countries, and several exhibitors.
 
-We also presented a [paper](/publication/2019-sdsc-airbnb-beijing/) at the Smart Data and Smart Cities conference, based on the master thesis of [Li Jialin](/authors/jialin/) who graduated from the [Master in Urban Planning programme at NUS](http://www.nus.edu.sg/nusbulletin/school-of-design-and-environment/graduate-education/coursework-programmes/degree-requirements/master-of-urban-planning/) earlier this year.
+We also presented a [paper](/publication/2019-sdsc-airbnb-beijing/) at the Smart Data and Smart Cities conference, based on the master thesis of {{% mention "jialin" %}} who graduated from the [Master in Urban Planning programme at NUS](http://www.nus.edu.sg/nusbulletin/school-of-design-and-environment/graduate-education/coursework-programmes/degree-requirements/master-of-urban-planning/) earlier this year.
 The conference papers have been published in [ISPRS Archives](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-4-W17/) and [ISPRS Annals](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/IV-4-W9/).
 
 We thank the organisers, especially the conference chair Professor Sr Dr Alias bin Abdul Rahman ([3D GIS Research Lab, Faculty of Built Environment and Surveying, Universiti Teknologi Malaysia](http://builtsurvey.utm.my)), for the excellent organisation.

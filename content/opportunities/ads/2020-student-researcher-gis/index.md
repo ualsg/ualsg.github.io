@@ -56,5 +56,5 @@ Please apply by [email](mailto:filip@nus.edu.sg) (please write "Application for 
 
 ### Contact
 
-For more information feel free to contact [Dr Filip Biljecki](/authors/filip).
+For more information feel free to contact [Dr Filip Biljecki](/author/filip-biljecki/).
 

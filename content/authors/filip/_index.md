@@ -93,7 +93,7 @@ user_groups:
 - People
 ---
 
-Filip Biljecki is an Associate Professor at the Department of Architecture (College of Design and Engineering) and the Department of Real Estate (NUS Business School) at the National University of Singapore.
+Filip Biljecki is an Associate Professor at the Department of Architecture (College of Design and Engineering) at the National University of Singapore.
 He is the founder and the principal investigator of the [NUS Urban Analytics Lab](/).
 In the early stages of the Lab development, [he was appointed]({{< ref "/post/2020-07-filip-pyp/index.md" >}}) as NUS Presidential Young Professor.
 

@@ -21,7 +21,7 @@ It will include implementing software tools, drafting standards (e.g. advancing 
 For example, the researcher will be involved in coding translation mechanisms between datasets stored in different formats and spanning different scales, crunching big / dynamic / crowdsourced / geospatial data and developing software to make use of them, and visualisation.
 A portion of the project will involve data collection, e.g. imagery and point clouds.
 
-The research fellow will be supervised by the principal investigator [Dr Filip Biljecki](/authors/filip/), [NUS School of Design and Environment](http://www.sde.nus.edu.sg).
+The research fellow will be supervised by the principal investigator [Dr Filip Biljecki](/author/filip-biljecki/), [NUS School of Design and Environment](http://www.sde.nus.edu.sg).
 
 Candidates should have a computational affinity and a degree in computer science, geographical information science, geomatics, mechanical engineering, or another relevant field of study, with a demonstrated track record (in terms of working experience and/or publications/impact and/or other forms of output such as development of tools).
 
@@ -127,5 +127,5 @@ Shortlisted candidates will later be asked to provide the full documentation, e.
 
 ### Contact
 
-For more information feel free to contact [Dr Filip Biljecki](/authors/filip).
+For more information feel free to contact [Dr Filip Biljecki](/author/filip-biljecki/).
 

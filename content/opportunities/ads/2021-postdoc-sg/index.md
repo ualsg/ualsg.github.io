@@ -23,7 +23,7 @@ The [Urban Analytics Lab](/) at the [National University of Singapore (NUS)](htt
 Positioned at the intersection of academia, industry, international organisations and government, the nature of the work is computational and practical.
 The successful applicant will be engaged on novel research lines and may be involved in collaboration with industry in projects related to smart cities.
 
-The research fellow will be supervised by the principal investigator [Dr Filip Biljecki](/authors/filip/), [NUS School of Design and Environment](http://www.sde.nus.edu.sg).
+The research fellow will be supervised by the principal investigator [Dr Filip Biljecki](/author/filip-biljecki/), [NUS School of Design and Environment](http://www.sde.nus.edu.sg).
 
 Candidates should have a computational affinity and a PhD degree (e.g. in computer science, geographical information science, geomatics, architecture, mechanical engineering, or another relevant field of study), preferably with a demonstrated track record (in terms of publications/impact and/or other forms of output such as development of tools).
 
@@ -114,4 +114,4 @@ Shortlisted candidates will later be asked to provide the full documentation, e.
 
 ### Contact
 
-For more information feel free to contact [Dr Filip Biljecki](/authors/filip).
+For more information feel free to contact [Dr Filip Biljecki](/author/filip-biljecki/).

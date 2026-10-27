@@ -20,7 +20,7 @@ The work will include implementing tools and drafting standards.
 
 Candidates should have a computational affinity and a PhD degree in geographical information science, computer science, geomatics, or another relevant field of study, with a successful track record (in terms of publications/impact and/or other forms of output).
 
-The research fellow will be supervised by the principal investigator [Dr Filip Biljecki](/authors/filip/), [NUS School of Design and Environment](http://www.sde.nus.edu.sg).
+The research fellow will be supervised by the principal investigator [Dr Filip Biljecki](/author/filip-biljecki/), [NUS School of Design and Environment](http://www.sde.nus.edu.sg).
 
 The Lab will provide a motivating, conducive, and flexible environment to explore the research fellow's interests and build skills required for future career steps.
 
@@ -103,7 +103,7 @@ Please apply by [email](mailto:filip@nus.edu.sg) (please write "Application for 
 
 * CV
 * Cover letter (up to 2 pages) briefly indicating (i) your outlook on the state of the art of the topic and your idea and research plans how would you improve it; and (ii) how do you intend to contribute to our growing research group and enhance its activities. The letter should also include the expected availability / preferred starting date.
-* A copy of at least one first-authored paper published in a [reputable journal](/post/2020/07/06/geospatial-and-urban-data-science-journals/) that mirrors your background and research so far. A link to the article is sufficient, no need to include a PDF in your email.
+* A copy of at least one first-authored paper published in a reputable journal that mirrors your background and research so far. A link to the article is sufficient, no need to include a PDF in your email.
 * Names and contact information for three referees.
 * Other materials that indicate possessing the [required qualifications](#required-qualifications), e.g. link to a public Github repository you have developed, talks, and portfolio.
 
@@ -125,5 +125,5 @@ Shortlisted candidates will later be asked to provide the full documentation, e.
 
 ### Contact
 
-For more information feel free to contact [Dr Filip Biljecki](/authors/filip).
+For more information feel free to contact [Dr Filip Biljecki](/author/filip-biljecki/).
 

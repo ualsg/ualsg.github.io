@@ -25,7 +25,7 @@ We welcome interested applicants to develop a short research proposal, which we 
 
 Candidates should have a computational affinity and a PhD degree in geographical information science, computer science, geomatics, or another relevant field of study, preferably with a successful track record (in terms of publications/impact and/or other forms of output).
 
-The research fellow will be supervised by the principal investigator [Dr Filip Biljecki](/authors/filip/), [NUS School of Design and Environment](http://www.sde.nus.edu.sg).
+The research fellow will be supervised by the principal investigator [Dr Filip Biljecki](/author/filip-biljecki/), [NUS School of Design and Environment](http://www.sde.nus.edu.sg).
 
 The Lab will provide a motivating, conducive, and flexible environment to explore the research fellow's interests and build skills required for future career steps
 
@@ -71,5 +71,5 @@ Please do so by [email](mailto:filip@nus.edu.sg) (please write "ASEAN Fellowship
 
 ### Contact
 
-For more information feel free to contact [Dr Filip Biljecki](/authors/filip).
+For more information feel free to contact [Dr Filip Biljecki](/author/filip-biljecki/).
 
