@@ -22,7 +22,26 @@ Want to join us in your PhD journey? Read [this guide](/opportunities/applicatio
 |-----------|----------|---------------------------------------------|
 | [Binyu Lei](https://binyulei.github.io/) | Oct 2025 | Urban Digital Twins: From Conceptualisation to Adoption Through a Human-Centric Lens |
 | [Winston Yap](https://www.winstonyym.com) | Nov 2025 | Urban Graph Analytics: Connecting Cities, Data, and People |
+| [Koichi Ito](https://koichiito.com) | Oct 2026 | Human-centric Analysis of Cycling: The Nexus of Perception, Choice, and Heterogeneity |
 |           |          |                                             |
+
+---
+
+## Dr Koichi Ito (2026)
+
+Candidate: [Koichi Ito](https://koichiito.com/) (Master of Urban Planning, National University of Singapore, 2021)
+
+Thesis: Human-centric Analysis of Cycling: The Nexus of Perception, Choice, and Heterogeneity
+
+Defence: October 2026 (see [blog post]({{< relref "/post/2026-10-koichi-phd" >}}))
+
+Thesis advisor: {{% mention "filip" %}}. Committee members: Eddie Lau, Hao Li, Yuan Chao
+
+Next position: Urban Development Specialist (Young Professional) at the Asian Development Bank (ADB).
+
+![](2026_Koichi_1.jpg)
+
+![](2026_Koichi_2.jpg)
 
 ---
 
