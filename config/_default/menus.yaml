@@ -63,10 +63,14 @@ main:
     parent: 'geospatial resources'
     url: '/project/sp-survey/'
     weight: 57
+  - name: 'urbanity'
+    parent: 'geospatial resources'
+    url: '/project/urbanity/'
+    weight: 58
   - name: 'global building morphology indicators'
     parent: 'geospatial resources'
     url: '/project/gbmi/'
-    weight: 58
+    weight: 59
   - name: 'open data SG'
     parent: 'geospatial resources'
     url: '/project/open-urban-data-singapore/'
