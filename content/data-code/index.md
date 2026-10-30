@@ -271,7 +271,7 @@ If you are interested in collaborating with us, please get in touch with the lea
 | ------------------| ------------------------------ |
 | Short description: | A network-based python package to understand and model urban complexity |
 | Lead developer: | {{% mention "winston" %}} |
-| Further reading: | Please read the [paper](https://doi.org/10.1038/s42949-023-00125-w) published in npj Urban Sustainability |
+| Further reading: | Please read more at our [website]({{< ref "/project/urbanity/index.md" >}}) or in the papers published in [npj Urban Sustainability](https://doi.org/10.1038/s42949-023-00125-w) (software) and [Scientific Data](https://doi.org/10.1038/s41597-023-02578-1) (dataset) |
 | Code: | [<i class="fab fa-github"></i>  Github repo](https://github.com/winstonyym/urbanity) |
 | Data: | [<i class="fa-solid fa-download"></i> Figshare](https://doi.org/10.6084/m9.figshare.22124219) |
 | Main data source(s): | OpenStreetMap, Mapillary, etc. |
