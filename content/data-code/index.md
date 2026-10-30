@@ -133,7 +133,7 @@ If you are interested in collaborating with us, please get in touch with the lea
 | Lead developer: | {{% mention "sijie" %}} |
 | Further reading: | Please read the [paper](https://doi.org/10.1016/j.buildenv.2025.112569) published in BAE |
 | Website: | [<i class="fas fa-home"></i> Website](https://sp-survey.org) |
-| Code: | [<i class="fab fa-github"></i>  Github repo](https://github.com/Sijie-Yang/Streetscape-Perception-Survey) |
+| Code: | [<i class="fab fa-github"></i>  Github repo](https://github.com/Sijie-Yang/SP-Survey) |
 | Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
 @article{2025_bae_thermal,
   author = {Yang, Sijie and Chong, Adrian and Liu, Pengyuan and Biljecki, Filip},

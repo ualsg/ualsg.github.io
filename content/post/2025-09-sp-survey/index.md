@@ -33,7 +33,7 @@ projects: []
 We are glad to announce that our {{% mention "sijie" %}} has developed an open-source platform for streetscape perception research.
 SP-Survey is a simple and powerful platform for conducting streetscape perception surveys with image-based questions.
 It can be deployed in minutes.
-Check it out on [Github](https://github.com/Sijie-Yang/Streetscape-Perception-Survey)! 
+Check it out on [Github](https://github.com/Sijie-Yang/SP-Survey)! 
 
 ![](1.png)
 
