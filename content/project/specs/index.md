@@ -1,6 +1,6 @@
 ---
 title: SPECS
-summary: An open framework for architectural caption and attribute data enrichment via street view imagery.
+summary: A massive urban visual perception survey including 1000 people globally, with their demographic and personality data.
 authors: [matias, gu-youlong, xiucheng, yujun, koichi, yihan, mahmoud, filip]
 profile: true  # Show author profile?
 date: 2025-11-02T09:30:16+08:00

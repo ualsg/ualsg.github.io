@@ -21,7 +21,7 @@ image:
 
 The project has [a website](https://sp-survey.org).
 
-It is available openly on [GitHub](https://github.com/Sijie-Yang/Streetscape-Perception-Survey).
+It is available openly on [GitHub](https://github.com/Sijie-Yang/SP-Survey).
 
 ## Video
 

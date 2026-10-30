@@ -167,7 +167,7 @@ Our dataset covers data that was uploaded to Mapillary and KartaView in the 688 
 
 ## Licence
 
-The project is licenced according to [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+The project is licenced according to [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 That means that you can use our work for pretty much anything as long as you attribute it properly depending on the context (cite our [paper](https://doi.org/10.1016/j.isprsjprs.2024.06.023), mention the name of the project, source & author of the data, link to this website, etc.).
 Preferably, please also mention [Mapillary](https://www.mapillary.com) and [KartaView](https://kartaview.org), as this project wouldn't be possible without their awesome contributors and companies managing these platforms.
 
