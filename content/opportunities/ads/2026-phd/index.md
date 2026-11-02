@@ -72,6 +72,7 @@ You should demonstrate that you possess:
 The PhD researchers will be enrolled in the graduate programme of our Department and our College, and will be expected to fulfil requirements such as coursework and Qualifying Examination.
 For more information, check [this page](https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/ph-d-master-of-engineering/).
 Please also check [this guide that we prepared (including a FAQ)](/opportunities/application-guide/).
+To see who has completed a PhD with us, their theses and where they went next, visit [our doctors page](/doctors).
 
 
 ### PhD scholarship
