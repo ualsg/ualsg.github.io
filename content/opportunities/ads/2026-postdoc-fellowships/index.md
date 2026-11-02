@@ -9,7 +9,9 @@ title = "Vacancy: Postdoctoral researchers via external fellowship schemes at NU
 {{% callout note %}}
 These are externally funded fellowship schemes leading to positions in our Lab.
 If you are a strong match, we will support your application as your host / mentor at NUS.
-Deadlines of the current rounds: 30 October 2026 (NRF Postdoctoral Award) and early December 2026 (Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship, internal NUS deadline).
+Deadlines of the current rounds: ~~30 October 2026 (NRF Postdoctoral Award) and~~ early December 2026 (Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship, internal NUS deadline).
+It is not possible to apply anymore to the current round of the NRF Postdoctoral Award.
+Thanks to all the applicants for their interest.
 {{% /callout %}}
 
 ### External fellowships for a postdoc with us
@@ -30,7 +32,7 @@ The proposed research should fit one of the four domains of Singapore's [RIE2030
 
 The application is a single PDF containing a cover letter, a detailed CV with your Scopus Author ID and full publication list, a two-page research proposal, your five most significant publications with a note on your contribution to each, the details and a support letter of the NUS host principal investigator (that would be us), and three referees including your PhD supervisor.
 
-The current round closes on 30 October 2026.
+~~The current round closes on 30 October 2026.~~ It is not possible to apply anymore to this round.
 
 ### Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship
 
@@ -49,7 +51,7 @@ Please contact us at least a few weeks before that.
 ### Which one should you go for?
 
 The eligibility rules mostly decide this for you.
-If your PhD is in computer science or a related field, only the NRF Postdoctoral Award is open to you.
+If your PhD is in computer science or a related field, only the NRF Postdoctoral Award is open to you, and its current round has closed.
 If your PhD is in a domain discipline (geography, urban planning, geomatics, engineering, architecture...) and you would like to move towards AI-driven research, the Schmidt fellowship was designed for such a move, and it is the more suitable of the two.
 
 Where both are open to you, the trade-off is roughly as follows: the NRF award gives a longer runway and a personal research grant, which helps if you want to build an independent research identity towards a faculty career; the Schmidt fellowship is a focused two-year stint with dedicated postdoctoral training and a cohort of fellows across the host universities.
@@ -64,7 +66,7 @@ For more about the environment and what we look for, see our [About](/about) and
 
 ### How to get in touch
 
-Please apply by email to [ual@nus.edu.sg](mailto:ual@nus.edu.sg), indicating the scheme in the subject line ("NRF Postdoctoral Award" or "Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship"), and including:
+Please apply by email to [ual@nus.edu.sg](mailto:ual@nus.edu.sg), indicating the scheme in the subject line (~~"NRF Postdoctoral Award" or~~ "Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship"), and including:
 
 + Your academic CV with the full publication list.
 + A few paragraphs on what you would like to work on and how it connects to our recent [publications](/publication).
