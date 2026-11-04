@@ -69,6 +69,7 @@ Please refer to the [NUS Non-Graduating Programme](http://www.nus.edu.sg/registr
 
 Every year, we work with a number of highly motivated, independent, and talented (primarily master) students to work on graduation projects (theses/dissertations) in our research domain.
 That is the main channel how students work with us.
+We do not supervise master theses of students who are not studying at our university.
 
 Such mode of work has been mutually quite productive, as above average quality projects [have been published in top journals and conferences](/publication), enhancing students' CVs and boosting their applications to PhD programmes.
 At the same time, we are happy that the [multidisciplinary spectrum and interest of the students]({{< ref "/post/2020-11-new-student-researchers/index.md" >}}) and the research has enriched the breadth of expertise and knowledge of our group.
@@ -79,10 +80,7 @@ It is possible to discuss a topic that will suit your background and interest.
 
 ## Students from outside NUS looking for an internship 
 
-In principle, we are not able to offer internships to students who are not studying at our university.
-However, there are some exceptions depending on bilateral agreements and similar.
-For example, we are accepting undergraduates from universities in Germany thanks to the [DAAD RISE Worldwide program](https://www.daad.de/rise/de/rise-weltweit/).
-If your university or country has a similar programme, or it is associated with NUS in one way or another, or if you have another funding arrangement to come and spend time in Singapore, contact us to enquiry whether we are able to welcome you and have you join an ongoing project.
+We do not offer internships to undergraduate or master students who are not studying at our university.
 
 ## Contact
 
