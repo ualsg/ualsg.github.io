@@ -236,7 +236,7 @@ If you find a major issue that we have not documented, please contact us.
 
 In principle, we welcome collaborations if we will have bandwidth for them and if there is a match.
 Please [get in touch](/#contact).
-Further, [we welcome visiting scholars to our group](/opportunities/vacancies).
+Further, [we welcome visiting scholars to our group](/opportunities/application-guide/#visiting-scholars-up-to-12-months).
 
 ### Do you have a plan for future updates? Is there going to be a v2?
 

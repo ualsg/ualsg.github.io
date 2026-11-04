@@ -8,7 +8,7 @@ banner:
 ---
 
 If you are a motivated and talented graduate student at NUS, it is possible to conduct your thesis with us.
-We do not supervise master theses of students who are not studying at our university.
+We do not supervise theses of undergraduate or master students who are not studying at our university.
 Each year, we offer supervision and guidance to a few students interested in pursuing projects related to urban data science, GIScience, and 3D city modelling.
 
 Some student projects in the past were accepted for academic conference or even published in leading journals.

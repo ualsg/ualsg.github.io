@@ -18,7 +18,7 @@ We welcome motivated and talented prospective researchers from diverse disciplin
 + **PhD applicants**: stay on this page. We accept PhD applicants twice a year (in line with the intakes in the doctoral programme at our school). This page covers requirements, the application process, contacting us, and [frequently asked questions](#faq). Please note that we do not offer a masters by research, and do not accept self-funded PhD students.
 + **Jobs (e.g. research assistant, postdoc, and similar roles)**: first please check whether we have current [openings](/opportunities/vacancies/). These positions depend on funded projects and are advertised when available; while this guide serves as useful background. We also accept prospective postdocs who would like to apply for an [externally funded fellowship](../fellowships).
 + **Visiting scholars**: stay on this page and please see the [visiting scholars](#visiting-scholars-up-to-12-months) section for how to propose a stay, what we look for, and practical points (funding, timing, non-graduating student enrolment).
-+ **Internships**: we do not offer internships to undergraduate or master students who are not studying at NUS.
++ **Internships and theses**: we do not offer internships or thesis supervision to undergraduate or master students who are not studying at NUS.
 
 This page contains also [answers to frequently asked questions](#faq).
 
@@ -210,7 +210,7 @@ Good luck!
 ## Visiting scholars (up to 12 months)
 
 {{% callout note %}}
-We are grateful for the many requests for research visits we receive each year. As we keep our team small and cohesive, and are subject to administrative caps on the number of visitors at NUS, we are able to host only a few visiting scholars each year. Securing funding or a scholarship (e.g. from the China Scholarship Council, CSC) is an important first step, but it does not by itself guarantee a visit. Visits are preferably aligned with the [semesters at NUS](https://www.nus.edu.sg/registrar/academic-calendar). Please get in touch with us by:
+We are grateful for the many requests for research visits we receive each year. As we keep our team small and cohesive, and are subject to administrative caps on the number of visitors at NUS, we are able to host only a few visiting scholars each year. We accept only visitors at PhD level and above, and we regret that undergraduate and master students cannot be accepted as visitors. Securing funding or a scholarship (e.g. from the CSC) is an important first step, but it does not by itself guarantee a visit. Visits are preferably aligned with the [semesters at NUS](https://www.nus.edu.sg/registrar/academic-calendar). Please get in touch with us by:
 
 + **15 June** for a start around January the following year;
 + **15 November** for a start around August the following year.
@@ -252,6 +252,7 @@ On occasion, we may be able to consider a visit at shorter notice, but never les
 
 **Funding and accommodation.** NUS does not offer funding or accommodation for visiting scholars.
 Most of our visitors have been supported by their home universities, research projects, government schemes such as the CSC, or [other funding streams](/opportunities/fellowships/).
+Depending on your country of residence and position, there may be opportunities for a funded stay, such as the [French-Singaporean research collaboration programme Merlion](https://www.campusfrance.org/fr/merlion) and the [US Fulbright Program](https://fulbrightscholars.org/).
 
 **Enrolment of visiting students.** Visiting PhD students are enrolled at NUS as [non-graduating students](https://www.nus.edu.sg/registrar/academic-information-policies/non-graduating), which also arranges their residence permit for longer stays.
 After we have agreed on the visit and endorsed it, the application must be submitted at least three months before the intended start date.
@@ -262,6 +263,9 @@ The application is made by the visiting student directly to the University; it i
 
 Much of the information on this website may be found of interest as well to those seeking a full-time job (RA, postdocs), but these depend on funded projects (they are on project basis).
 When we have openings, we post them on [our website with vacancies](https://ual.sg/opportunities/vacancies/), thus, you may want to keep an eye on the website occasionally or follow our social media accounts where we advertise them when they happen. For job opportunities at our university, at other research groups, you may want to check the [NUS Careers website](https://careers.nus.edu.sg/NUS/go/View-All-Jobs-for-NUS/546644/).
+
+In most cases, computational and programming skills are a must for research assistants, and evidence of them (e.g. developed GitHub repositories) will be appreciated.
+Publications are optional for junior roles.
 
 Postdoctoral research fellows are expected to be independent, and have a demonstrated record of research excellence and a momentum in publishing (i.e. first-author papers in leading venues). 
 In a postdoc job with us, they will spearhead new research initiatives, manage and/or contribute to funding applications, and provide guidance to junior members.
