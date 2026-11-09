@@ -77,7 +77,7 @@ If you are unsure which scheme fits you, we can advise.
 We can endorse only a small number of candidates, and we will prioritise those whose interests fit our research agenda and who are likely to be competitive.
 
 Please also note that both schemes run their own selection processes; our support does not guarantee the award.
-For other external funding options (e.g. the [Lee Kuan Yew Postdoctoral Fellowship](https://www.nus.edu.sg/research/research-management/funding-opportunities/lee-kuan-yew-postdoctoral-fellowship)), see our [fellowships page](/opportunities/fellowships/).
+For other external funding options (e.g. the [Lee Kuan Yew Postdoctoral Fellowship](https://www.nus.edu.sg/research/odprt-home/fellowships/lee-kuan-yew-postdoctoral-fellowship)), see our [fellowships page](/opportunities/fellowships/).
 
 ### Contact
 

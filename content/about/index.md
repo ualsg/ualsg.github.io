@@ -22,12 +22,12 @@ Our research catalyses the development of spatial/urban data infrastructures and
 
 Crowdsourcing and user-generated geographic information play an important role in our research, and we follow and contribute to the vibrant developments in Volunteered Geographic Information (VGI) and tend to engage such data in our work.
 
-The research group was established in 2019 by its Director/PI Dr {{% mention "filip" %}}, Associate Professor at the [NUS College of Design and Engineering](https://www.cde.nus.edu.sg), and has been a home for [dozens of remarkable researchers](/people) who share ambitions about making our cities smarter and more data-driven.
+The research group was established in 2019 by its Director/PI Prof {{% mention "filip" %}}, Associate Professor at the [NUS College of Design and Engineering](https://www.cde.nus.edu.sg), and has been a home for [dozens of remarkable researchers](/people) who share ambitions about making our cities smarter and more data-driven.
 You can read more about our research agenda also in [an interview with the PI](https://news.nus.edu.sg/creating-a-map-for-the-future).
 
 ![](banner-gbmi.png)
 
-Within NUS and Singapore, we collaborate primarily with several sister labs such as the [Building and Urban Data Science (BUDS) Lab](https://www.budslab.org), the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io), the [Behavioural Cognitive Science (BeCoS) Lab](https://behaviourscience.org), the [City Syntax Lab](https://www.citysyntax.io), and the [Urban Climate Design Lab (UCDL)](https://www.sde.nus.edu.sg/arch/ucdl/), forging a constellation of research groups with complementary agendas operating at converging scales and with shared objectives.
+Within NUS and Singapore, we collaborate primarily with several sister labs such as the [Building and Urban Data Science (BUDS) Lab](https://www.budslab.org), the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io), the [Behavioural Cognitive Science (BeCoS) Lab](https://behaviourscience.org), the [City Syntax Lab](https://www.citysyntax.io), and the [Urban Climate Design Lab (UCDL)](https://cde.nus.edu.sg/arch-ucdl/), forging a constellation of research groups with complementary agendas operating at converging scales and with shared objectives.
 
 Besides funding from NUS and academic/government organisations such as Singapore's Ministry of Education, we also received support from industry, e.g. [Takenaka Corporation from Japan]({{< relref "/post/2023-04-takenaka-collaboration" >}}).
 
