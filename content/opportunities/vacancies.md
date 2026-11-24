@@ -23,5 +23,6 @@ Before contacting us, please read [our guide for prospective applicants](/opport
 + **Visiting scholars**: we accept only visitors at PhD level and above. Requests have fixed yearly deadlines and we can host only a few visitors. See [how to propose a visit](/opportunities/application-guide/#visiting-scholars-up-to-12-months).
 + **NUS master students**: please [contact us](/#contact) directly.
 + **Students from outside NUS**: we do not offer internships or thesis supervision to undergraduate or master students who are not studying at our university.
++ **Other options**: several of our alumni now lead their own groups; see [groups led by our alumni](/opportunities/application-guide/#groups-led-by-our-alumni).
 
 {{< past_openings >}}

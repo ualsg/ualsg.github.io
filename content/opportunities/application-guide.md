@@ -19,6 +19,7 @@ We welcome motivated and talented prospective researchers from diverse disciplin
 + **Jobs (e.g. research assistant, postdoc, and similar roles)**: first please check whether we have current [openings](/opportunities/vacancies/). These positions depend on funded projects and are advertised when available; while this guide serves as useful background. We also accept prospective postdocs who would like to apply for an [externally funded fellowship](../fellowships).
 + **Visiting scholars**: stay on this page and please see the [visiting scholars](#visiting-scholars-up-to-12-months) section for how to propose a stay, what we look for, and practical points (funding, timing, non-graduating student enrolment).
 + **Internships and theses**: we do not offer internships or thesis supervision to undergraduate or master students who are not studying at NUS.
++ **Other options**: if we cannot take you, or if your interests are closer to theirs, consider the [groups led by our alumni](#groups-led-by-our-alumni).
 
 This page contains also [answers to frequently asked questions](#faq).
 
@@ -210,21 +211,22 @@ Good luck!
 ## Visiting scholars (up to 12 months)
 
 {{% callout note %}}
-We are grateful for the many requests for research visits we receive each year. As we keep our team small and cohesive, and are subject to administrative caps on the number of visitors at NUS, we are able to host only a few visiting scholars each year. We accept only visitors at PhD level and above, and we regret that undergraduate and master students cannot be accepted as visitors. Securing funding or a scholarship (e.g. from the CSC) is an important first step, but it does not by itself guarantee a visit. Visits are preferably aligned with the [semesters at NUS](https://www.nus.edu.sg/registrar/academic-calendar). Please get in touch with us by:
+We are grateful for the many requests for research visits we receive each year. As we keep our team small and cohesive, and are subject to administrative caps on the number of visitors at NUS, we are able to host only a handful of visiting scholars each year. We accept only visitors at PhD level and above, and we regret that at the moment we cannot accommodate undergraduate and master students from other universities. Securing funding or a scholarship (e.g. from the CSC) is an important step, but it does not by itself guarantee a visit. Visits are preferably aligned with the [semesters at NUS](https://www.nus.edu.sg/registrar/academic-calendar) and should last at least six months. Please get in touch with us by:
 
 + **15 June** for a start around January the following year;
 + **15 November** for a start around August the following year.
+
+Alternatively, consider the [groups led by our alumni](#groups-led-by-our-alumni).
 {{% /callout %}}
 
 We have hosted dozens of visiting PhD researchers from universities across Asia, Europe, and North America, as well as visiting postdocs (e.g. awardees of [postdoc fellowships](/opportunities/fellowships/)), typically for six to twelve months.
 These stays have been productive for both the visitors and our group, and many have led to [joint publications](/publication/) and lasting collaborations.
 Examples of papers led by visiting researchers include work on [urban soundscapes from street view imagery](/publication/2023-ceus-soundscapes/), [graph neural networks for urban functions](/publication/2023-ijprs-knowledge-topology/), and [perception of riverscapes from oblique imagery](/publication/2022-land-semantic-riverscapes/).
 
-During their stay, visitors are full members of our group: they work with us on campus, take part in our lab meetings and [seminars](/seminars/), and collaborate closely with one or more members of the group.
-Visitors present their previous work and plans at a lab seminar within the first month of their stay, and, for longer visits, the results towards the end.
-We expect visitors to dedicate at least 70–80% of their time here to the main project of their stay, which ideally starts after their arrival and is completed before they leave, typically resulting in a joint paper.
+During their stay, visitors are fully integrated into our group: they work on campus, take part in our lab meetings and [seminars](/seminars/), and collaborate closely with one or more members of the group.
+We expect visitors to dedicate at least 70–80% of their time here to the main project of their stay, which ideally starts after their arrival and is completed before they leave, typically resulting in a joint publication.
 
-A visit should benefit both sides, so fit with our group matters most.
+A visit should benefit both sides, so fit with our group is an important consideration.
 Before getting in touch, please look at our [website](/about), recent [blog posts](/post) and [papers](/publication/), and think about where your work overlaps with or complements ours.
 We prioritise visitors whose research is closely aligned with our agenda, who will integrate actively in the group, and who propose something they would not normally do at their home university.
 For visiting PhD students, the work done here should also contribute directly to their PhD at their home university.
@@ -234,11 +236,13 @@ To propose a visit, [contact us](/#contact) by the deadlines above with:
 
 + a brief research proposal (up to one page) that fits our agenda, with a timeline of what you plan to do during the stay;
 + your CV;
-+ the intended period of the stay (we prefer stays of six months or longer, which are more likely to lead to a meaningful collaboration);
++ the intended period of the stay (at least six months; longer stays are more likely to lead to a meaningful collaboration);
 + how the visit will be funded, or which funding scheme you plan to apply for.
 
 The proposal does not need to be detailed: apart from a general direction and scope, the exact topic usually takes shape through discussions with us during the first few weeks of the visit.
 It should nevertheless be carefully prepared and specific to our group, showing that you know our work and have thought about how your research fits with it; generic or hastily written proposals are not considered.
+
+It is not necessary to have funding secured first; we can endorse applications.
 
 **How the process works.**
 
@@ -247,17 +251,17 @@ It should nevertheless be carefully prepared and specific to our group, showing 
 3. If there is a match, we provide a letter of endorsement or invitation, e.g. for a scholarship application.
 4. Visiting students then apply to NUS as non-graduating students at least three months before the start date (see below).
 
-As a result, visits usually start seven to twelve months after the first contact.
+As a result, visits usually start several months after the first contact.
 On occasion, we may be able to consider a visit at shorter notice, but never less than three to four months before the start, which is the minimum needed for the NUS enrolment process.
 
 **Funding and accommodation.** NUS does not offer funding or accommodation for visiting scholars.
-Most of our visitors have been supported by their home universities, research projects, government schemes such as the CSC, or [other funding streams](/opportunities/fellowships/).
+Most of our visitors have been supported by their home universities, research projects, national schemes such as the CSC, or [other funding streams](/opportunities/fellowships/).
 Depending on your country of residence and position, there may be opportunities for a funded stay, such as the [French-Singaporean research collaboration programme Merlion](https://www.campusfrance.org/fr/merlion) and the [US Fulbright Program](https://fulbrightscholars.org/).
 
-**Enrolment of visiting students.** Visiting PhD students are enrolled at NUS as [non-graduating students](https://www.nus.edu.sg/registrar/academic-information-policies/non-graduating), which also arranges their residence permit for longer stays.
-After we have agreed on the visit and endorsed it, the application must be submitted at least three months before the intended start date.
+**Enrolment of visiting students.** Visiting PhD students are enrolled at NUS as [non-graduating students](https://www.nus.edu.sg/registrar/academic-information-policies/non-graduating), which also arranges their residence permit in Singapore.
+After we have agreed on the visit and endorsed it, the application to enrol at NUS must be submitted at least three months before the intended start date.
 There is no tuition fee, but non-graduating students pay research and miscellaneous fees each semester, which cover some healthcare services, visa processing (handled by the University on your behalf), and access to facilities such as the library.
-The application is made by the visiting student directly to the University; it is a separate process from our endorsement.
+The application is made by the visiting student directly to the University; it is a separate process done after our endorsement and discussions.
 
 ## Research assistants and research fellows (postdocs)
 
@@ -270,6 +274,18 @@ Publications are optional for junior roles.
 Postdoctoral research fellows are expected to be independent, and have a demonstrated record of research excellence and a momentum in publishing (i.e. first-author papers in leading venues). 
 In a postdoc job with us, they will spearhead new research initiatives, manage and/or contribute to funding applications, and provide guidance to junior members.
 Our Lab cultivates an environment that accords a degree of freedom in exploring own research ideas, and fosters careers of postdocs in several ways such as involvements in multiple projects and taking part in strategy development, paving the way for a potential faculty position.
+
+
+## Groups led by our alumni
+
+Several members of our Lab have gone on to lead their own research groups and supervise students, and we are proud to see them thrive.
+If their research is a closer match to your interests, or if we are unable to take you, please consider applying to them as a PhD researcher or visiting scholar.
+Each of them sets their own requirements and directions, so please check their websites for current opportunities and research agendas.
+
++ {{% mention "pengyuan" %}}, Lecturer (Assistant Professor) in Digital Planning at the University of Glasgow, leading [Liu's Gate](https://liugate.uk)
++ {{% mention "binyu" %}}, Assistant Professor in Urban Planning and Data Analytics at the [University of Birmingham Dubai](https://www.birmingham.ac.uk/staff/profiles/dubai/lei-binyu)
++ {{% mention "matias" %}}, Assistant Professor at the Singapore Management University, leading the [Computational Urban Systems (CUY) Lab](https://cuylab.org)
++ {{% mention "xiaofan-liang" %}}, Assistant Professor of Urban and Regional Planning at the [University of Michigan](https://www.xiaofanliang.com)
 
 
 ## FAQ
