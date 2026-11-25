@@ -282,10 +282,10 @@ Several members of our Lab have gone on to lead their own research groups and su
 If their research is a closer match to your interests, or if we are unable to take you, please consider applying to them as a PhD researcher or visiting scholar.
 Each of them sets their own requirements and directions, so please check their websites for current opportunities and research agendas.
 
-+ {{% mention "pengyuan" %}}, Lecturer (Assistant Professor) in Digital Planning at the University of Glasgow, leading [Liu's Gate](https://liugate.uk)
-+ {{% mention "binyu" %}}, Assistant Professor in Urban Planning and Data Analytics at the [University of Birmingham Dubai](https://www.birmingham.ac.uk/staff/profiles/dubai/lei-binyu)
-+ {{% mention "matias" %}}, Assistant Professor at the Singapore Management University, leading the [Computational Urban Systems (CUY) Lab](https://cuylab.org)
-+ {{% mention "xiaofan-liang" %}}, Assistant Professor of Urban and Regional Planning at the [University of Michigan](https://www.xiaofanliang.com)
++ [Pengyuan Liu](https://pengyuanliu1993.github.io), Lecturer (Assistant Professor) in Digital Planning at the University of Glasgow, leading [Liu's Gate](https://liugate.uk)
++ [Binyu Lei](https://binyulei.github.io), Assistant Professor in Urban Planning and Data Analytics at the University of Birmingham Dubai
++ [Matias Quintana](https://matiasquintana.com), Assistant Professor at the Singapore Management University, leading the [Computational Urban Systems (CUY) Lab](https://cuylab.org)
++ [Xiaofan Liang](https://www.xiaofanliang.com), Assistant Professor of Urban and Regional Planning at the University of Michigan
 
 
 ## FAQ
